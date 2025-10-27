@@ -1,11 +1,11 @@
 {
   "date": "2025-10-27",
-  "timeStamp": "2025-10-27_0626",
+  "timeStamp": "2025-10-27_0716",
   "markets": [
     {
-      "date": "2025-10-27_0626",
+      "date": "2025-10-27_0716",
       "source_board": "dem",
-      "as_of": "2025-10-27T10:15:01",
+      "as_of": "2025-10-27T11:15:01",
       "rows": [
         {
           "symbol_name": "ABC MOTORS",
@@ -51,8 +51,8 @@
           "latest_price": 3.0,
           "change": null,
           "percent_change": null,
-          "volume": 1000,
-          "value": 3000.0,
+          "volume": 7000,
+          "value": 21000.0,
           "closing_vwap": null
         },
         {
@@ -123,8 +123,8 @@
           "latest_price": 14.85,
           "change": null,
           "percent_change": null,
-          "volume": null,
-          "value": null,
+          "volume": 1,
+          "value": 14.9,
           "closing_vwap": null
         },
         {
@@ -183,8 +183,8 @@
           "latest_price": 1.29,
           "change": null,
           "percent_change": null,
-          "volume": null,
-          "value": null,
+          "volume": 1000,
+          "value": 1290.0,
           "closing_vwap": null
         },
         {
@@ -231,8 +231,8 @@
           "latest_price": 27.0,
           "change": null,
           "percent_change": null,
-          "volume": null,
-          "value": null,
+          "volume": 3,
+          "value": 81.0,
           "closing_vwap": null
         },
         {
@@ -255,8 +255,8 @@
           "latest_price": 0.12,
           "change": null,
           "percent_change": null,
-          "volume": null,
-          "value": null,
+          "volume": 2000,
+          "value": 240.0,
           "closing_vwap": null
         },
         {
@@ -315,8 +315,8 @@
           "latest_price": 3.95,
           "change": null,
           "percent_change": null,
-          "volume": null,
-          "value": null,
+          "volume": 51,
+          "value": 201.45,
           "closing_vwap": null
         },
         {
