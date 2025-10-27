@@ -1,11 +1,11 @@
 {
   "date": "2025-10-27",
-  "timeStamp": "2025-10-27_0919",
+  "timeStamp": "2025-10-27_1019",
   "markets": [
     {
-      "date": "2025-10-27_0919",
+      "date": "2025-10-27_1019",
       "source_board": "dem",
-      "as_of": "2025-10-27T13:15:01",
+      "as_of": "2025-10-27T14:15:00",
       "rows": [
         {
           "symbol_name": "ABC MOTORS",
@@ -51,8 +51,8 @@
           "latest_price": 3.0,
           "change": null,
           "percent_change": null,
-          "volume": 7000,
-          "value": 21000.0,
+          "volume": 8000,
+          "value": 24000.0,
           "closing_vwap": null
         },
         {
@@ -123,8 +123,8 @@
           "latest_price": 14.85,
           "change": null,
           "percent_change": null,
-          "volume": 1,
-          "value": 14.9,
+          "volume": 201,
+          "value": 2984.9,
           "closing_vwap": null
         },
         {
@@ -255,8 +255,8 @@
           "latest_price": 0.12,
           "change": null,
           "percent_change": null,
-          "volume": 106100,
-          "value": 12732.0,
+          "volume": 107100,
+          "value": 12852.0,
           "closing_vwap": null
         },
         {
@@ -346,13 +346,13 @@
         {
           "symbol_name": "QUALITY BEVERAGE",
           "currency": "MUR",
-          "trend": "unchanged",
+          "trend": "up",
           "last_closing_price": 16.0,
-          "latest_price": 16.0,
-          "change": null,
-          "percent_change": null,
-          "volume": null,
-          "value": null,
+          "latest_price": 16.1,
+          "change": 0.1,
+          "percent_change": 0.63,
+          "volume": 1000,
+          "value": 16100.0,
           "closing_vwap": null
         },
         {
@@ -399,8 +399,8 @@
           "latest_price": 1500.0,
           "change": null,
           "percent_change": null,
-          "volume": null,
-          "value": null,
+          "volume": 6,
+          "value": 9000.0,
           "closing_vwap": null
         },
         {
@@ -454,13 +454,13 @@
         {
           "symbol_name": "VELOGIC",
           "currency": "MUR",
-          "trend": "unchanged",
+          "trend": "up",
           "last_closing_price": 18.2,
-          "latest_price": 18.2,
-          "change": null,
-          "percent_change": null,
-          "volume": 1000,
-          "value": 18200.0,
+          "latest_price": 18.25,
+          "change": 0.05,
+          "percent_change": 0.27,
+          "volume": 4000,
+          "value": 72950.0,
           "closing_vwap": null
         }
       ]
