@@ -1,11 +1,11 @@
 {
   "date": "2025-10-27",
-  "timeStamp": "2025-10-27_0716",
+  "timeStamp": "2025-10-27_0822",
   "markets": [
     {
-      "date": "2025-10-27_0716",
+      "date": "2025-10-27_0822",
       "source_board": "dem",
-      "as_of": "2025-10-27T11:15:01",
+      "as_of": "2025-10-27T12:15:01",
       "rows": [
         {
           "symbol_name": "ABC MOTORS",
@@ -178,13 +178,13 @@
         {
           "symbol_name": "LAVASTONE",
           "currency": "MUR",
-          "trend": "unchanged",
+          "trend": "down",
           "last_closing_price": 1.29,
-          "latest_price": 1.29,
-          "change": null,
-          "percent_change": null,
-          "volume": 1000,
-          "value": 1290.0,
+          "latest_price": 1.26,
+          "change": -0.03,
+          "percent_change": -2.33,
+          "volume": 86984,
+          "value": 109894.22,
           "closing_vwap": null
         },
         {
@@ -423,8 +423,8 @@
           "latest_price": 181.25,
           "change": null,
           "percent_change": null,
-          "volume": null,
-          "value": null,
+          "volume": 50,
+          "value": 9062.5,
           "closing_vwap": null
         },
         {
@@ -459,8 +459,8 @@
           "latest_price": 18.2,
           "change": null,
           "percent_change": null,
-          "volume": null,
-          "value": null,
+          "volume": 1000,
+          "value": 18200.0,
           "closing_vwap": null
         }
       ]
