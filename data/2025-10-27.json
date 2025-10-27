@@ -1,11 +1,11 @@
 {
   "date": "2025-10-27",
-  "timeStamp": "2025-10-27_1019",
+  "timeStamp": "2025-10-27_1114",
   "markets": [
     {
-      "date": "2025-10-27_1019",
+      "date": "2025-10-27_1114",
       "source_board": "dem",
-      "as_of": "2025-10-27T14:15:00",
+      "as_of": "2025-10-27T15:00:00",
       "rows": [
         {
           "symbol_name": "ABC MOTORS",
@@ -372,11 +372,11 @@
           "currency": "MUR",
           "trend": "up",
           "last_closing_price": 0.68,
-          "latest_price": 0.72,
-          "change": 0.04,
-          "percent_change": 5.88,
-          "volume": 1000,
-          "value": 720.0,
+          "latest_price": 0.71,
+          "change": 0.03,
+          "percent_change": 4.41,
+          "volume": 4000,
+          "value": 2850.0,
           "closing_vwap": null
         },
         {
@@ -423,8 +423,8 @@
           "latest_price": 181.25,
           "change": null,
           "percent_change": null,
-          "volume": 50,
-          "value": 9062.5,
+          "volume": null,
+          "value": null,
           "closing_vwap": null
         },
         {
@@ -454,13 +454,13 @@
         {
           "symbol_name": "VELOGIC",
           "currency": "MUR",
-          "trend": "up",
+          "trend": "unchanged",
           "last_closing_price": 18.2,
-          "latest_price": 18.25,
-          "change": 0.05,
-          "percent_change": 0.27,
-          "volume": 4000,
-          "value": 72950.0,
+          "latest_price": 18.2,
+          "change": null,
+          "percent_change": null,
+          "volume": 5000,
+          "value": 91150.0,
           "closing_vwap": null
         }
       ]
