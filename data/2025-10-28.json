@@ -1,11 +1,11 @@
 {
   "date": "2025-10-28",
-  "timeStamp": "2025-10-28_0516",
+  "timeStamp": "2025-10-28_0624",
   "markets": [
     {
-      "date": "2025-10-28_0516",
+      "date": "2025-10-28_0624",
       "source_board": "dem",
-      "as_of": "2025-10-27T15:45:00",
+      "as_of": "2025-10-28T10:15:00",
       "rows": [
         {
           "symbol_name": "ABC MOTORS",
@@ -17,7 +17,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 105.0
+          "closing_vwap": null
         },
         {
           "symbol_name": "ASSOCIATED COM",
@@ -29,7 +29,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 209.5
+          "closing_vwap": null
         },
         {
           "symbol_name": "ATTITUDE",
@@ -39,9 +39,9 @@
           "latest_price": 11.0,
           "change": null,
           "percent_change": null,
-          "volume": null,
-          "value": null,
-          "closing_vwap": 11.0
+          "volume": 200,
+          "value": 2200.0,
+          "closing_vwap": null
         },
         {
           "symbol_name": "BEAU VALLON HOSP",
@@ -51,9 +51,9 @@
           "latest_price": 3.0,
           "change": null,
           "percent_change": null,
-          "volume": 8000,
-          "value": 24000.0,
-          "closing_vwap": 3.0
+          "volume": null,
+          "value": null,
+          "closing_vwap": null
         },
         {
           "symbol_name": "C-CARE",
@@ -65,7 +65,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 8.22
+          "closing_vwap": null
         },
         {
           "symbol_name": "CAVELL TOURISTIC",
@@ -77,7 +77,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 46.9
+          "closing_vwap": null
         },
         {
           "symbol_name": "CIE IMMOBILIERE",
@@ -89,7 +89,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 20.7
+          "closing_vwap": null
         },
         {
           "symbol_name": "CONSTANCE",
@@ -101,7 +101,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 142.0
+          "closing_vwap": null
         },
         {
           "symbol_name": "CONSTANCE HOTEL",
@@ -111,9 +111,9 @@
           "latest_price": 15.9,
           "change": null,
           "percent_change": null,
-          "volume": null,
-          "value": null,
-          "closing_vwap": 15.9
+          "volume": 36,
+          "value": 572.4,
+          "closing_vwap": null
         },
         {
           "symbol_name": "EUDCOS",
@@ -123,9 +123,9 @@
           "latest_price": 14.85,
           "change": null,
           "percent_change": null,
-          "volume": 201,
-          "value": 2984.9,
-          "closing_vwap": 14.85
+          "volume": null,
+          "value": null,
+          "closing_vwap": null
         },
         {
           "symbol_name": "GAZ INDUSTRIELS",
@@ -137,7 +137,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 46.0
+          "closing_vwap": null
         },
         {
           "symbol_name": "HOTELEST",
@@ -149,7 +149,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 14.0
+          "closing_vwap": null
         },
         {
           "symbol_name": "HWP",
@@ -161,7 +161,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 7.5
+          "closing_vwap": null
         },
         {
           "symbol_name": "KOLOS",
@@ -173,19 +173,19 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 148.0
+          "closing_vwap": null
         },
         {
           "symbol_name": "LAVASTONE",
           "currency": "MUR",
-          "trend": "down",
-          "last_closing_price": 1.29,
+          "trend": "unchanged",
+          "last_closing_price": 1.26,
           "latest_price": 1.26,
-          "change": -0.03,
-          "percent_change": -2.33,
-          "volume": 86984,
-          "value": 109894.22,
-          "closing_vwap": 1.26
+          "change": null,
+          "percent_change": null,
+          "volume": null,
+          "value": null,
+          "closing_vwap": null
         },
         {
           "symbol_name": "LES MOULINS (O)",
@@ -197,7 +197,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 71.31
+          "closing_vwap": null
         },
         {
           "symbol_name": "LES MOULINS (P)",
@@ -209,7 +209,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 361.0
+          "closing_vwap": null
         },
         {
           "symbol_name": "LIVESTOCK (O)",
@@ -221,7 +221,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 18.24
+          "closing_vwap": null
         },
         {
           "symbol_name": "LIVESTOCK (P)",
@@ -231,9 +231,9 @@
           "latest_price": 27.0,
           "change": null,
           "percent_change": null,
-          "volume": 3,
-          "value": 81.0,
-          "closing_vwap": 27.0
+          "volume": null,
+          "value": null,
+          "closing_vwap": null
         },
         {
           "symbol_name": "MFD GROUP",
@@ -245,7 +245,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 10.0
+          "closing_vwap": null
         },
         {
           "symbol_name": "MIWA  (USD)",
@@ -255,9 +255,9 @@
           "latest_price": 0.12,
           "change": null,
           "percent_change": null,
-          "volume": 107100,
-          "value": 584393.29,
-          "closing_vwap": 0.12
+          "volume": 5000,
+          "value": 600.0,
+          "closing_vwap": null
         },
         {
           "symbol_name": "MORNING LIGHT",
@@ -267,9 +267,9 @@
           "latest_price": 16.0,
           "change": null,
           "percent_change": null,
-          "volume": null,
-          "value": null,
-          "closing_vwap": 16.0
+          "volume": 100,
+          "value": 1600.0,
+          "closing_vwap": null
         },
         {
           "symbol_name": "MTIUS COSMETICS",
@@ -281,7 +281,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 15.9
+          "closing_vwap": null
         },
         {
           "symbol_name": "MTIUS SEC. IND.",
@@ -293,7 +293,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 35.0
+          "closing_vwap": null
         },
         {
           "symbol_name": "NOVUS",
@@ -305,7 +305,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 7.8
+          "closing_vwap": null
         },
         {
           "symbol_name": "OCEANARIUM",
@@ -315,9 +315,9 @@
           "latest_price": 3.95,
           "change": null,
           "percent_change": null,
-          "volume": 51,
-          "value": 201.45,
-          "closing_vwap": 3.95
+          "volume": null,
+          "value": null,
+          "closing_vwap": null
         },
         {
           "symbol_name": "PAPER CON CO LTD",
@@ -329,7 +329,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 12.0
+          "closing_vwap": null
         },
         {
           "symbol_name": "PHOENIX INV",
@@ -341,19 +341,19 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 425.0
+          "closing_vwap": null
         },
         {
           "symbol_name": "QUALITY BEVERAGE",
           "currency": "MUR",
-          "trend": "up",
-          "last_closing_price": 16.0,
+          "trend": "unchanged",
+          "last_closing_price": 16.1,
           "latest_price": 16.1,
-          "change": 0.1,
-          "percent_change": 0.63,
-          "volume": 1000,
-          "value": 16100.0,
-          "closing_vwap": 16.1
+          "change": null,
+          "percent_change": null,
+          "volume": null,
+          "value": null,
+          "closing_vwap": null
         },
         {
           "symbol_name": "RHT HOLDING LTD",
@@ -365,19 +365,19 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 12.05
+          "closing_vwap": null
         },
         {
           "symbol_name": "SEMARIS",
           "currency": "MUR",
-          "trend": "up",
-          "last_closing_price": 0.68,
+          "trend": "unchanged",
+          "last_closing_price": 0.71,
           "latest_price": 0.71,
-          "change": 0.03,
-          "percent_change": 4.41,
-          "volume": 4000,
-          "value": 2850.0,
-          "closing_vwap": 0.71
+          "change": null,
+          "percent_change": null,
+          "volume": null,
+          "value": null,
+          "closing_vwap": null
         },
         {
           "symbol_name": "SIT LAND HDG OPT",
@@ -387,9 +387,9 @@
           "latest_price": 6780.0,
           "change": null,
           "percent_change": null,
-          "volume": 2,
-          "value": 13560.0,
-          "closing_vwap": 6780.0
+          "volume": null,
+          "value": null,
+          "closing_vwap": null
         },
         {
           "symbol_name": "SWAN LIFE LTD",
@@ -399,9 +399,9 @@
           "latest_price": 1500.0,
           "change": null,
           "percent_change": null,
-          "volume": 6,
-          "value": 9000.0,
-          "closing_vwap": 1500.0
+          "volume": null,
+          "value": null,
+          "closing_vwap": null
         },
         {
           "symbol_name": "TROPICAL PAR (O)",
@@ -411,9 +411,9 @@
           "latest_price": 3.8,
           "change": null,
           "percent_change": null,
-          "volume": 400,
-          "value": 1520.0,
-          "closing_vwap": 3.8
+          "volume": null,
+          "value": null,
+          "closing_vwap": null
         },
         {
           "symbol_name": "TROPICAL PAR (P)",
@@ -425,7 +425,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 181.25
+          "closing_vwap": null
         },
         {
           "symbol_name": "UNION SUG ESTATE",
@@ -437,7 +437,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 99.0
+          "closing_vwap": null
         },
         {
           "symbol_name": "UTD BUS SERVICE",
@@ -449,7 +449,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": 40.6
+          "closing_vwap": null
         },
         {
           "symbol_name": "VELOGIC",
@@ -459,9 +459,9 @@
           "latest_price": 18.2,
           "change": null,
           "percent_change": null,
-          "volume": 5000,
-          "value": 91150.0,
-          "closing_vwap": 18.23
+          "volume": null,
+          "value": null,
+          "closing_vwap": null
         }
       ]
     }
