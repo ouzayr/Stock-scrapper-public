@@ -1,11 +1,11 @@
 {
   "date": "2025-10-28",
-  "timeStamp": "2025-10-28_0624",
+  "timeStamp": "2025-10-28_0715",
   "markets": [
     {
-      "date": "2025-10-28_0624",
+      "date": "2025-10-28_0715",
       "source_board": "dem",
-      "as_of": "2025-10-28T10:15:00",
+      "as_of": "2025-10-28T11:15:00",
       "rows": [
         {
           "symbol_name": "ABC MOTORS",
@@ -310,13 +310,13 @@
         {
           "symbol_name": "OCEANARIUM",
           "currency": "MUR",
-          "trend": "unchanged",
+          "trend": "down",
           "last_closing_price": 3.95,
-          "latest_price": 3.95,
-          "change": null,
-          "percent_change": null,
-          "volume": null,
-          "value": null,
+          "latest_price": 3.9,
+          "change": -0.05,
+          "percent_change": -1.27,
+          "volume": 100,
+          "value": 390.0,
           "closing_vwap": null
         },
         {
@@ -351,8 +351,8 @@
           "latest_price": 16.1,
           "change": null,
           "percent_change": null,
-          "volume": null,
-          "value": null,
+          "volume": 700,
+          "value": 11270.0,
           "closing_vwap": null
         },
         {
@@ -387,8 +387,8 @@
           "latest_price": 6780.0,
           "change": null,
           "percent_change": null,
-          "volume": null,
-          "value": null,
+          "volume": 2,
+          "value": 13565.0,
           "closing_vwap": null
         },
         {
@@ -459,8 +459,8 @@
           "latest_price": 18.2,
           "change": null,
           "percent_change": null,
-          "volume": null,
-          "value": null,
+          "volume": 100,
+          "value": 1820.0,
           "closing_vwap": null
         }
       ]
