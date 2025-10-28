@@ -1,11 +1,11 @@
 {
   "date": "2025-10-28",
-  "timeStamp": "2025-10-28_1018",
+  "timeStamp": "2025-10-28_1113",
   "markets": [
     {
-      "date": "2025-10-28_1018",
+      "date": "2025-10-28_1113",
       "source_board": "dem",
-      "as_of": "2025-10-28T14:15:00",
+      "as_of": "2025-10-28T15:00:00",
       "rows": [
         {
           "symbol_name": "ABC MOTORS",
@@ -51,8 +51,8 @@
           "latest_price": 3.0,
           "change": null,
           "percent_change": null,
-          "volume": null,
-          "value": null,
+          "volume": 156000,
+          "value": 468000.0,
           "closing_vwap": null
         },
         {
@@ -219,8 +219,8 @@
           "latest_price": 18.0,
           "change": null,
           "percent_change": null,
-          "volume": 229,
-          "value": 4122.0,
+          "volume": 1598,
+          "value": 28764.0,
           "closing_vwap": null
         },
         {
