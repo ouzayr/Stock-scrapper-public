@@ -1,11 +1,11 @@
 {
   "date": "2025-10-28",
-  "timeStamp": "2025-10-28_0917",
+  "timeStamp": "2025-10-28_1018",
   "markets": [
     {
-      "date": "2025-10-28_0917",
+      "date": "2025-10-28_1018",
       "source_board": "dem",
-      "as_of": "2025-10-28T13:15:00",
+      "as_of": "2025-10-28T14:15:00",
       "rows": [
         {
           "symbol_name": "ABC MOTORS",
@@ -183,8 +183,8 @@
           "latest_price": 1.28,
           "change": 0.02,
           "percent_change": 1.59,
-          "volume": 25100,
-          "value": 32179.0,
+          "volume": 30100,
+          "value": 38579.0,
           "closing_vwap": null
         },
         {
@@ -255,8 +255,8 @@
           "latest_price": 0.12,
           "change": null,
           "percent_change": null,
-          "volume": 5026,
-          "value": 603.12,
+          "volume": 1147882,
+          "value": 137745.84,
           "closing_vwap": null
         },
         {
@@ -346,13 +346,13 @@
         {
           "symbol_name": "QUALITY BEVERAGE",
           "currency": "MUR",
-          "trend": "unchanged",
+          "trend": "up",
           "last_closing_price": 16.1,
-          "latest_price": 16.1,
-          "change": null,
-          "percent_change": null,
-          "volume": 700,
-          "value": 11270.0,
+          "latest_price": 16.2,
+          "change": 0.1,
+          "percent_change": 0.62,
+          "volume": 1700,
+          "value": 27470.0,
           "closing_vwap": null
         },
         {
