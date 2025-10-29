@@ -1,11 +1,11 @@
 {
   "date": "2025-10-29",
-  "timeStamp": "2025-10-29_0917",
+  "timeStamp": "2025-10-29_1018",
   "markets": [
     {
-      "date": "2025-10-29_0917",
+      "date": "2025-10-29_1018",
       "source_board": "official",
-      "as_of": "2025-10-29T13:15:00",
+      "as_of": "2025-10-29T14:15:00",
       "rows": [
         {
           "symbol_name": "ABCB HOLDINGS",
@@ -15,8 +15,8 @@
           "latest_price": 18.65,
           "change": -0.05,
           "percent_change": -0.27,
-          "volume": 5200,
-          "value": 97090.0,
+          "volume": 5800,
+          "value": 108280.0,
           "closing_vwap": null,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/abcb-holdings-limited?market=official",
           "market": "official"
@@ -113,8 +113,8 @@
           "latest_price": 11.5,
           "change": null,
           "percent_change": null,
-          "volume": 12298,
-          "value": 141427.0,
+          "volume": 117998,
+          "value": 1351977.0,
           "closing_vwap": null,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/alteo-limited?market=official",
           "market": "official"
@@ -136,13 +136,13 @@
         {
           "symbol_name": "ASCENCIA",
           "currency": "MUR",
-          "trend": "unchanged",
+          "trend": "up",
           "last_closing_price": 19.0,
-          "latest_price": 19.0,
-          "change": null,
-          "percent_change": null,
-          "volume": 2300,
-          "value": 43700.0,
+          "latest_price": 19.35,
+          "change": 0.35,
+          "percent_change": 1.84,
+          "volume": 2400,
+          "value": 45635.0,
           "closing_vwap": null,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/ascencia-limited-ordinary?market=official",
           "market": "official"
@@ -435,8 +435,8 @@
           "latest_price": 47.0,
           "change": null,
           "percent_change": null,
-          "volume": 21200,
-          "value": 996400.0,
+          "volume": 21203,
+          "value": 996542.5,
           "closing_vwap": null,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/lux-island-resorts-ltd?market=official",
           "market": "official"
@@ -444,13 +444,13 @@
         {
           "symbol_name": "MCB GROUP",
           "currency": "MUR",
-          "trend": "unchanged",
+          "trend": "down",
           "last_closing_price": 473.0,
-          "latest_price": 473.0,
-          "change": null,
-          "percent_change": null,
-          "volume": 3328,
-          "value": 1574144.0,
+          "latest_price": 472.0,
+          "change": -1.0,
+          "percent_change": -0.21,
+          "volume": 8328,
+          "value": 3936646.5,
           "closing_vwap": null,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/mcb-group-limited?market=official",
           "market": "official"
@@ -519,8 +519,8 @@
           "latest_price": 16.0,
           "change": -0.5,
           "percent_change": -3.03,
-          "volume": 11327,
-          "value": 181560.5,
+          "volume": 13327,
+          "value": 213560.5,
           "closing_vwap": null,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/mauritius-oil-refineries-limited?market=official",
           "market": "official"
@@ -617,8 +617,8 @@
           "latest_price": 23.6,
           "change": 0.1,
           "percent_change": 0.43,
-          "volume": 2228,
-          "value": 52565.4,
+          "volume": 4928,
+          "value": 116285.4,
           "closing_vwap": null,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/promotion-and-development-limited?market=official",
           "market": "official"
@@ -701,8 +701,8 @@
           "latest_price": 6.58,
           "change": null,
           "percent_change": null,
-          "volume": 52100,
-          "value": 342378.0,
+          "volume": 53600,
+          "value": 352248.0,
           "closing_vwap": null,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/sbm-holdings-ltd?market=official",
           "market": "official"
@@ -743,8 +743,8 @@
           "latest_price": 395.0,
           "change": null,
           "percent_change": null,
-          "volume": 200,
-          "value": 79000.0,
+          "volume": 215,
+          "value": 84925.0,
           "closing_vwap": null,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/swan-general-ltd?market=official",
           "market": "official"
@@ -771,8 +771,8 @@
           "latest_price": 20.3,
           "change": null,
           "percent_change": null,
-          "volume": 5000,
-          "value": 101500.0,
+          "volume": 8000,
+          "value": 162400.0,
           "closing_vwap": null,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/terra-mauricia-ltd?market=official",
           "market": "official"
@@ -841,8 +841,8 @@
           "latest_price": 460.0,
           "change": null,
           "percent_change": null,
-          "volume": 8579,
-          "value": 3946337.25,
+          "volume": 8679,
+          "value": 3992337.25,
           "closing_vwap": null,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/vivo-energy-mauritius-limited?market=official",
           "market": "official"
@@ -864,9 +864,9 @@
       ]
     },
     {
-      "date": "2025-10-29_0917",
+      "date": "2025-10-29_1018",
       "source_board": "dem",
-      "as_of": "2025-10-29T13:15:00",
+      "as_of": "2025-10-29T14:15:00",
       "rows": [
         {
           "symbol_name": "ABC MOTORS",
@@ -983,13 +983,13 @@
         {
           "symbol_name": "EUDCOS",
           "currency": "MUR",
-          "trend": "unchanged",
+          "trend": "down",
           "last_closing_price": 14.85,
-          "latest_price": 14.85,
-          "change": null,
-          "percent_change": null,
-          "volume": null,
-          "value": null,
+          "latest_price": 14.7,
+          "change": -0.15,
+          "percent_change": -1.01,
+          "volume": 11201,
+          "value": 164654.85,
           "closing_vwap": null,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/excelsior-united-development-companies-ltd?market=dem",
           "market": "dem"
@@ -1058,8 +1058,8 @@
           "latest_price": 1.3,
           "change": 0.02,
           "percent_change": 1.56,
-          "volume": 6000,
-          "value": 7800.0,
+          "volume": 6100,
+          "value": 7930.0,
           "closing_vwap": null,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/lavastone-ltd?market=dem",
           "market": "dem"
@@ -1072,8 +1072,8 @@
           "latest_price": 71.0,
           "change": null,
           "percent_change": null,
-          "volume": null,
-          "value": null,
+          "volume": 1000,
+          "value": 71000.0,
           "closing_vwap": null,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/les-moulins-de-la-concorde-ltee-ordinary?market=dem",
           "market": "dem"
