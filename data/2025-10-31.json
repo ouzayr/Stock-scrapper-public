@@ -1,11 +1,11 @@
 {
   "date": "2025-10-31",
-  "timeStamp": "2025-10-31_1113",
+  "timeStamp": "2025-10-31_1232",
   "markets": [
     {
-      "date": "2025-10-31_1113",
+      "date": "2025-10-31_1232",
       "source_board": "official",
-      "as_of": "2025-10-31T15:00:00",
+      "as_of": "2025-10-31T15:45:01",
       "rows": [
         {
           "symbol_name": "ABCB HOLDINGS",
@@ -17,7 +17,7 @@
           "percent_change": null,
           "volume": 50,
           "value": 935.0,
-          "closing_vwap": null,
+          "closing_vwap": 18.65,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/abcb-holdings-limited?market=official",
           "market": "official"
         },
@@ -30,8 +30,8 @@
           "change": null,
           "percent_change": null,
           "volume": 20,
-          "value": 56.0,
-          "closing_vwap": null,
+          "value": 2562.5,
+          "closing_vwap": 2.8,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/african-export-import-bank?market=official",
           "market": "official"
         },
@@ -45,7 +45,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 0.68,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/africa-clean-energy-solutions-limited?market=official",
           "market": "official"
         },
@@ -58,8 +58,8 @@
           "change": null,
           "percent_change": null,
           "volume": 1800,
-          "value": 4770.0,
-          "closing_vwap": null,
+          "value": 218270.43,
+          "closing_vwap": 2.65,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/africa-eats-ltd?market=official",
           "market": "official"
         },
@@ -73,7 +73,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 5.73,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/africure-pharmaceuticals-ltd?market=official",
           "market": "official"
         },
@@ -87,7 +87,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 1.35,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/agape-global-investments-limited?market=official",
           "market": "official"
         },
@@ -101,7 +101,7 @@
           "percent_change": null,
           "volume": 28690,
           "value": 184188.32,
-          "closing_vwap": null,
+          "closing_vwap": 6.42,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/almarys-limited?market=official",
           "market": "official"
         },
@@ -115,7 +115,7 @@
           "percent_change": -0.43,
           "volume": 20800,
           "value": 242320.0,
-          "closing_vwap": null,
+          "closing_vwap": 11.65,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/alteo-limited?market=official",
           "market": "official"
         },
@@ -129,7 +129,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 11.45,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/arindo-holdings-mauritius-limited?market=official",
           "market": "official"
         },
@@ -143,7 +143,7 @@
           "percent_change": 5.01,
           "volume": 1000,
           "value": 20050.0,
-          "closing_vwap": null,
+          "closing_vwap": 20.05,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/ascencia-limited-ordinary?market=official",
           "market": "official"
         },
@@ -157,7 +157,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 70.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/automatic-systems-limited?market=official",
           "market": "official"
         },
@@ -171,7 +171,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 0.32,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/astoria-investments-ltd?market=official",
           "market": "official"
         },
@@ -185,7 +185,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 4.47,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/bayport-management-limited?market=official",
           "market": "official"
         },
@@ -199,7 +199,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 891.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/beachcomber-hospilality-investments-ltd-class-a-pref?market=official",
           "market": "official"
         },
@@ -213,7 +213,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 885.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/beachcomber-hospitality-investments-ltd-class-b-pref?market=official",
           "market": "official"
         },
@@ -227,7 +227,7 @@
           "percent_change": 2.13,
           "volume": 20500,
           "value": 9840.0,
-          "closing_vwap": null,
+          "closing_vwap": 0.48,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/bluelife-limited?market=official",
           "market": "official"
         },
@@ -241,7 +241,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 32.95,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/bmh-ltd?market=official",
           "market": "official"
         },
@@ -255,7 +255,7 @@
           "percent_change": -0.23,
           "volume": 27800,
           "value": 244672.0,
-          "closing_vwap": null,
+          "closing_vwap": 8.8,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/ciel-limited?market=official",
           "market": "official"
         },
@@ -269,7 +269,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 16.2,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/cim-financial-services-limited?market=official",
           "market": "official"
         },
@@ -283,7 +283,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 2.15,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/elite-meat-processors-limited?market=official",
           "market": "official"
         },
@@ -297,7 +297,7 @@
           "percent_change": 3.37,
           "volume": 1195,
           "value": 27355.0,
-          "closing_vwap": null,
+          "closing_vwap": 22.88,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/emtel-limited?market=official",
           "market": "official"
         },
@@ -311,7 +311,7 @@
           "percent_change": null,
           "volume": 42577,
           "value": 957988.35,
-          "closing_vwap": null,
+          "closing_vwap": 22.5,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/er-group-limited?market=official",
           "market": "official"
         },
@@ -325,7 +325,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 19.7,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/fincorp-investment-limited?market=official",
           "market": "official"
         },
@@ -339,7 +339,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 32.3,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/gamma-civic-ltd?market=official",
           "market": "official"
         },
@@ -353,7 +353,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 0.09,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/grit-real-estate-income-group-limited-usd?market=official",
           "market": "official"
         },
@@ -367,7 +367,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 5.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/grit-real-estate-income-group-limited-mur?market=official",
           "market": "official"
         },
@@ -381,7 +381,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 18.5,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/harel-mallac-co-ltd?market=official",
           "market": "official"
         },
@@ -395,7 +395,7 @@
           "percent_change": null,
           "volume": 666,
           "value": 21178.75,
-          "closing_vwap": null,
+          "closing_vwap": 31.8,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/ibl-ltd?market=official",
           "market": "official"
         },
@@ -409,7 +409,7 @@
           "percent_change": -0.22,
           "volume": 13504,
           "value": 304263.2,
-          "closing_vwap": null,
+          "closing_vwap": 22.53,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/innodis-ltd?market=official",
           "market": "official"
         },
@@ -423,7 +423,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 4.5,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/lottotech-ltd?market=official",
           "market": "official"
         },
@@ -437,7 +437,7 @@
           "percent_change": null,
           "volume": 9500,
           "value": 452525.0,
-          "closing_vwap": null,
+          "closing_vwap": 47.63,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/lux-island-resorts-ltd?market=official",
           "market": "official"
         },
@@ -451,7 +451,7 @@
           "percent_change": null,
           "volume": 30251,
           "value": 14217972.0,
-          "closing_vwap": null,
+          "closing_vwap": 470.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/mcb-group-limited?market=official",
           "market": "official"
         },
@@ -465,7 +465,7 @@
           "percent_change": null,
           "volume": 100,
           "value": 1050.0,
-          "closing_vwap": null,
+          "closing_vwap": 10.5,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/mcb-group-limited-preference-shares?market=official",
           "market": "official"
         },
@@ -479,7 +479,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 8.06,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/mauritius-chemical-fertilizer-industry-ltd?market=official",
           "market": "official"
         },
@@ -493,7 +493,7 @@
           "percent_change": -0.51,
           "volume": 40812,
           "value": 78855.16,
-          "closing_vwap": null,
+          "closing_vwap": 1.93,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/the-mauritius-development-investment-trust-co-ltd?market=official",
           "market": "official"
         },
@@ -507,7 +507,7 @@
           "percent_change": -1.52,
           "volume": 4705,
           "value": 306340.0,
-          "closing_vwap": null,
+          "closing_vwap": 65.11,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/medine-limited?market=official",
           "market": "official"
         },
@@ -521,7 +521,7 @@
           "percent_change": null,
           "volume": 24850,
           "value": 392998.95,
-          "closing_vwap": null,
+          "closing_vwap": 15.81,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/mauritius-oil-refineries-limited?market=official",
           "market": "official"
         },
@@ -535,7 +535,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 67.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/mua-ltd?market=official",
           "market": "official"
         },
@@ -549,7 +549,7 @@
           "percent_change": -0.94,
           "volume": 14900,
           "value": 157850.0,
-          "closing_vwap": null,
+          "closing_vwap": 10.59,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/national-investment-trust-limited?market=official",
           "market": "official"
         },
@@ -563,7 +563,7 @@
           "percent_change": null,
           "volume": 22,
           "value": 286.0,
-          "closing_vwap": null,
+          "closing_vwap": 13.7,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/new-mauritius-hotels-limited-ordinary?market=official",
           "market": "official"
         },
@@ -577,7 +577,7 @@
           "percent_change": -0.47,
           "volume": 523,
           "value": 5516.5,
-          "closing_vwap": null,
+          "closing_vwap": 10.55,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/new-mauritius-hotels-limited-preference?market=official",
           "market": "official"
         },
@@ -591,7 +591,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 0.01,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/numeral-ltd?market=official",
           "market": "official"
         },
@@ -605,7 +605,7 @@
           "percent_change": null,
           "volume": 2000,
           "value": 36000.0,
-          "closing_vwap": null,
+          "closing_vwap": 18.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/omnicane-limited?market=official",
           "market": "official"
         },
@@ -619,7 +619,7 @@
           "percent_change": 0.21,
           "volume": 11400,
           "value": 269040.0,
-          "closing_vwap": null,
+          "closing_vwap": 23.6,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/promotion-and-development-limited?market=official",
           "market": "official"
         },
@@ -633,7 +633,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 637.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/phoenix-beverages-limited?market=official",
           "market": "official"
         },
@@ -647,7 +647,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 50.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/pim-ltd?market=official",
           "market": "official"
         },
@@ -661,7 +661,7 @@
           "percent_change": -0.5,
           "volume": 650,
           "value": 2571.21,
-          "closing_vwap": null,
+          "closing_vwap": 3.96,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/policy-limited?market=official",
           "market": "official"
         },
@@ -675,7 +675,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 0.8,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/psg-financial-services-ltd?market=official",
           "market": "official"
         },
@@ -689,7 +689,7 @@
           "percent_change": null,
           "volume": 1,
           "value": 21.0,
-          "closing_vwap": null,
+          "closing_vwap": 21.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/riveo-limited?market=official",
           "market": "official"
         },
@@ -703,7 +703,7 @@
           "percent_change": 0.3,
           "volume": 666500,
           "value": 4395468.0,
-          "closing_vwap": null,
+          "closing_vwap": 6.59,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/sbm-holdings-ltd?market=official",
           "market": "official"
         },
@@ -717,7 +717,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 19.3,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/stevenhills-ltd?market=official",
           "market": "official"
         },
@@ -731,7 +731,7 @@
           "percent_change": -0.36,
           "volume": 500,
           "value": 21000.0,
-          "closing_vwap": null,
+          "closing_vwap": 42.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/sun-limited?market=official",
           "market": "official"
         },
@@ -745,7 +745,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 395.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/swan-general-ltd?market=official",
           "market": "official"
         },
@@ -759,7 +759,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 0.9,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/tadvest-limited?market=official",
           "market": "official"
         },
@@ -773,7 +773,7 @@
           "percent_change": -0.25,
           "volume": 248900,
           "value": 5040527.05,
-          "closing_vwap": null,
+          "closing_vwap": 20.25,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/terra-mauricia-ltd?market=official",
           "market": "official"
         },
@@ -787,7 +787,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 1.28,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/trans-switch-africa-holdings-ltd?market=official",
           "market": "official"
         },
@@ -801,7 +801,7 @@
           "percent_change": null,
           "volume": 2217,
           "value": 133020.0,
-          "closing_vwap": null,
+          "closing_vwap": 60.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/the-united-basalt-products-limited?market=official",
           "market": "official"
         },
@@ -815,7 +815,7 @@
           "percent_change": null,
           "volume": 14,
           "value": 1260.0,
-          "closing_vwap": null,
+          "closing_vwap": 90.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/united-docks-ltd?market=official",
           "market": "official"
         },
@@ -829,7 +829,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 0.9,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/universal-partners-limited?market=official",
           "market": "official"
         },
@@ -843,7 +843,7 @@
           "percent_change": null,
           "volume": 3100,
           "value": 1426000.0,
-          "closing_vwap": null,
+          "closing_vwap": 460.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/vivo-energy-mauritius-limited?market=official",
           "market": "official"
         },
@@ -857,16 +857,16 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 1.9,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/ziweto-holdings-limited?market=official",
           "market": "official"
         }
       ]
     },
     {
-      "date": "2025-10-31_1113",
+      "date": "2025-10-31_1232",
       "source_board": "dem",
-      "as_of": "2025-10-31T15:00:00",
+      "as_of": "2025-10-31T15:45:01",
       "rows": [
         {
           "symbol_name": "ABC MOTORS",
@@ -878,7 +878,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 105.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/abc-motors-company-limited?market=dem",
           "market": "dem"
         },
@@ -892,7 +892,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 209.5,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/associated-commercial-co-limited?market=dem",
           "market": "dem"
         },
@@ -906,7 +906,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 11.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/attitude-property-ltd?market=dem",
           "market": "dem"
         },
@@ -920,7 +920,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 3.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/beau-vallon-hospitality-ltd?market=dem",
           "market": "dem"
         },
@@ -934,7 +934,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 46.9,
           "company_snapshot": "https://www.stockexchangeofmauritius.com?market=dem",
           "market": "dem"
         },
@@ -948,7 +948,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 20.7,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/compagnie-immobiliere-limitee?market=dem",
           "market": "dem"
         },
@@ -962,7 +962,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 142.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/constance-la-gaiete-company-ltd?market=dem",
           "market": "dem"
         },
@@ -976,7 +976,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 15.9,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/constance-hotels-services-limited?market=dem",
           "market": "dem"
         },
@@ -990,7 +990,7 @@
           "percent_change": null,
           "volume": 14717,
           "value": 211932.45,
-          "closing_vwap": null,
+          "closing_vwap": 14.4,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/excelsior-united-development-companies-ltd?market=dem",
           "market": "dem"
         },
@@ -1004,7 +1004,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 46.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/les-gaz-industriels-ltd?market=dem",
           "market": "dem"
         },
@@ -1018,7 +1018,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 14.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/hotelest-limited?market=dem",
           "market": "dem"
         },
@@ -1032,7 +1032,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 7.5,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/happy-world-property-ltd?market=dem",
           "market": "dem"
         },
@@ -1046,7 +1046,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 148.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/kolos-cement-ltd?market=dem",
           "market": "dem"
         },
@@ -1060,7 +1060,7 @@
           "percent_change": -0.77,
           "volume": 30800,
           "value": 39732.0,
-          "closing_vwap": null,
+          "closing_vwap": 1.29,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/lavastone-ltd?market=dem",
           "market": "dem"
         },
@@ -1074,7 +1074,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 71.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/les-moulins-de-la-concorde-ltee-ordinary?market=dem",
           "market": "dem"
         },
@@ -1088,7 +1088,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 361.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/les-moulins-de-la-concorde-ltee-preference?market=dem",
           "market": "dem"
         },
@@ -1102,7 +1102,7 @@
           "percent_change": -2.78,
           "volume": 15000,
           "value": 262500.0,
-          "closing_vwap": null,
+          "closing_vwap": 17.5,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/livestock-feed-limited-ordinary?market=dem",
           "market": "dem"
         },
@@ -1116,7 +1116,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 27.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/livestock-feed-limited-preference?market=dem",
           "market": "dem"
         },
@@ -1130,7 +1130,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 10.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/mfd-group-limited?market=dem",
           "market": "dem"
         },
@@ -1143,8 +1143,8 @@
           "change": null,
           "percent_change": null,
           "volume": 4400,
-          "value": 528.0,
-          "closing_vwap": null,
+          "value": 24160.75,
+          "closing_vwap": 0.12,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/miwa-sugar-limited?market=dem",
           "market": "dem"
         },
@@ -1158,7 +1158,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 16.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/morning-light-co-ltd?market=dem",
           "market": "dem"
         },
@@ -1172,7 +1172,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 15.9,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/mauritius-cosmetics-limited?market=dem",
           "market": "dem"
         },
@@ -1186,7 +1186,7 @@
           "percent_change": null,
           "volume": 333,
           "value": 11655.0,
-          "closing_vwap": null,
+          "closing_vwap": 35.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/mauritius-secondary-industries-limited?market=dem",
           "market": "dem"
         },
@@ -1200,7 +1200,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 7.8,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/novus-properties-limited?market=dem",
           "market": "dem"
         },
@@ -1214,7 +1214,7 @@
           "percent_change": -10.26,
           "volume": 500,
           "value": 1750.0,
-          "closing_vwap": null,
+          "closing_vwap": 3.5,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/oceanarium-mauritius-ltd?market=dem",
           "market": "dem"
         },
@@ -1228,7 +1228,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 12.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/paper-converting-co-ltd?market=dem",
           "market": "dem"
         },
@@ -1242,7 +1242,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 425.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/phoenix-investment-company-limited?market=dem",
           "market": "dem"
         },
@@ -1256,7 +1256,7 @@
           "percent_change": null,
           "volume": 100,
           "value": 1620.0,
-          "closing_vwap": null,
+          "closing_vwap": 16.2,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/quality-beverages-ltd?market=dem",
           "market": "dem"
         },
@@ -1270,7 +1270,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 12.05,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/rht-holding-ltd?market=dem",
           "market": "dem"
         },
@@ -1284,7 +1284,7 @@
           "percent_change": 4.35,
           "volume": 5032,
           "value": 3622.08,
-          "closing_vwap": null,
+          "closing_vwap": 0.72,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/semaris-limited?market=dem",
           "market": "dem"
         },
@@ -1298,7 +1298,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 6784.17,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/sit-land-holdings-ltd?market=dem",
           "market": "dem"
         },
@@ -1312,7 +1312,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 1500.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/swan-life-ltd?market=dem",
           "market": "dem"
         },
@@ -1326,7 +1326,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 3.8,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/tropical-paradise-co-ltd-ordinary?market=dem",
           "market": "dem"
         },
@@ -1340,7 +1340,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 181.25,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/tropical-paradise-co-ltd-preference?market=dem",
           "market": "dem"
         },
@@ -1354,7 +1354,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 99.0,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/the-union-sugar-estates-company-ltd?market=dem",
           "market": "dem"
         },
@@ -1368,7 +1368,7 @@
           "percent_change": null,
           "volume": null,
           "value": null,
-          "closing_vwap": null,
+          "closing_vwap": 40.6,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/united-bus-service-ltd?market=dem",
           "market": "dem"
         },
@@ -1382,7 +1382,7 @@
           "percent_change": null,
           "volume": 2000,
           "value": 36400.0,
-          "closing_vwap": null,
+          "closing_vwap": 18.2,
           "company_snapshot": "https://www.stockexchangeofmauritius.com/company-snapshot/dem/velogic-holding-company-ltd?market=dem",
           "market": "dem"
         }
