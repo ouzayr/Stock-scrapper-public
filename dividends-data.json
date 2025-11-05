@@ -23,7 +23,7 @@
     },
     {
       "symbol_name": "CIEL LIMITED",
-      "payment_date": "2024-07-30",
+      "payment_date": "2025-07-30",
       "ex_dividend_date": "2025-07-15",
       "type": "final",
       "amount_per_share": 0.32,
@@ -32,11 +32,11 @@
     },
     {
       "symbol_name": "CIEL LIMITED",
-      "payment_date": "2025-07-30",
+      "payment_date": "2024-07-30",
       "ex_dividend_date": "2024-07-15",
       "type": "final",
       "amount_per_share": 0.32,
-      "year": 2025,
+      "year": 2024,
       "currency": "MUR"
     },
     {
