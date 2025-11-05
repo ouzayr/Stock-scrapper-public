@@ -7,7 +7,7 @@
       {
         "payment_date": "2024-03-31",
         "ex_dividend_date": "2024-01-11",
-        "type": "final",
+        "type": "Final",
         "amount_per_share": 0.9,
         "year": 2023,
         "currency": "MUR"
@@ -17,7 +17,7 @@
       {
         "payment_date": "2024-05-15",
         "ex_dividend_date": "2024-04-03",
-        "type": "final",
+        "type": "Final",
         "amount_per_share": 1.50,
         "year": 2023,
         "currency": "USD"
@@ -27,7 +27,7 @@
       {
         "payment_date": "2025-07-30",
         "ex_dividend_date": "2025-07-15",
-        "type": "final",
+        "type": "Final",
         "amount_per_share": 0.32,
         "year": 2025,
         "currency": "MUR"
@@ -35,7 +35,7 @@
       {
         "payment_date": "2024-07-30",
         "ex_dividend_date": "2024-07-15",
-        "type": "final",
+        "type": "Final",
         "amount_per_share": 0.32,
         "year": 2024,
         "currency": "MUR"
@@ -45,7 +45,7 @@
       {
         "payment_date": "2025-04-10",
         "ex_dividend_date": "2025-03-14",
-        "type": "final",
+        "type": "Final",
         "amount_per_share": 1,
         "year": 2024,
         "currency": "MUR"
@@ -53,7 +53,7 @@
       {
         "payment_date": "2024-02-09",
         "ex_dividend_date": "2024-01-5",
-        "type": "final",
+        "type": "Final",
         "amount_per_share": 0.80,
         "year": 2023,
         "currency": "MUR"
@@ -63,7 +63,7 @@
       {
         "payment_date": "yyyy-mm-dd",
         "ex_dividend_date": "yyyy-mm-dd",
-        "type": "final|interim",
+        "type": "Final|Interim",
         "amount_per_share": 0.50,
         "year": 2024,
         "currency": "MUR"
