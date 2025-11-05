@@ -2,7 +2,7 @@
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
   "last_updated": "2025-11-04",
-  "dividends": [
+  "dividends": {
     "MCFI":[
       {
         "payment_date": "2024-03-31",
@@ -52,7 +52,7 @@
       },
       {
         "payment_date": "2024-02-09",
-        "ex_dividend_date": "2024-01-5",
+        "ex_dividend_date": "2024-01-05",
         "type": "Final",
         "amount_per_share": 0.80,
         "year": 2023,
@@ -69,6 +69,6 @@
         "currency": "MUR"
       }
     ]
-  ],
+  },
   "note": "Add all dividend payments here with fields: symbol_name, payment_date, ex_dividend_date, type (interim/final), amount_per_share, year, currency"
 }
