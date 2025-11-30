@@ -1,0 +1,29 @@
+{
+  "comment": "THIS IS A TEMPLATE FILE. The actual historical-prices.json should be placed in the ouzayr/Stock-scrapper-public repository at the root level. The frontend will fetch it from: https://raw.githubusercontent.com/ouzayr/Stock-scrapper-public/main/historical-prices.json",
+  "instruction": "This file is automatically updated by the monthly consolidation GitHub Action. Do not edit manually.",
+  "version": "1.0.0",
+  "last_updated": "2025-11-05",
+  "prices": {
+    "MCB": [
+      {
+        "date": "2025-07-02",
+        "price": 26
+      },
+      {
+        "date": "2025-07-03",
+        "price": 26
+      },
+      {
+        "date": "2025-07-04",
+        "price": 26
+      }
+    ],
+    "SBM": [
+      {
+        "date": "2014-02-04",
+        "price": 7.88
+      }
+    ]
+  },
+  "note": "Historical price data is grouped by symbol. Each entry includes: date (YYYY-MM-DD), price (closing price). Data is consolidated monthly from daily scrapes."
+}
