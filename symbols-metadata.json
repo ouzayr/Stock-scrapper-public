@@ -1,0 +1,784 @@
+{
+  "comment": "This file contains static metadata for stock symbols. Update manually as needed.",
+  "version": "1.0.0",
+  "last_updated": "2025-11-03",
+  "symbols": [
+    {
+      "symbol_name": "ABCB HOLDINGS",
+      "symbol_id": "ABCH.N0000",
+      "total_shares": 76271872,
+      "description": "ABCB Holdings Limited is a distinguished financial services holding company based in Mauritius, strategically steering the growth and innovation of its subsidiaries, including ABC Banking Corporation Ltd. Committed to excellence, integrity, and sustainable expansion, ABCB Holdings Limited leverages its expertise to provide cutting-edge, customer-centric financial solutions tailored to the evolving global market. With a steadfast focus on operational efficiency and financial prudence, ABCB Holdings Limited fosters a dynamic ecosystem that empowers businesses and individuals while setting industry benchmarks. Through visionary leadership and strategic investments, the company continues to strengthen its position as a trusted authority in the financial sector, driving progress and long-term value creation",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "AFREXIM DR (USD)",
+      "symbol_id": "AEIB.N0000",
+      "total_shares": 69090397,
+      "description": "Afreximbank is a supranational financial institution whose purpose is to facilitate, promote and expand intra- and extra-African trade. The Bank was initially established under the Agreement for the Establishment of the African Export-Import Bank between 27 states and multilateral institutions, made in Abidjan, Côte d'Ivoire on 8 May 1993. As at 31 March 2017, the number of Participating States was 43.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "AFRICA CLEAN USD",
+      "symbol_id": "ACES.N0000",
+      "total_shares": 31911472,
+      "description": "Africa Clean Energy Solutions Limited (ACES) was incorporated in Mauritius on 8 December 2017 and holds a GBC1 license. ACES has been established with the aim of developing and operating clean energy power plants throughout Africa and to become a significant independent provider of clean energy. The goal of the company is to become a utility company in various African countries in the renewable energy field.",
+      "industry": "Energy & Utilities",
+      "board": "official"
+    },
+    {
+      "symbol_name": "AFRICA EATS(USD)",
+      "symbol_id": "EATS.N0000",
+      "total_shares": 0,
+      "description": "Africa Eats is a permanent capital investment company based in Mauritius that focuses on investing in and supporting the growth of scalable, profit-driven companies across Sub-Saharan Africa, known as “High-Growth Companies.” These companies are dedicated to strengthening the food and agriculture supply chain, enhancing food security, raising smallholder farmers' incomes, and reducing post-harvest losses. The Africa Eats portfolio consists of 22 companies operating at various levels within the food and agricultural value chain. Over 20 of these companies address poverty, while around 18 are working to combat hunger and create decent job opportunities, aligning with the UN Sustainable Development Goals (UN SDGs). Africa Eats’ portfolio companies currently operate in eight countries, including Ghana, Ethiopia, Kenya, Uganda, Rwanda, Tanzania, Malawi, and Zambia, with additional exports to neighbouring countries. Africa Eats targets small and medium-sized enterprises (SMEs) with limited access to finance but substantial growth potential.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "AFRICURE (USD)",
+      "symbol_id": "AFRP.N0000",
+      "total_shares": 9417500,
+      "description": "Not available",
+      "industry": "Other",
+      "board": "official"
+    },
+    {
+      "symbol_name": "AGAPE GLOBAL",
+      "symbol_id": "DCPL.N0000",
+      "total_shares": 292143232,
+      "description": "Agape Global Investments Limited (Ex Dale Capital) is a specialist Private Equity Investment Group having offices in Mauritius and in Cape Town, South Africa. It was incorporated in 2000 in the Republic of Mauritius and migrated to the British Virgin Islands by way of continuation in 2007. Dale was admitted to listing under Chapter 15 (International Issuer) on the Official Market of the SEM in 2007.",
+      "industry": "Investment",
+      "board": "official"
+    },
+    {
+      "symbol_name": "ALMARYS LIMITED",
+      "symbol_id": "ENLG.N0000",
+      "total_shares": 415962644,
+      "description": "Almarys Limited is a long-term play holding 13,300 arpents of agricultural land and a 25.38% equity stake in Société Helicophanta. Backed by extensive agricultural land and steady income from its strategic investment, the Company creates long-term growth through responsible land use and innovation-driven opportunities",
+      "industry": "Investment",
+      "board": "official"
+    },
+    {
+      "symbol_name": "ALTEO LIMITED",
+      "symbol_id": "ALTG.N0000",
+      "total_shares": 318492120,
+      "description": "Alteo Limited is a leading regional group with well-established activities in the Sugar, Energy and Property sectors. Listed on the Official Market of the Stock Exchange of Mauritius (SEM), Alteo is the largest sugar producer in Mauritius with a strong presence in Africa. Alteo operates three sugar factories in Mauritius, Tanzania and Kenya. In addition to its sugar activities, Alteo owns and operates three power plants.",
+      "industry": "Real Estate & Property",
+      "board": "official"
+    },
+    {
+      "symbol_name": "ARINDO (USD)",
+      "symbol_id": "ARIN.N0000",
+      "total_shares": 27582802,
+      "description": "Arindo is a holding company incorporated on 28 March 2005 in Mauritius. It currently holds a category 1 Global Business License in accordance with the Mauritian Companies Act 2001 and the Financial Services Act 2007 of Mauritius.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "ASCENCIA",
+      "symbol_id": "ASCE.N0000",
+      "total_shares": 487314989,
+      "description": "Ascencia, the leading retail property fund established in 2008 in Mauritius, owns seven shopping malls on the island. These include Bagatelle Mall (centre), Phoenix Mall (centre), Riche Terre Mall (North), Bo’Valon Mall (south-east), So’flo (centre), Kendra (centre) and Les Allées (centre). The seven malls collectively house more than 500 shops and 7 anchor supermarkets. Known for its dynamic shopping destinations aligned with its customer promise \"Shaping Singular Places,\" Ascencia aims to deliver best-in-class mall management services for a superior shopper experience. With assets exceeding Rs17.6 billion as of 30 June 2024, Ascencia is the biggest player in the commercial retail sector in Mauritius. e-mail: investors@byascencia.com",
+      "industry": "Investment",
+      "board": "official"
+    },
+    {
+      "symbol_name": "ASL",
+      "symbol_id": "ASL.N0000",
+      "total_shares": 0,
+      "description": "ASL was incorporated as a public company in 1991 and listed on the Stock Exchange of Mauritius in 1994. ASL’s principal activities are the running of a totalisator (Tote) system of betting on races in Mauritius organized by the Mauritius Turf Club and the organization of fixed-odds betting on foreign football matches, both in accordance with the provisions of the Gambling Regulatory Authority Act 2007.",
+      "industry": "Other",
+      "board": "official"
+    },
+    {
+      "symbol_name": "ASTORIA (USD)",
+      "symbol_id": "ATIL.N0000",
+      "total_shares": 3535000,
+      "description": "Astoria was incorporated on 20th April 2015 in Mauritius. Astoria currently holds a Category One Global Business License issued by the Financial Services Commission and has been operational since June 2015. The primary objective of Astoria is to achieve strong USD capital appreciation over the medium to long term by investing in global, equity-dominated holdings of primarily direct, high-quality listed businesses, primarily in developed markets.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "BAYPORT (USD)",
+      "symbol_id": "BAYP.N0000",
+      "total_shares": 34826074,
+      "description": "BML was incorporated on 10 September 2001 and holds a Category One Global Business License issued by the FSC on 3 March 2005. BML is a holding company and holds businesses involved in the provision of retail financial services.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "BHI CLASS A PREF",
+      "symbol_id": "BHI.P0001",
+      "total_shares": 364251,
+      "description": "Beachcomber Hospitality Investments Ltd (BHI) is a public limited company incorporated on 22 April 2016 in Mauritius. BHI owns a portfolio of real estate assets in the hospitality sector in Mauritius and Seychelles. It leases three resort hotels in Mauritius to New Mauritius Hotels Limited for operation under the ‘Beachcomber’ brand. It also leases a resort hotel situated on Sainte Anne Island, Seychelles, to Société des Villages de Vacances (des Seychelles) Limited for operation under the ‘Club Med’ brand.",
+      "industry": "Investment",
+      "board": "official"
+    },
+    {
+      "symbol_name": "BHI CLASS B PREF",
+      "symbol_id": "BHI.P0002",
+      "total_shares": 32922,
+      "description": "Beachcomber Hospitality Investments Ltd (BHI) is a public limited company incorporated on 22 April 2016 in Mauritius. BHI owns a portfolio of real estate assets in the hospitality sector in Mauritius and Seychelles. It leases three resort hotels in Mauritius to New Mauritius Hotels Limited for operation under the ‘Beachcomber’ brand. It also leases a resort hotel situated on Sainte Anne Island, Seychelles, to Société des Villages de Vacances (des Seychelles) Limited for operation under the ‘Club Med’ brand.",
+      "industry": "Investment",
+      "board": "official"
+    },
+    {
+      "symbol_name": "BLUELIFE LIMITED",
+      "symbol_id": "BLL.N0000",
+      "total_shares": 1154942099,
+      "description": "BlueLife is a public company limited by shares, incorporated in Mauritius on 16 April 2004. BlueLife is the surviving company following the amalgamation of FUEL Properties Limited and Indian Ocean Real Estate Company Limited in 2013. The principal activities of BlueLife consist of property development projects and real estate properties investment, including investment in hotels, among which is the Azuri complex. The Company has 2 ancillary clusters which include asset management and support services to property development.",
+      "industry": "Investment",
+      "board": "official"
+    },
+    {
+      "symbol_name": "BMH LTD",
+      "symbol_id": "BMHL.N0000",
+      "total_shares": 78579787,
+      "description": "BMH is a diversified investment company and is one of the entities forming part of the Constance Group. The Company was incorporated in 1982 and is listed on the Stock Exchange of Mauritius since 1994. Its portfolio comprises mainly of sizeable investments in the diversified conglomerate IBL, one of the leading Mauritian group, and Hotelest Ltd, the holding company of Constance Hotels Services Ltd operating in the tourism sector. BMH also holds investments in the following economic sectors: Commerce, Financial services and Property.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "CIEL LIMITED",
+      "symbol_id": "CIEL.N0000",
+      "total_shares": 1697195213,
+      "description": "CIEL is an international Mauritian Group, investing and operating in 6 strategic sectors, namely Textile, Finance, Healthcare, Hospitality, Property and Agriculture. Founded in 1912, CIEL today employs 38,000 talented individuals and is present in emerging markets across Africa and Asia. As a family-controlled Group, CIEL continues its entrepreneurial journey to be the leader in each of its industries.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "CIM FINANCIAL",
+      "symbol_id": "CIM.N0000",
+      "total_shares": 680522310,
+      "description": "Cim Financial Services Ltd is a financial services group listed on the Official Market of the Stock Exchange and headquartered in Mauritius.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "ELITE MEAT (USD)",
+      "symbol_id": "ELIT.N0000",
+      "total_shares": 0,
+      "description": "Elite Meat was incorporated in Mauritius on 01 July 2024, as a public company limited by shares, with its main business activity being that of a holding company. The Company also holds a Global Business License issued by the Financial Services Commission. The purpose of Elite Meat is mainly to act as the holding company of Paniel Meat Processing Ltd, and as a group, it aims to make meat available and affordable to every income group in Rwanda and Africa while producing the healthiest and highest quality meat products and distributing them in East, Central, and West African countries. Paniel Meat Processing Ltd, located in Kigali (Rwanda), was established in 2012, and has since become a trusted provider of high-quality meat products across the country. The company is committed to offering a diverse range of meat products and options, helping to meet the daily nutritional needs of Rwandans.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "EMTEL LIMITED",
+      "symbol_id": "EMTL.N0000",
+      "total_shares": 455400000,
+      "description": "Emtel Limited ia a company incorporated in Mauritius in 1987. Emtel began offering mobile telecommunications services in 1989, but has since become the one of the largest telecommunication services operator in Mauritius by number of active subscribers. Emtel now offers a broad range of ICT solutions to both individual consumers and business users.",
+      "industry": "Telecommunications",
+      "board": "official"
+    },
+    {
+      "symbol_name": "ER GROUP",
+      "symbol_id": "ERL.N0000",
+      "total_shares": 481453929,
+      "description": "ER Group is a leading Mauritian organisation resulting from the restructuring of ENL and Rogers. ​Capitalising on a strong portfolio of respected brands, market leaders in multiple sectors, ER Group operates across 7 strategic segments: Agribusiness, Real Estate, Hospitality & Travel, Logistics, Finance, Commerce & Manufacturing and Technology & Energy.​ Today, ER Group brings together a team of over 7,400 employees and operates across 13 territories worldwide. Proudly Mauritian, ER Group is focused on making a lasting contribution to the country’s progress, while steadily expanding its presence in mastered industries and sharing its expertise beyond its shores.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "FINCORP",
+      "symbol_id": "FINC.N0000",
+      "total_shares": 103355340,
+      "description": "Fincorp Investment Ltd, a subsidiary of MCB Group Limited, is engaged in investing activities and is listed on the Stock Exchange of Mauritius since 1994. The company has on its books the following main investments: a wholly-owned subsidiary, Finlease, which started its operations in 1995 and provides operating and financial leasing services; and a 46% stake in Promotion and Development Ltd, a quoted investment company having diversified interests including a majority stake in Caudan Development Ltd, a property company that owns and manages the waterfront real estate development in Port Louis.",
+      "industry": "Investment",
+      "board": "official"
+    },
+    {
+      "symbol_name": "GAMMA CIVIC",
+      "symbol_id": "GCL.N0000",
+      "total_shares": 133250000,
+      "description": "The Gamma Group is a leading building materials, contracting, real estate, lottery & gaming technology, hospitality and financial services group in Mauritius. Gamma Civic Ltd is the ultimate holding company and has been listed on the Official List of the Stock Exchange of Mauritius Ltd since November 1994",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "GRITREAL (USD)",
+      "symbol_id": "DEL.N0000",
+      "total_shares": 519834616,
+      "description": "Grit was incorporated on 16 May 2012 and has been granted a GBC1 License by the Financial Servies Commission. The Company is a real estate income group that generates US dollar and Euro yield for investors by investing in a diversified portfolio of high-quality real estate assets across the African continent and Indian Ocean Islands, excluding South Africa, anchored by blue-chip, international tenants.",
+      "industry": "Real Estate & Property",
+      "board": "official"
+    },
+    {
+      "symbol_name": "GRITREAL-MUR",
+      "symbol_id": "DEL.C0000",
+      "total_shares": 519834616,
+      "description": "Grit was incorporated on 16 May 2012 and has been granted a GBC1 License by the Financial Servies Commission. The Company is a real estate income group that generates US dollar and Euro yield for investors by investing in a diversified portfolio of high-quality real estate assets across the African continent and Indian Ocean Islands, excluding South Africa, anchored by blue-chip, international tenants.",
+      "industry": "Real Estate & Property",
+      "board": "official"
+    },
+    {
+      "symbol_name": "H. MALLAC",
+      "symbol_id": "HML.N0000",
+      "total_shares": 11259388,
+      "description": "With its origins dating back to 1830, the Harel Mallac Group is one of the oldest trading companies in Mauritius and has pioneered major sectors of the economy, such as retail, technology and fertilisers manufacturing. With activities expanding on the African continent and offices in Burundi, Madagascar, Rwanda, Tanzania and Zambia, the Harel Mallac Group employs some 1,100 people.",
+      "industry": "Real Estate & Property",
+      "board": "official"
+    },
+    {
+      "symbol_name": "IBL LTD",
+      "symbol_id": "IBLL.N0000",
+      "total_shares": 680224040,
+      "description": "IBL Ltd is a diversified conglomerate engaged in a wide range of activities from financial services, fish storage and processing to mechanical and electrical engineering, logistics, aviation, shipping operations, distribution of consumer goods and a chain of supermarkets. It holds substantial investments in several industries, such as the real estate industry, tourism, financial services, communication and biotechnologies.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "INNODIS LTD",
+      "symbol_id": "HWF.N0000",
+      "total_shares": 36730266,
+      "description": "Not available",
+      "industry": "Other",
+      "board": "official"
+    },
+    {
+      "symbol_name": "LOTTOTECH LTD",
+      "symbol_id": "LOTO.N0000",
+      "total_shares": 0,
+      "description": "Lottotech Ltd operates the Mauritius National Lottery on behalf of the Government of Mauritius. Lottotech is responsible for providing Mauritians with safe, regulated and entertaining gaming experiences. Its products are offered through a network of more than 770 retailers throughout Mauritius and Rodrigues.",
+      "industry": "Technology",
+      "board": "official"
+    },
+    {
+      "symbol_name": "LUX ISLAND",
+      "symbol_id": "NRL.N0000",
+      "total_shares": 0,
+      "description": "Lux Island Resorts Ltd (LIR) was incorporated on 11 December 1987. LIR owns and operates beach resorts in Mauritius, Reunion Island and Maldives. The beach resorts are managed by The Lux Collective Ltd.",
+      "industry": "Hospitality & Tourism",
+      "board": "official"
+    },
+    {
+      "symbol_name": "MCB GROUP",
+      "symbol_id": "MCBG.N0000",
+      "total_shares": 261583791,
+      "description": "MCB Group is an integrated banking and financial services provider, established since 1838, that offers tailored and innovative solutions through its local and foreign subsidiaries and associates. MCB Group Ltd acts as the ultimate holding company of the Group. The subsidiaries and associates thereof operate under three distinct clusters namely Banking, Non-Banking Financial and Other Investments.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "MCBG PREF",
+      "symbol_id": "MCBG.P00001",
+      "total_shares": 0,
+      "description": "Not available",
+      "industry": "Other",
+      "board": "official"
+    },
+    {
+      "symbol_name": "MCFI",
+      "symbol_id": "MCFI.N0000",
+      "total_shares": 0,
+      "description": "MCFI is a manufacturing company, operating an NPK complex fertiliser plant and a blending plant in the Port area, since 1974. It specialises in the formulation, supply and application of fertilisers for the sugar cane industry and the agricultural community at large.",
+      "industry": "Sugar & Agriculture",
+      "board": "official"
+    },
+    {
+      "symbol_name": "MDIT",
+      "symbol_id": "MDIT.N0000",
+      "total_shares": 0,
+      "description": "The Mauritius Development Investment Trust Company Ltd, incorporated in 1967, is the first approved Investment Trust in Mauritius and a Collective Investment Scheme (CIS), authorised as a Closed-end Fund by the Financial Services Commission under the Securities Act 2005. MDIT's objective is to secure for investors the benefits of a good dividend yield as well as long-term capital growth.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "MEDINE LTD",
+      "symbol_id": "MSE.N0000",
+      "total_shares": 0,
+      "description": "ML is a public company incorporated in Mauritius on 27 June 1913. It operates as a diversified group with four pillars of activity, namely Agriculture, Education, Leisure and Property.",
+      "industry": "Real Estate & Property",
+      "board": "official"
+    },
+    {
+      "symbol_name": "MOROIL",
+      "symbol_id": "MOR.N0000",
+      "total_shares": 0,
+      "description": "Mauritius Oil Refineries started its commercial operations in 1968. In line with the national import substitution policy, Moroil set out to ensure the Mauritian population a continuous supply of locally refined edible oils of international quality, at competitive prices.",
+      "industry": "Retail & Commerce",
+      "board": "official"
+    },
+    {
+      "symbol_name": "MUA LTD",
+      "symbol_id": "MUAL.N0000",
+      "total_shares": 0,
+      "description": "MUA and its subsidiaries have been providing insurance services in Mauritius for over 70 years, focusing both on the short term and long term segments of the market. Through its subsidiaries, MUA also has a presence in stock broking activities, corporate pensions and mutual funds management.",
+      "industry": "Investment",
+      "board": "official"
+    },
+    {
+      "symbol_name": "NIT",
+      "symbol_id": "NITL.N0000",
+      "total_shares": 0,
+      "description": "The Company was incorporated as a closed-end fund whose principal activity was to invest in shares and securities in both the local and international markets.",
+      "industry": "Investment",
+      "board": "official"
+    },
+    {
+      "symbol_name": "NMH",
+      "symbol_id": "NMHL.N0000",
+      "total_shares": 0,
+      "description": "NMH is a public company incorporated on 24 December 1964. NMH has been listed on the Official Market of the SEM since 1994. NMH is a leading hotel group in Mauritius. It owns and operates eight resorts in Mauritius under the Beachcomber brand; owns one resort in Seychelles which leased to Club Med and also owns one in Morocco managed by Fairmont",
+      "industry": "Hospitality & Tourism",
+      "board": "official"
+    },
+    {
+      "symbol_name": "NMH PREFERENCE",
+      "symbol_id": "NMHL.P0000",
+      "total_shares": 0,
+      "description": "NMH is a public company incorporated on 24 December 1964. NMH has been listed on the Official Market of the SEM since 1994. NMH is a leading hotel group in Mauritius. It owns and operates eight resorts in Mauritius under the Beachcomber brand; owns one resort in Seychelles which leased to Club Med and also owns one in Morocco managed by Fairmont.",
+      "industry": "Hospitality & Tourism",
+      "board": "official"
+    },
+    {
+      "symbol_name": "NUMERAL (USD)",
+      "symbol_id": "GOLI.N0000",
+      "total_shares": 1242500000,
+      "description": "Welcome to Numeral XII, a dynamic force in the world of finance, investment banking, and asset management. As a company dedicated to embracing technological opportunities in these sectors, we are committed to reshaping the landscape through strategic acquisitions and innovative platforms. With a proven track record of successfully listing companies on the stock exchange, Numeral XII is your gateway to a future where cutting-edge technology meets financial excellence.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "OMNICANE LIMITED",
+      "symbol_id": "MTMD.N0000",
+      "total_shares": 0,
+      "description": "Omnicane was launched in July 2009 through a strategic re-branding of Mon-Trésor-Mon-Desert Ltd, a long established sugarcane group in Mauritius whose origins can be traced back to the 1850’s. The Group now produces 40% of Mauritius’ exported refined sugar and supplies around 28% of the electricity needs of Mauritius.",
+      "industry": "Sugar & Agriculture",
+      "board": "official"
+    },
+    {
+      "symbol_name": "PAD",
+      "symbol_id": "PAD.N0000",
+      "total_shares": 0,
+      "description": "Promotion and Development Ltd (PAD) was incorporated on 23rd August 1984; trading of PAD's shares on the Official List of the Stock Exchange commenced on 17th January 1996. Through its majority stake in Caudan Development Limited and as the manager of that company, PAD is closely involved with the Caudan Waterfront project.",
+      "industry": "Other",
+      "board": "official"
+    },
+    {
+      "symbol_name": "PBL",
+      "symbol_id": "MBL.N0000",
+      "total_shares": 0,
+      "description": "Phoenix Beverages, operating under the PhoenixBev Brand, is an independent brewer and soft drinks bottler company, incorporated in 1960 and operating in both Mauritius and the wider Indian Ocean region.",
+      "industry": "Food & Beverages",
+      "board": "official"
+    },
+    {
+      "symbol_name": "PIM LIMITED",
+      "symbol_id": "PIM.N0000",
+      "total_shares": 16447000,
+      "description": "PIM, formerly Plastic Industry (Mauritius), was Incorporated in 1970 and is a manufacturer of plastic products, mainly, plastic chairs, packaging for chemical, detergent, paint, pharmaceutical, beverages and the food sector.",
+      "industry": "Healthcare & Pharmaceuticals",
+      "board": "official"
+    },
+    {
+      "symbol_name": "POLICY",
+      "symbol_id": "POL.N0000",
+      "total_shares": 0,
+      "description": "Policy Limited was incorporated as a public company on 15 June 1979. It is an investment company with a long-term investment strategy. It is listed on the Stock Exchange of Mauritius since 1992.",
+      "industry": "Investment",
+      "board": "official"
+    },
+    {
+      "symbol_name": "PSG FIN (USD)",
+      "symbol_id": "PSGK.N0000",
+      "total_shares": 0,
+      "description": "PSG Konsult is a company incorporated under the laws of South Africa in 1993. PSG Konsult is one of the largest independent intermediary financial services providers in South Africa and is a leading independent financial services group, having been in operation since 1998. PSG Konsult has an extensive South African footprint, as well as a Namibian presence.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "RIVEO LIMITED",
+      "symbol_id": "RIVO.N0000",
+      "total_shares": 0,
+      "description": "Riveo Limited (Riveo) is a public company limited by shares incorporated in Mauritius on 23 February 2024. Riveo is an investment holding company, whose major source of revenue comprises of dividend income from its main subsidiaries, namely: (i) Anahita Hotel Ltd (ii) SRL Touessrok Hotel Ltd and (iii) Loisirs des Iles Ltee.",
+      "industry": "Investment",
+      "board": "official"
+    },
+    {
+      "symbol_name": "SBMH",
+      "symbol_id": "SBMH.N0000",
+      "total_shares": 0,
+      "description": "SBMH is the holding company of SBM Group which has been established in Mauritius in 1973. The Group is a leading financial institution in Mauritius. SBM Group acts as a one-stop-shop for banking and non-banking financial services, covering a wide range of deposit, payments, and financing, and investment advisory and ancillary solutions. SBM Group is present in Mauritius, Madagascar, and India and, most recently, Kenya.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "STEVENHILLS",
+      "symbol_id": "SHL.N0000",
+      "total_shares": 0,
+      "description": "Not available",
+      "industry": "Other",
+      "board": "official"
+    },
+    {
+      "symbol_name": "SUN LIMITED",
+      "symbol_id": "SUN.N0000",
+      "total_shares": 0,
+      "description": "SUN Ltd was incorporated on 10 February 1983 and is an established hotel group in the Indian Ocean, owning and/or managing hotel resorts in the Republic of Mauritius and the Republic of Maldives.",
+      "industry": "Hospitality & Tourism",
+      "board": "official"
+    },
+    {
+      "symbol_name": "SWAN GENERAL LTD",
+      "symbol_id": "SWAN.N0000",
+      "total_shares": 0,
+      "description": "Established in 1855, SWAN is a leading financial solutions provider in Mauritius. Swan provides the full range of non-banking financial solutions - general insurance, life assurance, pension & actuarial services, pension administration, investment advisory, wealth management and stockbroking for corporate clients and individual customers.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "TADVEST (USD)",
+      "symbol_id": "TAD.N0000",
+      "total_shares": 0,
+      "description": "Tadvest was incorporated and registered in Mauritius on 05 November 2014 and holds a Category 1 Global Business License. The company is an investment holding company with a portfolio of assets focused primarily in the real estate sector although it holds investments in the agriculture and the industrial sectors and intends to diversify in the renewable energy and healthcare sectors.",
+      "industry": "Investment",
+      "board": "official"
+    },
+    {
+      "symbol_name": "TERRA",
+      "symbol_id": "TERA.N0000",
+      "total_shares": 0,
+      "description": "Terra is a conglomerate, established in Mauritius in 1838. Formerly known as Harel Frères, it started out as a small sugar factory. Today Terra is one of the major players in the cane sector in Mauritius. The group diversified its activities throughout the years, from an essentially sugar-oriented company to one with interests in energy production, manufacturing of alcoholic beverages production and commercial distribution, property development, construction, leisure and financial services",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "TRANSSWITCH(USD)",
+      "symbol_id": "TSAH.N0000",
+      "total_shares": 0,
+      "description": "Trans Switch was incorporated and registered in Mauritius on 21 April 2016 as a public company and holds a Category 1 Global Business License. Trans Switch is a holding company consolidating or investing into business process outsourcing service providers specific to the financial services industry.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "UBP",
+      "symbol_id": "UBP.N0000",
+      "total_shares": 0,
+      "description": "The Company was incorporated in July 1953. The activities of the Group's subsidiary and associate companies are all related to the building industry.",
+      "industry": "Other",
+      "board": "official"
+    },
+    {
+      "symbol_name": "UNITED DOCKS LTD",
+      "symbol_id": "UTDL.N0000",
+      "total_shares": 0,
+      "description": "United Docks is a leading real estate development and investment management company with the biggest portfolio of private freehold land ownership in the capital city of Mauritius. It is listed on the Stock Exchange of Mauritius with an asset base of MUR 7.4 Billion (US$ 165 million). The company owns 50,000 sqm of built area, mainly office spaces, warehouses and conferencing venues which are leased to some 78 tenants, including listed multinational conglomerates and international institutions from 14 different countries. It is also the pioneer and leader of Park and Ride services in Mauritius with some 1,000 parking bays and more than one thousand users and subscribers. United Docks services more than 4,000 professionals daily, which include tenants, visitors, and parking users. The group is fast expanding its business and has a development pipeline of around 200,000 sqm over the next 5 years close to the business districts of Port Louis, Ebène and Telfair",
+      "industry": "Investment",
+      "board": "official"
+    },
+    {
+      "symbol_name": "UNIVERSAL (GBP)",
+      "symbol_id": "UPL.N0000",
+      "total_shares": 0,
+      "description": "Universal Partners was incorporated on 25 April 2016 in Mauritius and holds a category 1 Global Business License. Universal Partners is an investment holding company that seeks private equity investment opportunities in high quality, cash generative businesses across Europe.",
+      "industry": "Investment",
+      "board": "official"
+    },
+    {
+      "symbol_name": "VIVO ENERGY",
+      "symbol_id": "SHEL.N0000",
+      "total_shares": 0,
+      "description": "Vivo Energy, a Shell licensee, is the leading oil company in Mauritius and plays a pivotal role in supplying the country’s energy needs. Established in December 2011, the company distributes and markets Shell-branded fuels and lubricants. Vivo Energy operates in Retail, Commercial Fuels, Marine and Aviation (in partnership with Vitol Aviation), Liquefied Petroleum Gas and Lubricants in Mauritius.",
+      "industry": "Energy & Utilities",
+      "board": "official"
+    },
+    {
+      "symbol_name": "ZIWETO (USD)",
+      "symbol_id": "ZWTO.N0000",
+      "total_shares": 0,
+      "description": "Ziweto Holdings was incorporated in Mauritius on 01 July 2024, as a public company limited by shares, with its main business activity being that of a holding company. The Company also holds a Global Business License issued by the Financial Services Commission. The purpose of Ziweto Holdings is mainly to act as the holding company of Ziweto Enterprises Limited, and as a group, it aims it aims to improve human life by providing access to high quality and affordable veterinary and animal nutrition products, as well as livestock production equipment to livestock farmers, through its network of over 20 “Ziweto Agro-vet Shops” reaching all regions of Malawi. Ziweto Enterprises Limited is Malawian business operating in the livestock sector offering animal health, nutrition, and breeding solutions to livestock farmers in Malawi.",
+      "industry": "Banking & Finance",
+      "board": "official"
+    },
+    {
+      "symbol_name": "ABC MOTORS",
+      "symbol_id": "ABC.I0000",
+      "total_shares": 0,
+      "description": "ABC MOTORS COMPANY LIMITED is a leading automotive company established in 1985. Since its inception, ABC Motors has been the sole distributor of the Nissan brand for the Mauritius market. In order to complement its automobile business, the Datsun and Infiniti brands have been added to Nissan’s exceptional line-up. ABC Motors also operates as a distributor for Nissan commercial vehicles along with UD Trucks and Eicher, which market heavy duty trucks and buses.",
+      "industry": "Automotive",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "ASSOCIATED COM",
+      "symbol_id": "ACC.I0000",
+      "total_shares": 0,
+      "description": "Associated Commercial Company Limited operates as a dealer in motor vehicles, spare parts, new tires, and accessories. The company is based in Port Louis, Mauritius.",
+      "industry": "Automotive",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "ATTITUDE",
+      "symbol_id": "APL.I0000",
+      "total_shares": 0,
+      "description": "Attitude Property Ltd was incorporated in Mauritius, as a private company under the Companies Act 2001, on the 4th of July 2013. It operates in the Hotel Industry as a Real Estate Investment Trust.",
+      "industry": "Investment",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "BEAU VALLON HOSP",
+      "symbol_id": "SCT.I0000",
+      "total_shares": 0,
+      "description": "Beau Vallon Hospitality Ltd is a public company limited by shares incorporated on 1985 and is domiciled in Mauritius. The Company has been in operation in the hotel industry for more than 30 years.",
+      "industry": "Hospitality & Tourism",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "CIE IMMOBILIERE",
+      "symbol_id": "CIMO.I0000",
+      "total_shares": 0,
+      "description": "The Companie owns the Arcades Currimjee situated in the heart of Curepipe and is principally responsible for the rental of commercial and office space in the Arcades.",
+      "industry": "Retail & Commerce",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "CONSTANCE",
+      "symbol_id": "CSE.I0000",
+      "total_shares": 0,
+      "description": "Constance La Gaiete Company Limited engages in sugar milling activities. It is also involved in other agro-industrial production and real estate activities.",
+      "industry": "Real Estate & Property",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "CONSTANCE HOTEL",
+      "symbol_id": "CHSL.I0000",
+      "total_shares": 0,
+      "description": "CHSL started its hotel operations in 1975 with the opening of its first hotel in Mauritius, the Constance Belle Mare Plage Hotel. The Group has since then expanded into a major hospitality player in the Indian Ocean with a presence in four countries and a portfolio comprising seven hotels and resorts under its management.",
+      "industry": "Hospitality & Tourism",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "EUDCOS",
+      "symbol_id": "EUDC.I0000",
+      "total_shares": 0,
+      "description": "Excelsior United Development Companies Ltd is an investment company which is strategically positioned in the beverages, tourism, property and commercial sectors.",
+      "industry": "Investment",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "GAZ INDUSTRIELS",
+      "symbol_id": "GIL.I0000",
+      "total_shares": 0,
+      "description": "Les Gaz Industriels Limited, founded in 1952 in Mauritius, manufactures, sells and distributes medical and industrial gases in bulk and in cylinders, as well as welding products.",
+      "industry": "Healthcare & Pharmaceuticals",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "HOTELEST",
+      "symbol_id": "HTLS.I0000",
+      "total_shares": 0,
+      "description": "The only activity of Hotelest is to hold 51% of the share capital of its subsidiary, CONSTANCE HOTELS SERVICES LIMITED, which operates in the hotel industry under the Constance Brand.",
+      "industry": "Investment",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "HWP",
+      "symbol_id": "HPL.I0000",
+      "total_shares": 0,
+      "description": "HWP, formerly Newton Properties is a public company incorporated in Mauritius on 14 February 1986. The main activity of HWP is the rental of its commercial property providing office and retail spaces. The commercial property is known as the Happy World House building and is situated at 37 Sir William Newton St, Port Louis.",
+      "industry": "Real Estate & Property",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "KOLOS",
+      "symbol_id": "KLOS.I0000",
+      "total_shares": 0,
+      "description": "The Company was incorporated on 22 October 1996 as a private company limited by shares, The core business of the Company is the import, processing and wholesale distribution of cement. It sells grey cement in bulk and in bags.",
+      "industry": "Other",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "LAVASTONE",
+      "symbol_id": "LAVA.I0000",
+      "total_shares": 0,
+      "description": "Lavastone is a public company incorporated in Mauritius on 5 March 2012. Lavastone is involved in the ownership, rental, management and development of commercial and industrial properties in Mauritius.",
+      "industry": "Retail & Commerce",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "LES MOULINS (O)",
+      "symbol_id": "LMLC.I0000",
+      "total_shares": 0,
+      "description": "The principal activity of Les Moulins de la Concorde Ltée is the milling of wheat and its main products, wheat flour and wheat bran, which are sold on the local market and exported to the Indian Ocean islands and African countries.",
+      "industry": "Other",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "LES MOULINS (P)",
+      "symbol_id": "LMLC.J0000",
+      "total_shares": 0,
+      "description": "The principal activity of Les Moulins de la Concorde Ltée is the milling of wheat and its main products, wheat flour and wheat bran, which are sold on the local market and exported to the Indian Ocean islands and African countries.",
+      "industry": "Other",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "LIVESTOCK (O)",
+      "symbol_id": "LFL.I0000",
+      "total_shares": 0,
+      "description": "Livestock Feed Limited engages in the processing of animal feeds for animal production and aquaculture industries in Mauritius and Madagascar. It is also involved in the unloading, storing, and handling of bulk commodities for compounders. The company offers poultry, aquaculture, ruminant, pet, pig, and horse feeds. Livestock Feed Limited was founded in 1977",
+      "industry": "Automotive",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "LIVESTOCK (P)",
+      "symbol_id": "LFL.J0000",
+      "total_shares": 0,
+      "description": "Livestock Feed Limited engages in the processing of animal feeds for animal production and aquaculture industries in Mauritius and Madagascar. It is also involved in the unloading, storing, and handling of bulk commodities for compounders. The company offers poultry, aquaculture, ruminant, pet, pig, and horse feeds. Livestock Feed Limited was founded in 1977",
+      "industry": "Automotive",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "MFD GROUP",
+      "symbol_id": "MFDG.I0000",
+      "total_shares": 0,
+      "description": "MFD’s principal activity is in the provision of logistics and supply chain management services within the Mauritius Freeport Zone. MFD also provides industrial and office space for rental.",
+      "industry": "Manufacturing",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "MIWA  (USD)",
+      "symbol_id": "MIWA.I0000",
+      "total_shares": 0,
+      "description": "Miwa Sugar Limited is a public company incorporated 2022. It operates in the sugar sector in Eastern Africa. Its vision is to become a regional leader in sugar and renewable energy for sustainable growth and improvement of living conditions and prosperity of local farmers and local communities.",
+      "industry": "Sugar & Agriculture",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "MORNING LIGHT",
+      "symbol_id": "MOLI.I0000",
+      "total_shares": 0,
+      "description": "Morning Light Co Ltd owns a resort hotel in Flic en Flac, which operates under the Hilton Mauritius Resort & Spa name. Morning Light is part of the Gamma Group.",
+      "industry": "Hospitality & Tourism",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "MTIUS COSMETICS",
+      "symbol_id": "MCOS.I0000",
+      "total_shares": 0,
+      "description": "MCL was incorporated in Mauritius as a private company limited by shares according on 22 January 1966. MCL produces toothpaste, perfumes and cosmetic products.",
+      "industry": "Other",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "MTIUS SEC. IND.",
+      "symbol_id": "MSIL.I0000",
+      "total_shares": 0,
+      "description": "MSI was incorporated in 1961 and is a company engaged in the rental of commercial and industrial buildings and the retreading of tyres.",
+      "industry": "Retail & Commerce",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "NOVUS",
+      "symbol_id": "NOV.I0000",
+      "total_shares": 0,
+      "description": "NOVUS PROPERTIES LTD was incorporated in the Republic of Mauritius on 8 December 2005. NOVUS principal activity is to acquire, invest and hold investment in real estate located in Mauritius.",
+      "industry": "Investment",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "OCEANARIUM",
+      "symbol_id": "OCEA.I0000",
+      "total_shares": 0,
+      "description": "Oceanarium (Mauritius) Ltd, was incorporated in 2016. The company owns and operates a world-class oceanarium, Odysseo , in the Mascarene region.",
+      "industry": "Automotive",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "PAPER CON CO LTD",
+      "symbol_id": "PCCL.I0000",
+      "total_shares": 0,
+      "description": "The Company is a leading manufacturer of tissue and toilet paper in Mauritius.",
+      "industry": "Other",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "PHOENIX INV",
+      "symbol_id": "PHIN.I0000",
+      "total_shares": 0,
+      "description": "PICL holds a 31% stake in Phoenix Beverages Ltd, which operates under the PhoenixBev Brand and which is an independent brewer and soft drinks bottler company, incorporated in 1960 and operating in both Mauritius and the wider Indian Ocean region.",
+      "industry": "Food & Beverages",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "QUALITY BEVERAGE",
+      "symbol_id": "QBL.I0000",
+      "total_shares": 0,
+      "description": "QBL was incorporated under the laws of Mauritius on the 23 February 1954. The principal activity of QBL consists of bottling and distribution of beverages.",
+      "industry": "Food & Beverages",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "RHT HOLDING LTD",
+      "symbol_id": "RHT.I0000",
+      "total_shares": 0,
+      "description": "RHT HOLDING LTD is one of Mauritius’s leading public transport operator. The company still operates in the public transport sector but has since diversified its activities in other sectors of the Mauritius economy.RHT HOLDING LTD has interests in real estate and property, financial and corporate services and computer and ICT/related activities.",
+      "industry": "Investment",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "SEMARIS",
+      "symbol_id": "SEMA.I0000",
+      "total_shares": 0,
+      "description": "Semaris Ltd is a public company incorporated on the 23 February 2018 in Mauritius. Semaris was formerly a subsidiary of New Mauritius Hotels Ltd. Semaris will concentrate on the development of the non-hotel real estate assets formerly owned by New Mauritius Hotels, with the principal objective of unlocking value from the available land bank located in Seychelles, Morocco and Mauritius. Semaris will develop luxury real estate projects on these lands, which will, after completion, be sold to generate returns for its shareholders.",
+      "industry": "Banking & Finance",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "SIT LAND HDG OPT",
+      "symbol_id": "SIT.I1111",
+      "total_shares": 0,
+      "description": "SIT Land Holdings Ltd was created in 2001 with the objective of dealing in matters relating to agriculture (cane cultivation, agricultural diversification) and to acquire, hold and/or dispose of properties in general.",
+      "industry": "Investment",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "SWAN LIFE LTD",
+      "symbol_id": "ANGM.I0000",
+      "total_shares": 0,
+      "description": "The principal activities of Swan Life consist of life insurance, pensions, actuarial and investment business.",
+      "industry": "Investment",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "TROPICAL PAR (O)",
+      "symbol_id": "TPL.I0000",
+      "total_shares": 0,
+      "description": "TPCL is a public company incorporated in 1994, which operates in the Hotel Sector and which has been listed on the DEM since 04 August 2006.",
+      "industry": "Hospitality & Tourism",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "TROPICAL PAR (P)",
+      "symbol_id": "TPL.J0000",
+      "total_shares": 0,
+      "description": "TPCL is a public company incorporated in 1994, which operates in the Hotel Sector and which has been listed on the DEM since 04 August 2006.",
+      "industry": "Hospitality & Tourism",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "UNION SUG ESTATE",
+      "symbol_id": "UNSE.I0000",
+      "total_shares": 0,
+      "description": "The Union Sugar Estates Co. Ltd. engages in the growing and cultivation of sugar cane and other agricultural products in Mauritius.It also engages in the hotel keeping and catering activities.",
+      "industry": "Sugar & Agriculture",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "UTD BUS SERVICE",
+      "symbol_id": "UBS.I0000",
+      "total_shares": 0,
+      "description": "The company was incorporated in 1954 and is an investment company. Its principal investment is in UBS Transport Ltd, which is involved in public transport and which is the largest private bus fleet operatior in Mauritius.",
+      "industry": "Investment",
+      "board": "dem"
+    },
+    {
+      "symbol_name": "VELOGIC",
+      "symbol_id": "VELG.I0000",
+      "total_shares": 0,
+      "description": "Velogic a public company incorporated on 30 September 2004 in Mauritius which offers its customers an integrated and comprehensive logistic solution with a wide range of services including freight-forwarding, customs house brokerage, haulage, warehousing, among others. Email: investors@velogic-mu.com",
+      "industry": "Other",
+      "board": "dem"
+    }
+  ],
+  "note": "Add all your symbols here with the following fields: symbol_name, symbol_id, total_shares, description, industry, board"
+}
