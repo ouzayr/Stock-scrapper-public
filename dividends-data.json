@@ -3,41 +3,45 @@
   "version": "1.0.0",
   "last_updated": "2025-11-04",
   "dividends": {
-    "MCFI":[
+    "ASCENCIA":[
       {
-        "payment_date": "2024-03-31",
-        "ex_dividend_date": "2024-01-11",
-        "type": "Final",
-        "amount_per_share": 0.9,
-        "year": 2023,
+        "payment_date": "2023-12-14",
+        "ex_dividend_date": "2023-11-22",
+        "type": "Interim",
+        "amount_per_share": 0.42,
+        "year": 2024,
         "currency": "MUR"
-      }
-    ],
-    "GRITREAL-MUR":[
+      },
       {
-        "payment_date": "2024-05-15",
-        "ex_dividend_date": "2024-04-03",
+        "payment_date": "2024-06-12",
+        "ex_dividend_date": "2024-05-24",
         "type": "Final",
-        "amount_per_share": 1.50,
-        "year": 2023,
-        "currency": "USD"
-      }
-    ],
-    "CIEL LIMITED":[
+        "amount_per_share": 0.61,
+        "year": 2024,
+        "currency": "MUR"
+      },
       {
-        "payment_date": "2025-07-30",
-        "ex_dividend_date": "2025-07-15",
-        "type": "Final",
-        "amount_per_share": 0.32,
+        "payment_date": "2024-12-10",
+        "ex_dividend_date": "2024-11-21",
+        "type": "Interim",
+        "amount_per_share": 0.44,
         "year": 2025,
         "currency": "MUR"
       },
       {
-        "payment_date": "2024-07-30",
-        "ex_dividend_date": "2024-07-15",
+        "payment_date": "2025-06-10",
+        "ex_dividend_date": "2025-05-28",
         "type": "Final",
-        "amount_per_share": 0.32,
-        "year": 2024,
+        "amount_per_share": 0.63,
+        "year": 2025,
+        "currency": "MUR"
+      },
+      {
+        "payment_date": "2025-12-23",
+        "ex_dividend_date": "2025-11-21",
+        "type": "Interim",
+        "amount_per_share": 0.46,
+        "year": 2026,
         "currency": "MUR"
       }
     ],
@@ -59,12 +63,178 @@
         "currency": "MUR"
       }
     ],
+    "CIEL LIMITED":[
+      {
+        "payment_date": "2024-07-30",
+        "ex_dividend_date": "2024-07-15",
+        "type": "Final",
+        "amount_per_share": 0.32,
+        "year": 2024,
+        "currency": "MUR"
+      },
+      {
+        "payment_date": "2025-07-30",
+        "ex_dividend_date": "2025-07-15",
+        "type": "Final",
+        "amount_per_share": 0.32,
+        "year": 2025,
+        "currency": "MUR"
+      }
+    ],
+    "EMTEL LIMITED":[
+      {
+        "payment_date": "2024-12-27",
+        "ex_dividend_date": "2024-12-12",
+        "type": "Final",
+        "amount_per_share": 1.25,
+        "year": 2024,
+        "currency": "MUR"
+      },
+      {
+        "payment_date": "2025-06-16",
+        "ex_dividend_date": "2025-06-03",
+        "type": "Interim",
+        "amount_per_share": 0.77,
+        "year": 2025,
+        "currency": "MUR"
+      },
+      {
+        "payment_date": "2025-12-19",
+        "ex_dividend_date": "2025-12-02",
+        "type": "Final",
+        "amount_per_share": 0.77,
+        "year": 2025,
+        "currency": "MUR"
+      }
+    ],
     "ER GROUP":[
       {
         "payment_date": "2025-12-31",
         "ex_dividend_date": "2025-11-28",
         "type": "Interim",
         "amount_per_share": 0.69,
+        "year": 2026,
+        "currency": "MUR"
+      }
+    ],
+    "GRITREAL-MUR":[
+      {
+        "payment_date": "2024-05-15",
+        "ex_dividend_date": "2024-04-03",
+        "type": "Final",
+        "amount_per_share": 1.50,
+        "year": 2023,
+        "currency": "USD"
+      }
+    ],
+    "IBL LTD":[
+      {
+        "payment_date": "2023-12-15",
+        "ex_dividend_date": "2023-11-27",
+        "type": "Interim",
+        "amount_per_share": 0.18,
+        "year": 2024,
+        "currency": "MUR"
+      },
+      {
+        "payment_date": "2024-06-28",
+        "ex_dividend_date": "2024-06-20",
+        "type": "Final",
+        "amount_per_share": 0.55,
+        "year": 2024,
+        "currency": "MUR"
+      },
+      {
+        "payment_date": "2024-12-16",
+        "ex_dividend_date": "2024-11-28",
+        "type": "Interim",
+        "amount_per_share": 0.20,
+        "year": 2025,
+        "currency": "MUR"
+      },
+      {
+        "payment_date": "2025-06-25",
+        "ex_dividend_date": "2025-06-10",
+        "type": "Final",
+        "amount_per_share": 0.56,
+        "year": 2024,
+        "currency": "MUR"
+      },
+      {
+        "payment_date": "2025-12-16",
+        "ex_dividend_date": "2025-11-28",
+        "type": "Interim",
+        "amount_per_share": 0.22,
+        "year": 2026,
+        "currency": "MUR"
+      }
+    ],
+    "MCFI":[
+      {
+        "payment_date": "2024-03-31",
+        "ex_dividend_date": "2024-01-11",
+        "type": "Final",
+        "amount_per_share": 0.9,
+        "year": 2023,
+        "currency": "MUR"
+      }
+    ],
+    "MEDINE LTD":[
+      {
+        "payment_date": "2024-04-01",
+        "ex_dividend_date": "2024-02-22",
+        "type": "Interim",
+        "amount_per_share": 1.35,
+        "year": 2024,
+        "currency": "MUR"
+      },
+      {
+        "payment_date": "2024-07-31",
+        "ex_dividend_date": "2024-07-12",
+        "type": "Interim",
+        "amount_per_share": 2.50,
+        "year": 2024,
+        "currency": "MUR"
+      },
+      {
+        "payment_date": "2024-11-05",
+        "ex_dividend_date": "2024-10-10",
+        "type": "Final",
+        "amount_per_share": 1.40,
+        "year": 2024,
+        "currency": "MUR"
+      },
+      {
+        "payment_date": "2025-04-01",
+        "ex_dividend_date": "2025-02-28",
+        "type": "Interim",
+        "amount_per_share": 1.45,
+        "year": 2025,
+        "currency": "MUR"
+      },
+      {
+        "payment_date": "2025-11-04",
+        "ex_dividend_date": "2025-10-09",
+        "type": "Final",
+        "amount_per_share": 1.30,
+        "year": 2025,
+        "currency": "MUR"
+      }
+    ],
+    "UBP":[
+      {
+        "payment_date": "2024-08-30",
+        "ex_dividend_date": "2024-07-11",
+        "type": "Final",
+        "amount_per_share": 1.75,
+        "year": 2024,
+        "currency": "MUR"
+      },
+      {
+        "payment_date": "2025-09-30",
+        "ex_dividend_date": "2025-07-15",
+        "type": "Final",
+        "amount_per_share": 1.75,
         "year": 2025,
         "currency": "MUR"
       }
