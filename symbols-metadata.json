@@ -425,7 +425,8 @@
       "total_shares": 0,
       "description": "SUN Ltd was incorporated on 10 February 1983 and is an established hotel group in the Indian Ocean, owning and/or managing hotel resorts in the Republic of Mauritius and the Republic of Maldives.",
       "industry": "Hospitality & Tourism",
-      "board": "official"
+      "board": "official",
+      "financial_year_end": "06-30"
     },
     {
       "symbol_name": "SWAN GENERAL LTD",
