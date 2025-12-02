@@ -221,6 +221,24 @@
         "currency": "MUR"
       }
     ],
+    "SUN LIMITED":[
+      {
+        "payment_date": "2024-07-26",
+        "ex_dividend_date": "2024-06-10",
+        "type": "Final",
+        "amount_per_share": 2.5,
+        "year": 2024,
+        "currency": "MUR"
+      },
+      {
+        "payment_date": "2025-07-21",
+        "ex_dividend_date": "2025-06-10",
+        "type": "Final",
+        "amount_per_share": 2.6,
+        "year": 2025,
+        "currency": "MUR"
+      }
+    ],
     "UBP":[
       {
         "payment_date": "2024-08-30",
