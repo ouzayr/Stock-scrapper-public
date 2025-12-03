@@ -1,0 +1,684 @@
+{
+    "baseURL": "https://www.stockexchangeofmauritius.com",
+    "entities": [
+        {
+            "name": "ABCB HOLDINGS",
+            "market": "official",
+            "ticker": "ABCH.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/abcb-holdings-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=ABCH.N0000"
+        },
+        {
+            "name": "AFREXIM DR (USD)",
+            "market": "official",
+            "ticker": "AEIB.N0004",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/african-export-import-bank?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=AEIB.N0004"
+        },
+        {
+            "name": "AFRICA CLEAN USD",
+            "market": "official",
+            "ticker": "ACES.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/africa-clean-energy-solutions-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=ACES.N0000"
+        },
+        {
+            "name": "AFRICA EATS(USD)",
+            "market": "official",
+            "ticker": "EATS.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/africa-eats-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=EATS.N0000"
+        },
+        {
+            "name": "AFRICURE (USD)",
+            "market": "official",
+            "ticker": "AFRP.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/africure-pharmaceuticals-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=AFRP.N0000"
+        },
+        {
+            "name": "AGAPE GLOBAL",
+            "market": "official",
+            "ticker": "DCPL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/agape-global-investments-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=DCPL.N0000"
+        },
+        {
+            "name": "ALMARYS LIMITED",
+            "market": "official",
+            "ticker": "ENLG.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/almarys-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=ENLG.N0000"
+        },
+        {
+            "name": "ALTEO LIMITED",
+            "market": "official",
+            "ticker": "ALTG.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/alteo-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=ALTG.N0000"
+        },
+        {
+            "name": "ARINDO (USD)",
+            "market": "official",
+            "ticker": "ARIN.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/arindo-holdings-mauritius-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=ARIN.N0000"
+        },
+        {
+            "name": "ASCENCIA",
+            "market": "official",
+            "ticker": "ASCE.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/ascencia-limited-ordinary?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=ASCE.N0000"
+        },
+        {
+            "name": "ASL",
+            "market": "official",
+            "ticker": "ASL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/automatic-systems-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=ASL.N0000"
+        },
+        {
+            "name": "ASTORIA (USD)",
+            "market": "official",
+            "ticker": "ATIL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/astoria-investments-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=ATIL.N0000"
+        },
+        {
+            "name": "BAYPORT (USD)",
+            "market": "official",
+            "ticker": "BAYP.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/bayport-management-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=BAYP.N0000"
+        },
+        {
+            "name": "BHI CLASS A PREF",
+            "market": "official",
+            "ticker": "BHI.P0001",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/beachcomber-hospilality-investments-ltd-class-a-pref?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=BHI.P0001"
+        },
+        {
+            "name": "BHI CLASS B PREF",
+            "market": "official",
+            "ticker": "BHI.P0002",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/beachcomber-hospitality-investments-ltd-class-b-pref?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=BHI.P0002"
+        },
+        {
+            "name": "BLUELIFE LIMITED",
+            "market": "official",
+            "ticker": "BLL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/bluelife-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=BLL.N0000"
+        },
+        {
+            "name": "BMH LTD",
+            "market": "official",
+            "ticker": "BMHL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/bmh-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=BMHL.N0000"
+        },
+        {
+            "name": "CIEL LIMITED",
+            "market": "official",
+            "ticker": "CIEL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/ciel-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=CIEL.N0000"
+        },
+        {
+            "name": "CIM FINANCIAL",
+            "market": "official",
+            "ticker": "CIM.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/cim-financial-services-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=CIM.N0000"
+        },
+        {
+            "name": "ELITE MEAT (USD)",
+            "market": "official",
+            "ticker": "ELIT.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/elite-meat-processors-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=ELIT.N0000"
+        },
+        {
+            "name": "EMTEL LIMITED",
+            "market": "official",
+            "ticker": "EMTL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/emtel-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=EMTL.N0000"
+        },
+        {
+            "name": "ER GROUP",
+            "market": "official",
+            "ticker": "ERL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/er-group-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=ERL.N0000"
+        },
+        {
+            "name": "FINCORP",
+            "market": "official",
+            "ticker": "FINC.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/fincorp-investment-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=FINC.N0000"
+        },
+        {
+            "name": "GAMMA CIVIC",
+            "market": "official",
+            "ticker": "GCL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/gamma-civic-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=GCL.N0000"
+        },
+        {
+            "name": "GRITREAL (USD)",
+            "market": "official",
+            "ticker": "DEL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/grit-real-estate-income-group-limited-usd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=DEL.N0000"
+        },
+        {
+            "name": "GRITREAL-MUR",
+            "market": "official",
+            "ticker": "DEL.C0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/grit-real-estate-income-group-limited-mur?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=DEL.C0000"
+        },
+        {
+            "name": "H. MALLAC",
+            "market": "official",
+            "ticker": "HML.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/official-market/harel-mallac-co-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=HML.N0000"
+        },
+        {
+            "name": "IBL LTD",
+            "market": "official",
+            "ticker": "IBLL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/ibl-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=IBLL.N0000"
+        },
+        {
+            "name": "INNODIS LTD",
+            "market": "official",
+            "ticker": "HWF.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/innodis-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=HWF.N0000"
+        },
+        {
+            "name": "LOTTOTECH LTD",
+            "market": "official",
+            "ticker": "LOTO.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/lottotech-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=LOTO.N0000"
+        },
+        {
+            "name": "LUX ISLAND",
+            "market": "official",
+            "ticker": "NRL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/lux-island-resorts-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=NRL.N0000"
+        },
+        {
+            "name": "MCB GROUP",
+            "market": "official",
+            "ticker": "MCBG.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/mcb-group-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=MCBG.N0000"
+        },
+        {
+            "name": "MCBG PREF",
+            "market": "official",
+            "ticker": "MCBG.P0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/mcb-group-limited-preference-shares?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=MCBG.P0000"
+        },
+        {
+            "name": "MCFI",
+            "market": "official",
+            "ticker": "MCFI.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/mauritius-chemical-fertilizer-industry-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=MCFI.N0000"
+        },
+        {
+            "name": "MDIT",
+            "market": "official",
+            "ticker": "MDIT.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/the-mauritius-development-investment-trust-co-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=MDIT.N0000"
+        },
+        {
+            "name": "MEDINE LTD",
+            "market": "official",
+            "ticker": "MSE.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/medine-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=MSE.N0000"
+        },
+        {
+            "name": "MOROIL",
+            "market": "official",
+            "ticker": "MOR.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/mauritius-oil-refineries-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=MOR.N0000"
+        },
+        {
+            "name": "MUA LTD",
+            "market": "official",
+            "ticker": "MUAL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/mua-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=MUAL.N0000"
+        },
+        {
+            "name": "NIT",
+            "market": "official",
+            "ticker": "NITL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/national-investment-trust-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=NITL.N0000"
+        },
+        {
+            "name": "NMH",
+            "market": "official",
+            "ticker": "NMHL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/new-mauritius-hotels-limited-ordinary?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=NMHL.N0000"
+        },
+        {
+            "name": "NMH PREFERENCE",
+            "market": "official",
+            "ticker": "NMHL.P0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/new-mauritius-hotels-limited-preference?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=NMHL.P0000"
+        },
+        {
+            "name": "NUMERAL (USD)",
+            "market": "official",
+            "ticker": "GOLI.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/numeral-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=GOLI.N0000"
+        },
+        {
+            "name": "OMNICANE LIMITED",
+            "market": "official",
+            "ticker": "MTMD.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/omnicane-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=MTMD.N0000"
+        },
+        {
+            "name": "PAD",
+            "market": "official",
+            "ticker": "PAD.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/promotion-and-development-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=PAD.N0000"
+        },
+        {
+            "name": "PBL",
+            "market": "official",
+            "ticker": "MBL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/phoenix-beverages-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=MBL.N0000"
+        },
+        {
+            "name": "PIM LIMITED",
+            "market": "official",
+            "ticker": "PIM.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/pim-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=PIM.N0000"
+        },
+        {
+            "name": "POLICY",
+            "market": "official",
+            "ticker": "POL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/policy-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=POL.N0000"
+        },
+        {
+            "name": "PSG FIN (USD)",
+            "market": "official",
+            "ticker": "PSGK.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/psg-financial-services-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=PSGK.N0000"
+        },
+        {
+            "name": "RIVEO LIMITED",
+            "market": "official",
+            "ticker": "RIVO.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/riveo-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=RIVO.N0000"
+        },
+        {
+            "name": "SBMH",
+            "market": "official",
+            "ticker": "SBMH.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/sbm-holdings-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=SBMH.N0000"
+        },
+        {
+            "name": "STEVENHILLS",
+            "market": "official",
+            "ticker": "SHL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/stevenhills-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=SHL.N0000"
+        },
+        {
+            "name": "SUN LIMITED",
+            "market": "official",
+            "ticker": "SUN.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/sun-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=SUN.N0000"
+        },
+        {
+            "name": "SWAN GENERAL LTD",
+            "market": "official",
+            "ticker": "SWAN.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/swan-general-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=SWAN.N0000"
+        },
+        {
+            "name": "TADVEST (USD)",
+            "market": "official",
+            "ticker": "TAD.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/tadvest-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=TAD.N0000"
+        },
+        {
+            "name": "TERRA",
+            "market": "official",
+            "ticker": "TERA.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/terra-mauricia-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=TERA.N0000"
+        },
+        {
+            "name": "TRANSSWITCH(USD)",
+            "market": "official",
+            "ticker": "TSAH.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/trans-switch-africa-holdings-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=TSAH.N0000"
+        },
+        {
+            "name": "UBP",
+            "market": "official",
+            "ticker": "UBP.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/the-united-basalt-products-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=UBP.N0000"
+        },
+        {
+            "name": "UNITED DOCKS LTD",
+            "market": "official",
+            "ticker": "UTDL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/united-docks-ltd?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=UTDL.N0000"
+        },
+        {
+            "name": "UNIVERSAL (GBP)",
+            "market": "official",
+            "ticker": "UPL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/universal-partners-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=UPL.N0000"
+        },
+        {
+            "name": "VIVO ENERGY",
+            "market": "official",
+            "ticker": "SHEL.N0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/vivo-energy-mauritius-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=SHEL.N0000"
+        },
+        {
+            "name": "ZIWETO (USD)",
+            "market": "official",
+            "ticker": "xxx",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/ziweto-holdings-limited?market=official",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=ZWTO.N0000"
+        },
+        {
+            "name": "ABC MOTORS",
+            "market": "dem",
+            "ticker": "ABC.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/abc-motors-company-limited?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=ABC.I0000"
+        },
+        {
+            "name": "ASSOCIATED COM",
+            "market": "dem",
+            "ticker": "ACC.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/associated-commercial-co-limited?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=ACC.I0000"
+        },
+        {
+            "name": "ATTITUDE",
+            "market": "dem",
+            "ticker": "APL.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/attitude-property-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=APL.I0000"
+        },
+        {
+            "name": "BEAU VALLON HOSP",
+            "market": "dem",
+            "ticker": "SCT.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/beau-vallon-hospitality-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=SCT.I0000"
+        },
+        {
+            "name": "CIE IMMOBILIERE",
+            "market": "dem",
+            "ticker": "CIMO.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/compagnie-immobiliere-limitee?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=CIMO.I0000"
+        },
+        {
+            "name": "CONSTANCE",
+            "market": "dem",
+            "ticker": "CSE.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/constance-la-gaiete-company-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=CSE.I0000"
+        },
+        {
+            "name": "CONSTANCE HOTEL",
+            "market": "dem",
+            "ticker": "CHSL.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/constance-hotels-services-limited?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=CHSL.I0000"
+        },
+        {
+            "name": "EUDCOS",
+            "market": "dem",
+            "ticker": "EUDC.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/excelsior-united-development-companies-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=EUDC.I0000"
+        },
+        {
+            "name": "GAZ INDUSTRIELS",
+            "market": "dem",
+            "ticker": "GIL.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/les-gaz-industriels-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=GIL.I0000"
+        },
+        {
+            "name": "HOTELEST",
+            "market": "dem",
+            "ticker": "HTLS.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/hotelest-limited?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=HTLS.I0000"
+        },
+        {
+            "name": "HWP",
+            "market": "dem",
+            "ticker": "HPL.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/happy-world-property-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=HPL.I0000"
+        },
+        {
+            "name": "KOLOS",
+            "market": "dem",
+            "ticker": "KLOS.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/kolos-cement-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=KLOS.I0000"
+        },
+        {
+            "name": "LAVASTONE",
+            "market": "dem",
+            "ticker": "LAVA.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/lavastone-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=LAVA.I0000"
+        },
+        {
+            "name": "LES MOULINS (O)",
+            "market": "dem",
+            "ticker": "LMLC.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/les-moulins-de-la-concorde-ltee-ordinary?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=LMLC.I0000"
+        },
+        {
+            "name": "LES MOULINS (P)",
+            "market": "dem",
+            "ticker": "LMLC.J0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/les-moulins-de-la-concorde-ltee-preference?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=LMLC.J0000"
+        },
+        {
+            "name": "LIVESTOCK (O)",
+            "market": "dem",
+            "ticker": "LFL.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/livestock-feed-limited-ordinary?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=LFL.I0000"
+        },
+        {
+            "name": "LIVESTOCK (P)",
+            "market": "dem",
+            "ticker": "LFL.J0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/livestock-feed-limited-preference?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=LFL.J0000"
+        },
+        {
+            "name": "MFD GROUP",
+            "market": "dem",
+            "ticker": "MFDG.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/mfd-group-limited?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=MFDG.I0000"
+        },
+        {
+            "name": "MIWA  (USD)",
+            "market": "dem",
+            "ticker": "MIWA.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/miwa-sugar-limited?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=MIWA.I0000"
+        },
+        {
+            "name": "MORNING LIGHT",
+            "market": "dem",
+            "ticker": "MOLI.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/morning-light-co-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=MOLI.I0000"
+        },
+        {
+            "name": "MTIUS COSMETICS",
+            "market": "dem",
+            "ticker": "MCOS.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/mauritius-cosmetics-limited?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=MCOS.I0000"
+        },
+        {
+            "name": "MTIUS SEC. IND.",
+            "market": "dem",
+            "ticker": "MSIL.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/mauritius-secondary-industries-limited?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=MSIL.I0000"
+        },
+        {
+            "name": "NOVUS",
+            "market": "dem",
+            "ticker": "NOV.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/novus-properties-limited?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=NOV.I0000"
+        },
+        {
+            "name": "OCEANARIUM",
+            "market": "dem",
+            "ticker": "OCEA.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/oceanarium-mauritius-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=OCEA.I0000"
+        },
+        {
+            "name": "PAPER CON CO LTD",
+            "market": "dem",
+            "ticker": "PCCL.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/paper-converting-co-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=PCCL.I0000"
+        },
+        {
+            "name": "PHOENIX INV",
+            "market": "dem",
+            "ticker": "PHIN.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/phoenix-investment-company-limited?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=PHIN.I0000"
+        },
+        {
+            "name": "QUALITY BEVERAGE",
+            "market": "dem",
+            "ticker": "QBL.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/quality-beverages-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=QBL.I0000"
+        },
+        {
+            "name": "RHT HOLDING LTD",
+            "market": "dem",
+            "ticker": "RHT.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/rht-holding-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=RHT.I0000"
+        },
+        {
+            "name": "SEMARIS",
+            "market": "dem",
+            "ticker": "SEMA.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/semaris-limited?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=SEMA.I0000"
+        },
+        {
+            "name": "SIT LAND HDG OPT",
+            "market": "dem",
+            "ticker": "SIT.I1111",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/sit-land-holdings-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=SIT.I1111"
+        },
+        {
+            "name": "SWAN LIFE LTD",
+            "market": "dem",
+            "ticker": "ANGM.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/swan-life-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=ANGM.I0000"
+        },
+        {
+            "name": "TROPICAL PAR (O)",
+            "market": "dem",
+            "ticker": "TPL.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/tropical-paradise-co-ltd-ordinary?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=TPL.I0000"
+        },
+        {
+            "name": "TROPICAL PAR (P)",
+            "market": "dem",
+            "ticker": "TPL.J0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/tropical-paradise-co-ltd-preference?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=TPL.J0000"
+        },
+        {
+            "name": "UNION SUG ESTATE",
+            "market": "dem",
+            "ticker": "UNSE.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/the-union-sugar-estates-company-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=UNSE.I0000"
+        },
+        {
+            "name": "UTD BUS SERVICE",
+            "market": "dem",
+            "ticker": "UBS.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/united-bus-service-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=UBS.I0000"
+        },
+        {
+            "name": "VELOGIC",
+            "market": "dem",
+            "ticker": "VELG.I0000",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/velogic-holding-company-ltd?market=dem",
+            "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=dem&filename=VELG.I0000"
+        }
+    ]
+}
