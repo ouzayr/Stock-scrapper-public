@@ -555,7 +555,8 @@
       "total_shares": 0,
       "description": "CHSL started its hotel operations in 1975 with the opening of its first hotel in Mauritius, the Constance Belle Mare Plage Hotel. The Group has since then expanded into a major hospitality player in the Indian Ocean with a presence in four countries and a portfolio comprising seven hotels and resorts under its management.",
       "industry": "Hospitality & Tourism",
-      "board": "dem"
+      "board": "dem",
+      "financial_year_end": "12-31"
     },
     {
       "symbol_name": "EUDCOS",
