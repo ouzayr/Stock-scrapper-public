@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-10T03:36:59.852168Z",
+  "lastUpdated": "2025-12-11T03:38:10.459238Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -2847,6 +2847,12 @@
     "GRITREAL (USD)": [
       {
         "type": "Other",
+        "originalType": "Communique",
+        "date": "2025-12-10",
+        "url": "https://www.stockexchangeofmauritius.com/media/12053/10122025grt.pdf"
+      },
+      {
+        "type": "Other",
         "originalType": "Notice of shareholder meeting",
         "date": "2025-12-01",
         "url": "https://www.stockexchangeofmauritius.com/media/12029/rns-for-notice-of-agm-2025-f-01-december-2025.pdf"
@@ -3075,6 +3081,12 @@
       }
     ],
     "GRITREAL-MUR": [
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2025-12-10",
+        "url": "https://www.stockexchangeofmauritius.com/media/12053/10122025grt.pdf"
+      },
       {
         "type": "Other",
         "originalType": "Notice of shareholder meeting",
