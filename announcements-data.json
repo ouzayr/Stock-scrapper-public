@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-12T10:57:45.633317Z",
+  "lastUpdated": "2025-12-12T11:05:47.493151Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -3314,86 +3314,6 @@
         "originalType": "Financial Statements",
         "date": "2024-02-28",
         "url": "https://www.stockexchangeofmauritius.com/media/9655/28022023gritfs.pdf"
-      }
-    ],
-    "H. MALLAC": [
-      {
-        "type": "Other",
-        "originalType": "Notice of shareholder meeting",
-        "date": "2025-05-09",
-        "url": "https://www.stockexchangeofmauritius.com/media/11188/hm-2025-annual-meeting-notice-sem.pdf"
-      },
-      {
-        "type": "Other",
-        "originalType": "Notice of shareholder meeting",
-        "date": "2024-05-10",
-        "url": "https://www.stockexchangeofmauritius.com/media/9863/10052024hm.pdf"
-      },
-      {
-        "type": "Other",
-        "originalType": "Communique",
-        "date": "2023-11-28",
-        "url": "https://www.stockexchangeofmauritius.com/media/9435/hm-communique_nov-2023.pdf"
-      },
-      {
-        "type": "Financial Statement",
-        "originalType": "Financial Statements",
-        "date": "2025-11-17",
-        "url": "https://www.stockexchangeofmauritius.com/media/11990/harel-mallac_unaudited_fs30092025_111125-v5a_pp.pdf"
-      },
-      {
-        "type": "Financial Statement",
-        "originalType": "Financial Statements",
-        "date": "2025-08-14",
-        "url": "https://www.stockexchangeofmauritius.com/media/11594/hm-ufs-30-june-2025.pdf"
-      },
-      {
-        "type": "Financial Statement",
-        "originalType": "Financial Statements",
-        "date": "2025-05-15",
-        "url": "https://www.stockexchangeofmauritius.com/media/11294/hm-abridged-march-2025-v12.pdf"
-      },
-      {
-        "type": "Financial Statement",
-        "originalType": "Financial Statements",
-        "date": "2025-03-31",
-        "url": "https://www.stockexchangeofmauritius.com/media/11091/hm-abridged-march-25-v11-31march25.pdf"
-      },
-      {
-        "type": "Financial Statement",
-        "originalType": "Financial Statements",
-        "date": "2024-11-15",
-        "url": "https://www.stockexchangeofmauritius.com/media/10608/harel-mallac-abridged-30-september-2024.pdf"
-      },
-      {
-        "type": "Financial Statement",
-        "originalType": "Financial Statements",
-        "date": "2024-08-14",
-        "url": "https://www.stockexchangeofmauritius.com/media/10210/14082024harelm.pdf"
-      },
-      {
-        "type": "Other",
-        "originalType": "NAV",
-        "date": "2024-05-14",
-        "url": "https://www.stockexchangeofmauritius.com/media/9918/14052024hw.docx"
-      },
-      {
-        "type": "Financial Statement",
-        "originalType": "Financial Statements",
-        "date": "2024-05-14",
-        "url": "https://www.stockexchangeofmauritius.com/media/9919/14052024hm.pdf"
-      },
-      {
-        "type": "Financial Statement",
-        "originalType": "Financial Statements",
-        "date": "2024-04-01",
-        "url": "https://www.stockexchangeofmauritius.com/media/9769/01042024hm.pdf"
-      },
-      {
-        "type": "Financial Statement",
-        "originalType": "Financial Statements",
-        "date": "2023-11-14",
-        "url": "https://www.stockexchangeofmauritius.com/media/9341/14112023hm.pdf"
       }
     ],
     "IBL LTD": [
@@ -10697,6 +10617,86 @@
         "originalType": "Financial Statements",
         "date": "2023-11-08",
         "url": "https://www.stockexchangeofmauritius.com/media/9252/08112023velo.pdf"
+      }
+    ],
+    "H. MALLAC": [
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2025-05-09",
+        "url": "https://www.stockexchangeofmauritius.com/media/11188/hm-2025-annual-meeting-notice-sem.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2024-05-10",
+        "url": "https://www.stockexchangeofmauritius.com/media/9863/10052024hm.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2023-11-28",
+        "url": "https://www.stockexchangeofmauritius.com/media/9435/hm-communique_nov-2023.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2025-11-17",
+        "url": "https://www.stockexchangeofmauritius.com/media/11990/harel-mallac_unaudited_fs30092025_111125-v5a_pp.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2025-08-14",
+        "url": "https://www.stockexchangeofmauritius.com/media/11594/hm-ufs-30-june-2025.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2025-05-15",
+        "url": "https://www.stockexchangeofmauritius.com/media/11294/hm-abridged-march-2025-v12.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2025-03-31",
+        "url": "https://www.stockexchangeofmauritius.com/media/11091/hm-abridged-march-25-v11-31march25.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2024-11-15",
+        "url": "https://www.stockexchangeofmauritius.com/media/10608/harel-mallac-abridged-30-september-2024.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2024-08-14",
+        "url": "https://www.stockexchangeofmauritius.com/media/10210/14082024harelm.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "NAV",
+        "date": "2024-05-14",
+        "url": "https://www.stockexchangeofmauritius.com/media/9918/14052024hw.docx"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2024-05-14",
+        "url": "https://www.stockexchangeofmauritius.com/media/9919/14052024hm.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2024-04-01",
+        "url": "https://www.stockexchangeofmauritius.com/media/9769/01042024hm.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2023-11-14",
+        "url": "https://www.stockexchangeofmauritius.com/media/9341/14112023hm.pdf"
       }
     ]
   }
