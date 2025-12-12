@@ -187,7 +187,7 @@
             "name": "H. MALLAC",
             "market": "official",
             "ticker": "HML.N0000",
-            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/official-market/harel-mallac-co-ltd?market=official",
+            "companyProfile": "https://www.stockexchangeofmauritius.com/company-snapshot/official-market/harel-mallac-co-ltd?market=official",
             "apiEndpoint": "https://www.stockexchangeofmauritius.com/interactive-graph?market=official&filename=HML.N0000"
         },
         {
@@ -682,3 +682,4 @@
         }
     ]
 }
+
