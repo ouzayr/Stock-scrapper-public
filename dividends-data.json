@@ -3,28 +3,17 @@
   "version": "1.0.0",
   "last_updated": "2025-12-12",
   "dividends": {
-    "ASCENCIA": [
-    ],
-    "BMH LTD": [
-    ],
-    "CIEL LIMITED": [
-    ],
-    "EMTEL LIMITED": [
-    ],
-    "ER GROUP": [
-    ],
-    "GRITREAL-MUR": [
-    ],
-    "IBL LTD": [
-    ],
-    "MCFI": [
-    ],
-    "MEDINE LTD": [
-    ],
-    "SUN LIMITED": [
-    ],
-    "UBP": [
-    ],
+    "ASCENCIA": [],
+    "BMH LTD": [],
+    "CIEL LIMITED": [],
+    "EMTEL LIMITED": [],
+    "ER GROUP": [],
+    "GRITREAL-MUR": [],
+    "IBL LTD": [],
+    "MCFI": [],
+    "MEDINE LTD": [],
+    "SUN LIMITED": [],
+    "UBP": [],
     "xxx": [
       {
         "payment_date": "yyyy-mm-dd",
@@ -35,8 +24,67 @@
         "currency": "MUR"
       }
     ],
-    "CONSTANCE HOTEL": [
-    ]
+    "CONSTANCE HOTEL": [],
+    "AFREXIM DR (USD)": [],
+    "ALMARYS LIMITED": [],
+    "ALTEO LIMITED": [],
+    "ASL": [],
+    "BHI CLASS A PREF": [],
+    "BHI CLASS B PREF": [],
+    "BLUELIFE LIMITED": [],
+    "CIM FINANCIAL": [],
+    "FINCORP": [],
+    "GAMMA CIVIC": [],
+    "GRITREAL (USD)": [],
+    "INNODIS LTD": [],
+    "LOTTOTECH LTD": [],
+    "LUX ISLAND": [],
+    "MCB GROUP": [],
+    "MDIT": [],
+    "MOROIL": [],
+    "MUA LTD": [],
+    "NIT": [],
+    "NMH": [],
+    "NMH PREFERENCE": [],
+    "OMNICANE LIMITED": [],
+    "PAD": [],
+    "PBL": [],
+    "PIM LIMITED": [],
+    "POLICY": [],
+    "PSG FIN (USD)": [],
+    "SBMH": [],
+    "STEVENHILLS": [],
+    "SWAN GENERAL LTD": [],
+    "TERRA": [],
+    "UNITED DOCKS LTD": [],
+    "VIVO ENERGY": [],
+    "ABC MOTORS": [],
+    "ASSOCIATED COM": [],
+    "ATTITUDE": [],
+    "CIE IMMOBILIERE": [],
+    "CONSTANCE": [],
+    "EUDCOS": [],
+    "HOTELEST": [],
+    "HWP": [],
+    "KOLOS": [],
+    "LAVASTONE": [],
+    "LES MOULINS (O)": [],
+    "LES MOULINS (P)": [],
+    "LIVESTOCK (O)": [],
+    "LIVESTOCK (P)": [],
+    "MFD GROUP": [],
+    "MIWA  (USD)": [],
+    "MTIUS COSMETICS": [],
+    "MTIUS SEC. IND.": [],
+    "NOVUS": [],
+    "PAPER CON CO LTD": [],
+    "PHOENIX INV": [],
+    "QUALITY BEVERAGE": [],
+    "RHT HOLDING LTD": [],
+    "SWAN LIFE LTD": [],
+    "UNION SUG ESTATE": [],
+    "UTD BUS SERVICE": [],
+    "VELOGIC": []
   },
   "note": "Add all dividend payments here with fields: symbol_name, payment_date, ex_dividend_date, type (interim/final), amount_per_share, year, currency"
 }
