@@ -3,7 +3,78 @@
   "version": "1.0.0",
   "last_updated": "2025-12-14",
   "dividends": {
-    "ASCENCIA": [],
+    "ASCENCIA": [
+      {
+        "payment_date": "2025-12-23",
+        "ex_dividend_date": "2025-11-21",
+        "type": "interim",
+        "amount_per_share": 0.46,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2025-11-06",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11842/06112025asc02.pdf",
+          "announcement_date": "2025-11-06",
+          "extracted_at": "2025-12-14T09:14:56.639828Z"
+        }
+      },
+      {
+        "payment_date": "2025-06-10",
+        "ex_dividend_date": "2025-05-28",
+        "type": "final",
+        "amount_per_share": 0.63,
+        "currency": "MUR",
+        "year": 2025,
+        "published": "2025-05-13",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11229/2025-05-13_ascencia_communique_final-dividend_30-june-2025-ma250512-8.pdf",
+          "announcement_date": "2025-05-13",
+          "extracted_at": "2025-12-14T09:15:01.636165Z"
+        }
+      },
+      {
+        "payment_date": "2024-12-10",
+        "ex_dividend_date": "2024-11-21",
+        "type": "interim",
+        "amount_per_share": 0.44,
+        "currency": "MUR",
+        "year": 2025,
+        "published": "2024-11-06",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/10471/ascencia_dividend-notice-6-nov-2024.pdf",
+          "announcement_date": "2024-11-06",
+          "extracted_at": "2025-12-14T09:15:06.794281Z"
+        }
+      },
+      {
+        "payment_date": "2024-06-12",
+        "ex_dividend_date": "2024-05-24",
+        "type": "final",
+        "amount_per_share": 0.61,
+        "currency": "MUR",
+        "year": 2024,
+        "published": "2024-05-09",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/9854/09052024asc.pdf",
+          "announcement_date": "2024-05-10",
+          "extracted_at": "2025-12-14T09:15:13.483579Z"
+        }
+      },
+      {
+        "payment_date": "2023-12-14",
+        "ex_dividend_date": "2023-11-23",
+        "type": "interim",
+        "amount_per_share": 0.42,
+        "currency": "MUR",
+        "year": 2024,
+        "published": "2023-11-08",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/9261/ascencia_declaration-of-interim-dividend.pdf",
+          "announcement_date": "2023-11-08",
+          "extracted_at": "2025-12-14T09:15:20.347264Z"
+        }
+      }
+    ],
     "BMH LTD": [],
     "CIEL LIMITED": [],
     "EMTEL LIMITED": [],
@@ -25,11 +96,240 @@
       }
     ],
     "CONSTANCE HOTEL": [],
-    "AFREXIM DR (USD)": [],
-    "ALMARYS LIMITED": [],
-    "ALTEO LIMITED": [],
-    "ASL": [],
-    "BHI CLASS A PREF": [],
+    "AFREXIM DR (USD)": [
+      {
+        "payment_date": "2025-08-29",
+        "ex_dividend_date": "2025-08-14",
+        "type": "other",
+        "amount_per_share": 0.303,
+        "currency": "USD",
+        "year": 2024,
+        "published": "2024-06-30",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11473/afreximbank-notice-of-dividend-june-2025-1.pdf",
+          "announcement_date": "2025-06-30",
+          "extracted_at": "2025-12-14T09:13:59.637571Z"
+        }
+      },
+      {
+        "payment_date": "2024-08-21",
+        "ex_dividend_date": "2024-08-12",
+        "type": "final",
+        "amount_per_share": 0.287,
+        "currency": "USD",
+        "year": 2023,
+        "published": "2024-06-21",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/10045/afreximbank-div-decl-21062024.pdf",
+          "announcement_date": "2024-06-21",
+          "extracted_at": "2025-12-14T09:14:05.696249Z"
+        }
+      }
+    ],
+    "ALMARYS LIMITED": [
+      {
+        "payment_date": "2025-12-31",
+        "ex_dividend_date": "2025-12-02",
+        "type": "interim",
+        "amount_per_share": 0.12,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2025-11-14",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11976/141112025almary2.pdf",
+          "announcement_date": "2025-11-14",
+          "extracted_at": "2025-12-14T09:14:10.963763Z"
+        }
+      },
+      {
+        "payment_date": "2025-06-16",
+        "ex_dividend_date": "2025-05-30",
+        "type": "final",
+        "amount_per_share": 0.61,
+        "currency": "MUR",
+        "year": 2025,
+        "published": "2025-05-15",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11292/enl-dividend-notice.pdf",
+          "announcement_date": "2025-05-15",
+          "extracted_at": "2025-12-14T09:14:18.479084Z"
+        }
+      },
+      {
+        "payment_date": "2024-12-31",
+        "ex_dividend_date": "2024-11-29",
+        "type": "interim",
+        "amount_per_share": 0.61,
+        "currency": "MUR",
+        "year": 2025,
+        "published": "2024-11-14",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/10589/enl_communique_interim-dividend.pdf",
+          "announcement_date": "2024-11-14",
+          "extracted_at": "2025-12-14T09:14:23.519817Z"
+        }
+      },
+      {
+        "payment_date": "2024-07-31",
+        "ex_dividend_date": "2024-05-30",
+        "type": "final",
+        "amount_per_share": 0.55,
+        "currency": "MUR",
+        "year": 2024,
+        "published": "2024-05-15",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/9932/15052024enl2.pdf",
+          "announcement_date": "2024-05-15",
+          "extracted_at": "2025-12-14T09:14:29.058047Z"
+        }
+      },
+      {
+        "payment_date": "2023-12-29",
+        "ex_dividend_date": "2023-11-29",
+        "type": "interim",
+        "amount_per_share": 0.55,
+        "currency": "MUR",
+        "year": 2024,
+        "published": "2023-11-14",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/9367/2023-11-14_enl_communique_interim-dividend_30-june-2024-ma231107-7.pdf",
+          "announcement_date": "2023-11-14",
+          "extracted_at": "2025-12-14T09:14:34.376849Z"
+        }
+      }
+    ],
+    "ALTEO LIMITED": [
+      {
+        "payment_date": "2025-12-15",
+        "ex_dividend_date": "2025-12-01",
+        "type": "interim",
+        "amount_per_share": 0.25,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2025-11-14",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11988/alteo_dividend-announcement_nov-2025.pdf",
+          "announcement_date": "2025-11-17",
+          "extracted_at": "2025-12-14T09:14:39.783493Z"
+        }
+      },
+      {
+        "payment_date": "2025-07-28",
+        "ex_dividend_date": "2025-07-10",
+        "type": "final",
+        "amount_per_share": 0.66,
+        "currency": "MUR",
+        "year": 2025,
+        "published": "2025-06-24",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11442/alteo-limited-dividend-announcement-june-2025.pdf",
+          "announcement_date": "2025-06-26",
+          "extracted_at": "2025-12-14T09:14:46.647981Z"
+        }
+      },
+      {
+        "payment_date": "2024-07-26",
+        "ex_dividend_date": "2024-07-08",
+        "type": "final",
+        "amount_per_share": 0.63,
+        "currency": "MUR",
+        "year": 2024,
+        "published": "2024-06-21",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/10051/24062024alte.pdf",
+          "announcement_date": "2024-06-24",
+          "extracted_at": "2025-12-14T09:14:51.804447Z"
+        }
+      }
+    ],
+    "ASL": [
+      {
+        "payment_date": "2026-01-30",
+        "ex_dividend_date": "2026-01-13",
+        "type": "final",
+        "amount_per_share": 2.0,
+        "currency": "MUR",
+        "year": 2025,
+        "published": "2025-12-05",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12045/05122025asl.pdf",
+          "announcement_date": "2025-12-05",
+          "extracted_at": "2025-12-14T09:15:26.961311Z"
+        }
+      },
+      {
+        "payment_date": "2024-03-29",
+        "ex_dividend_date": "2024-03-06",
+        "type": "final",
+        "amount_per_share": 1.5,
+        "currency": "MUR",
+        "year": 2023,
+        "published": "2023-12-07",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/9468/08122023asl.pdf",
+          "announcement_date": "2023-12-08",
+          "extracted_at": "2025-12-14T09:15:32.657600Z"
+        }
+      }
+    ],
+    "BHI CLASS A PREF": [
+      {
+        "payment_date": "2025-10-22",
+        "ex_dividend_date": "2025-10-03",
+        "type": "other",
+        "amount_per_share": 34.71,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2025-09-17",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11672/2025-09-17-bhi_notice_declaration-of-a-dividend-rn250912-2.pdf",
+          "announcement_date": "2025-09-17",
+          "extracted_at": "2025-12-14T09:15:37.852492Z"
+        }
+      },
+      {
+        "payment_date": "2025-03-04",
+        "ex_dividend_date": "2025-02-14",
+        "type": "other",
+        "amount_per_share": 35.29,
+        "currency": "MUR",
+        "year": 2025,
+        "published": "2025-01-27",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/10824/bhi_notice_declaration-of-dividend-rn250127-10.pdf",
+          "announcement_date": "2025-01-27",
+          "extracted_at": "2025-12-14T09:15:44.643597Z"
+        }
+      },
+      {
+        "payment_date": "2024-10-25",
+        "ex_dividend_date": "2024-10-09",
+        "type": "interim",
+        "amount_per_share": 34.9,
+        "currency": "MUR",
+        "year": 2025,
+        "published": "2024-09-23",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/10287/23092024bhdi.pdf",
+          "announcement_date": "2024-09-23",
+          "extracted_at": "2025-12-14T09:15:50.364568Z"
+        }
+      },
+      {
+        "payment_date": "2024-03-04",
+        "ex_dividend_date": "2024-02-15",
+        "type": "interim",
+        "amount_per_share": 44.88,
+        "currency": "MUR",
+        "year": 2024,
+        "published": "2024-01-29",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/9552/29012024bhi.pdf",
+          "announcement_date": "2024-01-29",
+          "extracted_at": "2025-12-14T09:15:55.652846Z"
+        }
+      }
+    ],
     "BHI CLASS B PREF": [],
     "BLUELIFE LIMITED": [],
     "CIM FINANCIAL": [],
