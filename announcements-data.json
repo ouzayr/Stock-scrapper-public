@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-12T11:27:46.156268Z",
+  "lastUpdated": "2025-12-14T03:43:42.535147Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -2382,6 +2382,18 @@
         "originalType": "Financial Statements",
         "date": "2023-12-21",
         "url": "https://www.stockexchangeofmauritius.com/media/9509/21122023cim2.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2025-12-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12057/12122025cfsl1.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2025-12-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12058/12122025cfsl2.pdf"
       }
     ],
     "ELITE MEAT (USD)": [
@@ -5499,6 +5511,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9379/15112023omni.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2025-12-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12056/12122025omm.pdf"
       }
     ],
     "PAD": [
