@@ -1,7 +1,7 @@
 {
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
-  "last_updated": "2025-12-14",
+  "last_updated": "2025-12-15",
   "dividends": {
     "ASCENCIA": [
       {
@@ -1390,17 +1390,17 @@
     ],
     "NIT": [
       {
-        "payment_date": "2024-01-26",
-        "ex_dividend_date": "2024-01-05",
-        "type": "other",
+        "payment_date": "2025-08-04",
+        "ex_dividend_date": "2025-07-09",
+        "type": "final",
         "amount_per_share": 0.6,
         "currency": "MUR",
-        "year": 2023,
-        "published": "2023-12-15",
+        "year": 2025,
+        "published": "2025-06-24",
         "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/9493/nit-dividend-announcement-2023.pdf",
-          "announcement_date": "2023-12-18",
-          "extracted_at": "2025-12-14T10:07:07.381222Z"
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11432/nit-notice-for-dividend-declaration.pdf",
+          "announcement_date": "2025-06-24",
+          "extracted_at": "2025-12-15T03:46:58.159800Z"
         }
       }
     ],
