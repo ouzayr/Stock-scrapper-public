@@ -1,7 +1,7 @@
 {
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
-  "last_updated": "2025-12-15",
+  "last_updated": "2025-12-16",
   "dividends": {
     "ASCENCIA": [
       {
@@ -2670,59 +2670,17 @@
     ],
     "LAVASTONE": [
       {
-        "payment_date": "2025-06-14",
-        "ex_dividend_date": "2025-05-28",
-        "type": "interim",
-        "amount_per_share": 0.03,
-        "currency": "MUR",
-        "year": 2025,
-        "published": "2025-05-13",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11234/lavastone-ltd-notice-310325.pdf",
-          "announcement_date": "2025-05-13",
-          "extracted_at": "2025-12-14T10:15:38.507987Z"
-        }
-      },
-      {
-        "payment_date": "2025-01-22",
-        "ex_dividend_date": "2025-01-03",
+        "payment_date": "2026-01-21",
+        "ex_dividend_date": "2025-12-31",
         "type": "final",
         "amount_per_share": 0.05,
         "currency": "MUR",
-        "year": 2024,
-        "published": "2024-12-17",
+        "year": 2025,
+        "published": "2025-12-15",
         "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/10755/lavastone-notice-for-dividends.pdf",
-          "announcement_date": "2024-12-17",
-          "extracted_at": "2025-12-14T10:15:44.127416Z"
-        }
-      },
-      {
-        "payment_date": "2024-06-15",
-        "ex_dividend_date": "2024-05-29",
-        "type": "interim",
-        "amount_per_share": 0.03,
-        "currency": "MUR",
-        "year": 2024,
-        "published": "2024-05-14",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/9927/15052024lava1.pdf",
-          "announcement_date": "2024-05-15",
-          "extracted_at": "2025-12-14T10:15:49.405706Z"
-        }
-      },
-      {
-        "payment_date": "2024-01-23",
-        "ex_dividend_date": "2024-01-04",
-        "type": "final",
-        "amount_per_share": 0.045,
-        "currency": "MUR",
-        "year": 2023,
-        "published": "2023-12-18",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/9494/lavastone-ltd-notice_dec23.pdf",
-          "announcement_date": "2023-12-18",
-          "extracted_at": "2025-12-14T10:15:54.499144Z"
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12063/lavastone-ltd-notice-dividends-301225.pdf",
+          "announcement_date": "2025-12-15",
+          "extracted_at": "2025-12-16T03:29:49.731508Z"
         }
       }
     ],

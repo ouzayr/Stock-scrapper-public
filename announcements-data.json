@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-15T03:46:52.282066Z",
+  "lastUpdated": "2025-12-16T03:29:43.798180Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -4397,6 +4397,12 @@
         "originalType": "Financial Statements",
         "date": "2025-02-17",
         "url": "https://www.stockexchangeofmauritius.com/media/10912/mdit-fs-17022025.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "NAV",
+        "date": "2025-12-15",
+        "url": "https://www.stockexchangeofmauritius.com/media/12064/202511-mdit-nav.pdf"
       }
     ],
     "MEDINE LTD": [
@@ -6053,6 +6059,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9331/14112023policyfs.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "NAV",
+        "date": "2025-12-15",
+        "url": "https://www.stockexchangeofmauritius.com/media/12061/policy_nav-publications_dec25.jpg"
       }
     ],
     "PSG FIN (USD)": [
@@ -8783,6 +8795,18 @@
         "originalType": "Financial Statements",
         "date": "2023-12-18",
         "url": "https://www.stockexchangeofmauritius.com/media/9490/abridged-30-september_dec23.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2025-12-15",
+        "url": "https://www.stockexchangeofmauritius.com/media/12063/lavastone-ltd-notice-dividends-301225.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2025-12-15",
+        "url": "https://www.stockexchangeofmauritius.com/media/12062/lavastone-abridged-30-september-2025-final.pdf"
       }
     ],
     "LES MOULINS (O)": [
