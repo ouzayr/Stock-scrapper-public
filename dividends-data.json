@@ -1,7 +1,7 @@
 {
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
-  "last_updated": "2025-12-16",
+  "last_updated": "2025-12-17",
   "dividends": {
     "ASCENCIA": [
       {
@@ -151,45 +151,17 @@
     ],
     "EMTEL LIMITED": [
       {
-        "payment_date": "2025-12-19",
-        "ex_dividend_date": "2025-12-02",
-        "type": "final",
-        "amount_per_share": 0.77,
+        "payment_date": "2026-01-27",
+        "ex_dividend_date": "2026-01-07",
+        "type": "special",
+        "amount_per_share": 0.88,
         "currency": "MUR",
         "year": 2025,
-        "published": "2025-11-06",
+        "published": "2025-12-16",
         "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11845/emtel-limited-notice-of-declaration-of-dividend-07112025.pdf",
-          "announcement_date": "2025-11-07",
-          "extracted_at": "2025-12-14T10:02:08.709148Z"
-        }
-      },
-      {
-        "payment_date": "2025-06-16",
-        "ex_dividend_date": "2025-06-03",
-        "type": "interim",
-        "amount_per_share": 0.77,
-        "currency": "MUR",
-        "year": 2025,
-        "published": "2025-05-08",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11186/emtel-notice-of-declaration-of-dividend.pdf",
-          "announcement_date": "2025-05-09",
-          "extracted_at": "2025-12-14T10:02:14.016721Z"
-        }
-      },
-      {
-        "payment_date": "2024-12-27",
-        "ex_dividend_date": "2024-12-12",
-        "type": "final",
-        "amount_per_share": 1.25,
-        "currency": "MUR",
-        "year": 2024,
-        "published": "2024-11-27",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/10676/emtel-limited-dividend-notice-fy-2024.pdf",
-          "announcement_date": "2024-11-27",
-          "extracted_at": "2025-12-14T10:02:19.135576Z"
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12066/16022025emtel.pdf",
+          "announcement_date": "2025-12-16",
+          "extracted_at": "2025-12-17T03:25:44.293568Z"
         }
       }
     ],
@@ -2494,59 +2466,17 @@
     ],
     "EUDCOS": [
       {
-        "payment_date": "2025-07-31",
-        "ex_dividend_date": "2025-07-10",
-        "type": "final",
-        "amount_per_share": 0.6,
-        "currency": "MUR",
-        "year": 2025,
-        "published": "2025-06-25",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11439/eudcos-notice-of-dividend-june-2025.pdf",
-          "announcement_date": "2025-06-26",
-          "extracted_at": "2025-12-14T10:14:34.388569Z"
-        }
-      },
-      {
-        "payment_date": "2025-02-28",
-        "ex_dividend_date": "2025-01-07",
+        "payment_date": "2026-01-19",
+        "ex_dividend_date": "2026-01-05",
         "type": "interim",
-        "amount_per_share": 0.6,
+        "amount_per_share": 0.66,
         "currency": "MUR",
-        "year": 2025,
-        "published": "2024-12-16",
+        "year": 2026,
+        "published": "2025-12-16",
         "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/10752/eudcos-notice-of-dividend-dec-2024.pdf",
-          "announcement_date": "2024-12-16",
-          "extracted_at": "2025-12-14T10:14:39.823527Z"
-        }
-      },
-      {
-        "payment_date": "2024-08-30",
-        "ex_dividend_date": "2024-07-23",
-        "type": "final",
-        "amount_per_share": 0.6,
-        "currency": "MUR",
-        "year": 2024,
-        "published": "2024-06-27",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/10089/notice-of-dividend-eudcos.pdf",
-          "announcement_date": "2024-07-01",
-          "extracted_at": "2025-12-14T10:14:44.776219Z"
-        }
-      },
-      {
-        "payment_date": "2024-02-08",
-        "ex_dividend_date": "2024-01-10",
-        "type": "interim",
-        "amount_per_share": 0.5,
-        "currency": "MUR",
-        "year": 2024,
-        "published": "2023-12-21",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/9511/notice-of-dividend-dec-2023-002-002.pdf",
-          "announcement_date": "2023-12-22",
-          "extracted_at": "2025-12-14T10:14:49.905025Z"
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12068/eudcos-notice-of-interim-dividend-16122025.pdf",
+          "announcement_date": "2025-12-16",
+          "extracted_at": "2025-12-17T03:25:50.122579Z"
         }
       }
     ],
@@ -2950,45 +2880,17 @@
     ],
     "MTIUS COSMETICS": [
       {
-        "payment_date": "2025-02-28",
-        "ex_dividend_date": "2024-12-09",
-        "type": "final",
-        "amount_per_share": 0.2,
-        "currency": "MUR",
-        "year": 2024,
-        "published": "2024-11-22",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/10665/mcl-notice-of-dividend_22112024.pdf",
-          "announcement_date": "2024-11-22",
-          "extracted_at": "2025-12-14T10:16:54.619737Z"
-        }
-      },
-      {
-        "payment_date": "2024-07-31",
-        "ex_dividend_date": "2023-12-22",
+        "payment_date": "2026-02-28",
+        "ex_dividend_date": "2026-01-28",
         "type": "final",
         "amount_per_share": 0.1,
         "currency": "MUR",
-        "year": 2023,
-        "published": "2023-12-07",
+        "year": 2025,
+        "published": "2025-12-15",
         "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/9465/07122023mcl.pdf",
-          "announcement_date": "2023-12-07",
-          "extracted_at": "2025-12-14T10:16:59.881709Z"
-        }
-      },
-      {
-        "payment_date": "2024-09-30",
-        "ex_dividend_date": "2023-12-22",
-        "type": "final",
-        "amount_per_share": 0.1,
-        "currency": "MUR",
-        "year": 2023,
-        "published": "2023-12-07",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/9465/07122023mcl.pdf",
-          "announcement_date": "2023-12-07",
-          "extracted_at": "2025-12-14T10:16:59.881838Z"
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12065/mcl-notice-of-dividend_15122025.pdf",
+          "announcement_date": "2025-12-16",
+          "extracted_at": "2025-12-17T03:25:55.639643Z"
         }
       }
     ],
@@ -3316,31 +3218,17 @@
     ],
     "UNION SUG ESTATE": [
       {
-        "payment_date": "2025-02-10",
-        "ex_dividend_date": "2025-01-17",
+        "payment_date": "2026-02-10",
+        "ex_dividend_date": "2026-01-19",
         "type": "final",
         "amount_per_share": 3.0,
         "currency": "MUR",
-        "year": 2024,
-        "published": "2024-12-31",
+        "year": 2025,
+        "published": "2025-12-16",
         "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/10790/use_declaration-of-dividend-31-december-2024.pdf",
-          "announcement_date": "2024-12-31",
-          "extracted_at": "2025-12-14T10:19:01.651697Z"
-        }
-      },
-      {
-        "payment_date": "2024-02-28",
-        "ex_dividend_date": "2024-02-09",
-        "type": "final",
-        "amount_per_share": 1.587,
-        "currency": "MUR",
-        "year": 2023,
-        "published": "2024-01-20",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/9550/2024-01-20_the-use_declaration-of-dividend.pdf",
-          "announcement_date": "2024-01-24",
-          "extracted_at": "2025-12-14T10:19:06.948592Z"
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12067/2025-12-31_the-use_declaration-of-dividend_rs300.pdf",
+          "announcement_date": "2025-12-16",
+          "extracted_at": "2025-12-17T03:26:00.840711Z"
         }
       }
     ],

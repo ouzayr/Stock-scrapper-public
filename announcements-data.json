@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-16T03:29:43.798180Z",
+  "lastUpdated": "2025-12-17T03:25:38.294535Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -2578,6 +2578,12 @@
         "originalType": "Financial Statements",
         "date": "2024-08-09",
         "url": "https://www.stockexchangeofmauritius.com/media/10166/emtel-abridged-unaudited-fs-q2-24.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2025-12-16",
+        "url": "https://www.stockexchangeofmauritius.com/media/12066/16022025emtel.pdf"
       }
     ],
     "ER GROUP": [
@@ -6987,6 +6993,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9326/13112023terra.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2025-12-16",
+        "url": "https://www.stockexchangeofmauritius.com/media/12069/ter-2025-12-16-terra-unaudited-condensed-fs-september-30-june-30-and-march-31-2025-kg251216-10.pdf"
       }
     ],
     "TRANSSWITCH(USD)": [
@@ -8347,6 +8359,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9301/13112023eud.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2025-12-16",
+        "url": "https://www.stockexchangeofmauritius.com/media/12068/eudcos-notice-of-interim-dividend-16122025.pdf"
       }
     ],
     "GAZ INDUSTRIELS": [
@@ -9429,6 +9447,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9350/14112023mcl.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2025-12-16",
+        "url": "https://www.stockexchangeofmauritius.com/media/12065/mcl-notice-of-dividend_15122025.pdf"
       }
     ],
     "MTIUS SEC. IND.": [
@@ -10487,6 +10511,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9312/13112023use.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2025-12-16",
+        "url": "https://www.stockexchangeofmauritius.com/media/12067/2025-12-31_the-use_declaration-of-dividend_rs300.pdf"
       }
     ],
     "UTD BUS SERVICE": [
