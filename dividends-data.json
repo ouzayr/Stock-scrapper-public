@@ -1,7 +1,7 @@
 {
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
-  "last_updated": "2025-12-14",
+  "last_updated": "2025-12-17",
   "dividends": {
     "ASCENCIA": [
       {
@@ -190,6 +190,20 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/10676/emtel-limited-dividend-notice-fy-2024.pdf",
           "announcement_date": "2024-11-27",
           "extracted_at": "2025-12-14T10:02:19.135576Z"
+        }
+      },
+      {
+        "payment_date": "2026-01-27",
+        "ex_dividend_date": "2026-01-07",
+        "type": "special",
+        "amount_per_share": 0.88,
+        "currency": "MUR",
+        "year": 2025,
+        "published": "2025-12-16",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12066/16022025emtel.pdf",
+          "announcement_date": "2025-12-16",
+          "extracted_at": "2025-12-17T15:45:26.390696Z"
         }
       }
     ],
@@ -2548,6 +2562,20 @@
           "announcement_date": "2023-12-22",
           "extracted_at": "2025-12-14T10:14:49.905025Z"
         }
+      },
+      {
+        "payment_date": "2026-01-19",
+        "ex_dividend_date": "2026-01-05",
+        "type": "interim",
+        "amount_per_share": 0.66,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2025-12-16",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12068/eudcos-notice-of-interim-dividend-16122025.pdf",
+          "announcement_date": "2025-12-16",
+          "extracted_at": "2025-12-17T15:45:34.567366Z"
+        }
       }
     ],
     "HOTELEST": [
@@ -2723,6 +2751,20 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/9494/lavastone-ltd-notice_dec23.pdf",
           "announcement_date": "2023-12-18",
           "extracted_at": "2025-12-14T10:15:54.499144Z"
+        }
+      },
+      {
+        "payment_date": "2026-01-21",
+        "ex_dividend_date": "2025-12-31",
+        "type": "final",
+        "amount_per_share": 0.05,
+        "currency": "MUR",
+        "year": 2025,
+        "published": "2025-12-15",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12063/lavastone-ltd-notice-dividends-301225.pdf",
+          "announcement_date": "2025-12-15",
+          "extracted_at": "2025-12-17T15:45:40.917805Z"
         }
       }
     ],
@@ -3031,6 +3073,20 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/9465/07122023mcl.pdf",
           "announcement_date": "2023-12-07",
           "extracted_at": "2025-12-14T10:16:59.881838Z"
+        }
+      },
+      {
+        "payment_date": "2026-02-28",
+        "ex_dividend_date": "2026-01-28",
+        "type": "final",
+        "amount_per_share": 0.1,
+        "currency": "MUR",
+        "year": 2025,
+        "published": "2025-12-15",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12065/mcl-notice-of-dividend_15122025.pdf",
+          "announcement_date": "2025-12-16",
+          "extracted_at": "2025-12-17T15:45:45.560019Z"
         }
       }
     ],
@@ -3383,6 +3439,20 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/9550/2024-01-20_the-use_declaration-of-dividend.pdf",
           "announcement_date": "2024-01-24",
           "extracted_at": "2025-12-14T10:19:06.948592Z"
+        }
+      },
+      {
+        "payment_date": "2026-02-10",
+        "ex_dividend_date": "2026-01-19",
+        "type": "final",
+        "amount_per_share": 3.0,
+        "currency": "MUR",
+        "year": 2025,
+        "published": "2025-12-16",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12067/2025-12-31_the-use_declaration-of-dividend_rs300.pdf",
+          "announcement_date": "2025-12-16",
+          "extracted_at": "2025-12-17T15:45:50.375321Z"
         }
       }
     ],
