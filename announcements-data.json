@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-18T03:26:21.210556Z",
+  "lastUpdated": "2025-12-19T03:29:23.065720Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -1402,6 +1402,12 @@
         "originalType": "Financial Statements",
         "date": "2024-03-28",
         "url": "https://www.stockexchangeofmauritius.com/media/9725/28032024ast.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2025-12-18",
+        "url": "https://www.stockexchangeofmauritius.com/media/12075/astoria-results-of-gm-final-17122025-v2.pdf"
       }
     ],
     "BAYPORT (USD)": [
@@ -3514,6 +3520,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9308/13112023iblf.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2025-12-18",
+        "url": "https://www.stockexchangeofmauritius.com/media/12076/ibl-cautionary-announcement-restructuring-financial-services-cluster-18122025.pdf"
       }
     ],
     "INNODIS LTD": [
@@ -5547,6 +5559,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9379/15112023omni.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2025-12-18",
+        "url": "https://www.stockexchangeofmauritius.com/media/12077/gh25265_omnicane-communique-spice-18122025.pdf"
       },
       {
         "type": "Dividend",
