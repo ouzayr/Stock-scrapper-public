@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-19T03:29:23.065720Z",
+  "lastUpdated": "2025-12-20T03:19:56.019625Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -4122,6 +4122,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9361/14112023mcb1.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2025-12-19",
+        "url": "https://www.stockexchangeofmauritius.com/media/12083/scrip-conversion-gesos-communique-sem.pdf"
       }
     ],
     "MCBG PREF": [],
@@ -5449,6 +5455,18 @@
         "originalType": "Financial Statements",
         "date": "2023-11-21",
         "url": "https://www.stockexchangeofmauritius.com/media/9402/21112023goli.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2025-12-19",
+        "url": "https://www.stockexchangeofmauritius.com/media/12081/numeral-announcement-final-19-december-2025.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "SEM Communique",
+        "date": "2025-12-19",
+        "url": "https://www.stockexchangeofmauritius.com/media/12082/numeral-sem-communique.pdf"
       }
     ],
     "OMNICANE LIMITED": [
