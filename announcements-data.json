@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-22T03:48:32.887904Z",
+  "lastUpdated": "2025-12-23T03:40:56.480993Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -2236,6 +2236,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9344/14112023ciel1.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2025-12-22",
+        "url": "https://www.stockexchangeofmauritius.com/media/12085/ciel-communique-share-scheme-issue-of-shares-22122025.pdf"
       }
     ],
     "CIM FINANCIAL": [
@@ -3126,6 +3132,12 @@
         "originalType": "Financial Statements",
         "date": "2024-02-28",
         "url": "https://www.stockexchangeofmauritius.com/media/9655/28022023gritfs.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2025-12-22",
+        "url": "https://www.stockexchangeofmauritius.com/media/12086/greigl-results-of-agm-22122025-1.pdf"
       }
     ],
     "GRITREAL-MUR": [
@@ -3362,6 +3374,12 @@
         "originalType": "Financial Statements",
         "date": "2024-02-28",
         "url": "https://www.stockexchangeofmauritius.com/media/9655/28022023gritfs.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2025-12-22",
+        "url": "https://www.stockexchangeofmauritius.com/media/12086/greigl-results-of-agm-22122025-1.pdf"
       }
     ],
     "IBL LTD": [
@@ -5455,6 +5473,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-21",
         "url": "https://www.stockexchangeofmauritius.com/media/9402/21112023goli.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2025-12-22",
+        "url": "https://www.stockexchangeofmauritius.com/media/12084/num_-change-in-time-of-general-meeting-announcement_22-december-2025_sensfinal.pdf"
       },
       {
         "type": "Other",
