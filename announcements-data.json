@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-23T03:40:56.480993Z",
+  "lastUpdated": "2025-12-24T03:28:50.265342Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -3136,6 +3136,18 @@
       {
         "type": "Other",
         "originalType": "Communique",
+        "date": "2025-12-23",
+        "url": "https://www.stockexchangeofmauritius.com/media/12087/greigl-results-of-agm-22122025.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2025-12-23",
+        "url": "https://www.stockexchangeofmauritius.com/media/12088/voluntary-update-vde-disposal-and-acquisition-of-remaining-interest-in-opal-final-23-december-2025.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
         "date": "2025-12-22",
         "url": "https://www.stockexchangeofmauritius.com/media/12086/greigl-results-of-agm-22122025-1.pdf"
       }
@@ -3374,6 +3386,18 @@
         "originalType": "Financial Statements",
         "date": "2024-02-28",
         "url": "https://www.stockexchangeofmauritius.com/media/9655/28022023gritfs.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2025-12-23",
+        "url": "https://www.stockexchangeofmauritius.com/media/12087/greigl-results-of-agm-22122025.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2025-12-23",
+        "url": "https://www.stockexchangeofmauritius.com/media/12088/voluntary-update-vde-disposal-and-acquisition-of-remaining-interest-in-opal-final-23-december-2025.pdf"
       },
       {
         "type": "Other",
