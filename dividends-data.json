@@ -1,7 +1,7 @@
 {
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
-  "last_updated": "2025-12-25",
+  "last_updated": "2025-12-26",
   "dividends": {
     "ASCENCIA": [
       {
