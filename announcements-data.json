@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T03:54:37.851958Z",
+  "lastUpdated": "2025-12-30T03:42:49.330625Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -8369,6 +8369,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-10",
         "url": "https://www.stockexchangeofmauritius.com/media/9295/10112023chsl.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2025-12-29",
+        "url": "https://www.stockexchangeofmauritius.com/media/12092/chsl-communique-29-december-2025.pdf"
       }
     ],
     "EUDCOS": [
