@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T03:42:49.330625Z",
+  "lastUpdated": "2025-12-31T03:41:43.274914Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -6947,6 +6947,24 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9352/14112023swang.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2025-12-30",
+        "url": "https://www.stockexchangeofmauritius.com/media/12096/sgl-condensed-march-2025-v2.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2025-12-30",
+        "url": "https://www.stockexchangeofmauritius.com/media/12097/sgl-condensed-june-2025-v5.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2025-12-30",
+        "url": "https://www.stockexchangeofmauritius.com/media/12098/sgl-condensed-september-2025-v4.pdf"
       }
     ],
     "TADVEST (USD)": [
@@ -10391,6 +10409,24 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9353/14112023swanl.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2025-12-30",
+        "url": "https://www.stockexchangeofmauritius.com/media/12093/sll-condensed-march-2025-final.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2025-12-30",
+        "url": "https://www.stockexchangeofmauritius.com/media/12094/sll-condensed-june-2025-final.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2025-12-30",
+        "url": "https://www.stockexchangeofmauritius.com/media/12095/sll-condensed-september-2025-final.pdf"
       }
     ],
     "TROPICAL PAR (O)": [
