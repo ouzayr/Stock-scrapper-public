@@ -1964,50 +1964,7 @@
         }
       }
     ],
-    "PSG FIN (USD)": [
-      {
-        "payment_date": "2025-05-12",
-        "ex_dividend_date": "2025-05-07",
-        "type": "final",
-        "amount_per_share": 35.0,
-        "currency": "ZAR",
-        "year": 2025,
-        "published": "2025-04-16",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11126/psg-financial-services-dividend.pdf",
-          "announcement_date": "2025-04-16",
-          "extracted_at": "2025-12-14T10:10:38.397729Z"
-        }
-      },
-      {
-        "payment_date": null,
-        "ex_dividend_date": null,
-        "type": "interim",
-        "amount_per_share": 17.0,
-        "currency": "ZAR",
-        "year": 2025,
-        "published": "2025-04-16",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11126/psg-financial-services-dividend.pdf",
-          "announcement_date": "2025-04-16",
-          "extracted_at": "2025-12-14T10:10:38.397867Z"
-        }
-      },
-      {
-        "payment_date": "2024-11-11",
-        "ex_dividend_date": "2024-11-06",
-        "type": "interim",
-        "amount_per_share": 17.0,
-        "currency": "ZAR",
-        "year": 2024,
-        "published": "2024-10-17",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/10404/psg-financial-services_sens_interim-results_h1-2025.pdf",
-          "announcement_date": "2024-10-17",
-          "extracted_at": "2025-12-14T10:10:43.866633Z"
-        }
-      }
-    ],
+    "PSG FIN (USD)": [],
     "SBMH": [
       {
         "payment_date": "2025-06-19",
