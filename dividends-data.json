@@ -2755,20 +2755,6 @@
         }
       },
       {
-        "payment_date": "2025-06-30",
-        "ex_dividend_date": "2025-06-09",
-        "type": "final",
-        "amount_per_share": 20.0,
-        "currency": "MUR",
-        "year": 2025,
-        "published": "2025-05-23",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11332/lmlc_dividend_div-25_notice-23052025.pdf",
-          "announcement_date": "2025-05-23",
-          "extracted_at": "2025-12-14T10:16:00.153996Z"
-        }
-      },
-      {
         "payment_date": "2024-06-27",
         "ex_dividend_date": "2024-05-21",
         "type": "final",
@@ -2781,37 +2767,9 @@
           "announcement_date": "2024-05-06",
           "extracted_at": "2025-12-14T10:16:05.670884Z"
         }
-      },
-      {
-        "payment_date": "2024-06-27",
-        "ex_dividend_date": "2024-05-21",
-        "type": "final",
-        "amount_per_share": 20.0,
-        "currency": "MUR",
-        "year": 2024,
-        "published": "2024-05-06",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/9825/08052024lmlcdv.pdf",
-          "announcement_date": "2024-05-06",
-          "extracted_at": "2025-12-14T10:16:05.671015Z"
-        }
       }
     ],
     "LES MOULINS (P)": [
-      {
-        "payment_date": "2025-06-30",
-        "ex_dividend_date": "2025-06-09",
-        "type": "final",
-        "amount_per_share": 3.75,
-        "currency": "MUR",
-        "year": 2025,
-        "published": "2025-05-23",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11332/lmlc_dividend_div-25_notice-23052025.pdf",
-          "announcement_date": "2025-05-23",
-          "extracted_at": "2025-12-14T10:16:13.063271Z"
-        }
-      },
       {
         "payment_date": "2025-06-30",
         "ex_dividend_date": "2025-06-09",
@@ -2824,20 +2782,6 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/11332/lmlc_dividend_div-25_notice-23052025.pdf",
           "announcement_date": "2025-05-23",
           "extracted_at": "2025-12-14T10:16:13.063436Z"
-        }
-      },
-      {
-        "payment_date": "2024-06-27",
-        "ex_dividend_date": "2024-05-21",
-        "type": "final",
-        "amount_per_share": 3.75,
-        "currency": "MUR",
-        "year": 2024,
-        "published": "2024-05-06",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/9825/08052024lmlcdv.pdf",
-          "announcement_date": "2024-05-06",
-          "extracted_at": "2025-12-14T10:16:18.206738Z"
         }
       },
       {
@@ -2871,20 +2815,6 @@
         }
       },
       {
-        "payment_date": "2025-06-30",
-        "ex_dividend_date": "2025-06-09",
-        "type": "final",
-        "amount_per_share": 1.2,
-        "currency": "MUR",
-        "year": 2025,
-        "published": "2025-05-26",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11338/20250526_lfl_dividend_div-25-_notice-to-sem.pdf",
-          "announcement_date": "2025-05-26",
-          "extracted_at": "2025-12-14T10:16:23.504159Z"
-        }
-      },
-      {
         "payment_date": "2024-06-28",
         "ex_dividend_date": "2024-05-23",
         "type": "final",
@@ -2897,37 +2827,9 @@
           "announcement_date": "2024-05-08",
           "extracted_at": "2025-12-14T10:16:29.041078Z"
         }
-      },
-      {
-        "payment_date": "2024-06-28",
-        "ex_dividend_date": "2024-05-23",
-        "type": "final",
-        "amount_per_share": 1.2,
-        "currency": "MUR",
-        "year": 2024,
-        "published": "2024-05-08",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/9844/08052024lfldv.pdf",
-          "announcement_date": "2024-05-08",
-          "extracted_at": "2025-12-14T10:16:29.041215Z"
-        }
       }
     ],
     "LIVESTOCK (P)": [
-      {
-        "payment_date": "2025-06-30",
-        "ex_dividend_date": "2025-06-09",
-        "type": "final",
-        "amount_per_share": 0.52,
-        "currency": "MUR",
-        "year": 2025,
-        "published": "2025-05-26",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/11338/20250526_lfl_dividend_div-25-_notice-to-sem.pdf",
-          "announcement_date": "2025-05-26",
-          "extracted_at": "2025-12-14T10:16:34.174729Z"
-        }
-      },
       {
         "payment_date": "2025-06-30",
         "ex_dividend_date": "2025-06-09",
@@ -2940,20 +2842,6 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/11338/20250526_lfl_dividend_div-25-_notice-to-sem.pdf",
           "announcement_date": "2025-05-26",
           "extracted_at": "2025-12-14T10:16:34.174865Z"
-        }
-      },
-      {
-        "payment_date": "2024-06-28",
-        "ex_dividend_date": "2024-05-23",
-        "type": "final",
-        "amount_per_share": 0.47,
-        "currency": "MUR",
-        "year": 2024,
-        "published": "2024-05-08",
-        "_source": {
-          "announcement_url": "https://www.stockexchangeofmauritius.com/media/9844/08052024lfldv.pdf",
-          "announcement_date": "2024-05-08",
-          "extracted_at": "2025-12-14T10:16:39.696172Z"
         }
       },
       {
