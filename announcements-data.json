@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T04:00:42.069730Z",
+  "lastUpdated": "2026-01-06T03:44:00.762279Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -1402,18 +1402,6 @@
         "originalType": "Financial Statements",
         "date": "2024-03-28",
         "url": "https://www.stockexchangeofmauritius.com/media/9725/28032024ast.pdf"
-      },
-      {
-        "type": "Other",
-        "originalType": "Communique",
-        "date": "2025-12-31",
-        "url": "https://www.stockexchangeofmauritius.com/media/12099/astoria-cost-apportionment-31-dec-2025.pdf"
-      },
-      {
-        "type": "Other",
-        "originalType": "Communique",
-        "date": "2025-12-18",
-        "url": "https://www.stockexchangeofmauritius.com/media/12075/astoria-results-of-gm-final-17122025-v2.pdf"
       }
     ],
     "BAYPORT (USD)": [
