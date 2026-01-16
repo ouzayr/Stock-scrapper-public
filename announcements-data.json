@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T03:46:15.006204Z",
+  "lastUpdated": "2026-01-16T03:45:11.850322Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -4485,6 +4485,12 @@
       {
         "type": "Other",
         "originalType": "NAV",
+        "date": "2026-01-15",
+        "url": "https://www.stockexchangeofmauritius.com/media/12115/202512-mdit-nav.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "NAV",
         "date": "2025-12-15",
         "url": "https://www.stockexchangeofmauritius.com/media/12064/202511-mdit-nav.pdf"
       }
@@ -6379,6 +6385,12 @@
         "originalType": "Financial Statements",
         "date": "2024-04-18",
         "url": "https://www.stockexchangeofmauritius.com/media/9804/psgfy2024.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-01-15",
+        "url": "https://www.stockexchangeofmauritius.com/media/12114/psgfs-sens-director-dealing-14012026-final.pdf"
       }
     ],
     "RIVEO LIMITED": [
