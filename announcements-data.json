@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-20T03:49:46.942038Z",
+  "lastUpdated": "2026-01-21T03:49:27.519299Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -5917,6 +5917,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-10",
         "url": "https://www.stockexchangeofmauritius.com/media/9280/10112023pbl2f.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-01-20",
+        "url": "https://www.stockexchangeofmauritius.com/media/12117/pbl-cautionary-announcement-final-2026-01-20.pdf"
       }
     ],
     "PIM LIMITED": [
@@ -8957,6 +8963,12 @@
         "originalType": "Financial Statements",
         "date": "2023-12-18",
         "url": "https://www.stockexchangeofmauritius.com/media/9490/abridged-30-september_dec23.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-01-20",
+        "url": "https://www.stockexchangeofmauritius.com/media/12116/ar25-lava-notice_resolution.pdf"
       },
       {
         "type": "Dividend",
