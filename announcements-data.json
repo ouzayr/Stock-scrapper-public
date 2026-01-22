@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T03:49:27.519299Z",
+  "lastUpdated": "2026-01-22T03:52:58.168791Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -5501,6 +5501,12 @@
       {
         "type": "Other",
         "originalType": "Communique",
+        "date": "2026-01-21",
+        "url": "https://www.stockexchangeofmauritius.com/media/12118/num_informationshareconsolidation_resultsofspeciallmeeting_21012026.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
         "date": "2025-12-22",
         "url": "https://www.stockexchangeofmauritius.com/media/12084/num_-change-in-time-of-general-meeting-announcement_22-december-2025_sensfinal.pdf"
       },
@@ -5515,6 +5521,18 @@
         "originalType": "SEM Communique",
         "date": "2025-12-19",
         "url": "https://www.stockexchangeofmauritius.com/media/12082/numeral-sem-communique.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-01-21",
+        "url": "https://www.stockexchangeofmauritius.com/media/12120/numeralnov25.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-01-21",
+        "url": "https://www.stockexchangeofmauritius.com/media/12121/numeral_sem_sens_short-form_q3-november-2025_sem_sens_final.pdf"
       }
     ],
     "OMNICANE LIMITED": [
@@ -6179,6 +6197,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9331/14112023policyfs.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "NAV",
+        "date": "2026-01-21",
+        "url": "https://www.stockexchangeofmauritius.com/media/12119/policy_nav_21012026.pdf"
       },
       {
         "type": "Other",
