@@ -1,7 +1,7 @@
 {
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
-  "last_updated": "2026-01-22",
+  "last_updated": "2026-01-23",
   "dividends": {
     "ASCENCIA": [
       {
@@ -1111,6 +1111,20 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/9540/19012024lux2.pdf",
           "announcement_date": "2024-01-19",
           "extracted_at": "2025-12-14T10:04:38.216213Z"
+        }
+      },
+      {
+        "payment_date": "2026-03-09",
+        "ex_dividend_date": "2026-02-05",
+        "type": "interim",
+        "amount_per_share": 1.25,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2026-01-21",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12124/20260121-lir-interim-dividend-declaration.pdf",
+          "announcement_date": "2026-01-22",
+          "extracted_at": "2026-01-23T03:47:48.224127Z"
         }
       }
     ],

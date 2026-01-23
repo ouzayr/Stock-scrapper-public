@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-22T03:52:58.168791Z",
+  "lastUpdated": "2026-01-23T03:47:42.860544Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -2414,6 +2414,12 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9509/21122023cim2.pdf"
       },
       {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-01-22",
+        "url": "https://www.stockexchangeofmauritius.com/media/12122/cim-notice-of-meeting_2025-22012026.pdf"
+      },
+      {
         "type": "Dividend",
         "originalType": "Declaration of Dividend",
         "date": "2025-12-12",
@@ -3862,6 +3868,18 @@
         "originalType": "Financial Statements",
         "date": "2024-01-19",
         "url": "https://www.stockexchangeofmauritius.com/media/9539/19012024lux1.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-01-22",
+        "url": "https://www.stockexchangeofmauritius.com/media/12124/20260121-lir-interim-dividend-declaration.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-01-22",
+        "url": "https://www.stockexchangeofmauritius.com/media/12123/lir-finance-december-2025.pdf"
       }
     ],
     "MCB GROUP": [
@@ -6415,6 +6433,12 @@
         "originalType": "Financial Statements",
         "date": "2024-04-18",
         "url": "https://www.stockexchangeofmauritius.com/media/9804/psgfy2024.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-01-22",
+        "url": "https://www.stockexchangeofmauritius.com/media/12125/psg-sens-communique-22012026.pdf"
       },
       {
         "type": "Other",
