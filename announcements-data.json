@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T04:01:51.923274Z",
+  "lastUpdated": "2026-01-27T03:52:27.232735Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -25,6 +25,12 @@
         "originalType": "Financial Statements",
         "date": "2025-05-14",
         "url": "https://www.stockexchangeofmauritius.com/media/11247/abcb-acc.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-01-26",
+        "url": "https://www.stockexchangeofmauritius.com/media/12128/26012025abcb.pdf"
       }
     ],
     "AFREXIM DR (USD)": [
