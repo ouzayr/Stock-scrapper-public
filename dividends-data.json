@@ -1,7 +1,7 @@
 {
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
-  "last_updated": "2026-01-27",
+  "last_updated": "2026-01-28",
   "dividends": {
     "ASCENCIA": [
       {
@@ -745,9 +745,38 @@
           "announcement_date": "2024-01-29",
           "extracted_at": "2025-12-14T09:15:55.652846Z"
         }
+      },
+      {
+        "payment_date": "2026-02-26",
+        "ex_dividend_date": "2026-02-11",
+        "type": "other",
+        "amount_per_share": 35.29,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2026-01-26",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12130/2026-01-26-bhi_notice_declaration-of-dividend-rn260126-9.pdf",
+          "announcement_date": "2026-01-27",
+          "extracted_at": "2026-01-28T03:50:39.486552Z"
+        }
       }
     ],
-    "BHI CLASS B PREF": [],
+    "BHI CLASS B PREF": [
+      {
+        "payment_date": "2026-02-26",
+        "ex_dividend_date": "2026-02-11",
+        "type": "other",
+        "amount_per_share": 35.29,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2026-01-26",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12130/2026-01-26-bhi_notice_declaration-of-dividend-rn260126-9.pdf",
+          "announcement_date": "2026-01-27",
+          "extracted_at": "2026-01-28T03:50:44.639302Z"
+        }
+      }
+    ],
     "BLUELIFE LIMITED": [
       {
         "payment_date": "2025-09-30",

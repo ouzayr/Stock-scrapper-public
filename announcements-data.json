@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T03:52:27.232735Z",
+  "lastUpdated": "2026-01-28T03:50:34.034932Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -1726,6 +1726,12 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9269/09112023bhi.pdf"
       },
       {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-01-27",
+        "url": "https://www.stockexchangeofmauritius.com/media/12130/2026-01-26-bhi_notice_declaration-of-dividend-rn260126-9.pdf"
+      },
+      {
         "type": "Other",
         "originalType": "Communique",
         "date": "2025-12-17",
@@ -1736,6 +1742,12 @@
         "originalType": "SEM Communique",
         "date": "2025-12-17",
         "url": "https://www.stockexchangeofmauritius.com/media/12074/official-notice-bhi.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-01-27",
+        "url": "https://www.stockexchangeofmauritius.com/media/12129/2026-01-26-bhi_accounts-for-the-quarter-ended-31-december-2025-rn260126-8.pdf"
       }
     ],
     "BHI CLASS B PREF": [
@@ -1848,6 +1860,12 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9269/09112023bhi.pdf"
       },
       {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-01-27",
+        "url": "https://www.stockexchangeofmauritius.com/media/12130/2026-01-26-bhi_notice_declaration-of-dividend-rn260126-9.pdf"
+      },
+      {
         "type": "Other",
         "originalType": "Communique",
         "date": "2025-12-17",
@@ -1858,6 +1876,12 @@
         "originalType": "SEM Communique",
         "date": "2025-12-17",
         "url": "https://www.stockexchangeofmauritius.com/media/12074/official-notice-bhi.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-01-27",
+        "url": "https://www.stockexchangeofmauritius.com/media/12129/2026-01-26-bhi_accounts-for-the-quarter-ended-31-december-2025-rn260126-8.pdf"
       }
     ],
     "BLUELIFE LIMITED": [
@@ -3142,6 +3166,12 @@
       {
         "type": "Other",
         "originalType": "Communique",
+        "date": "2026-01-27",
+        "url": "https://www.stockexchangeofmauritius.com/media/12132/greigl-changes-to-the-board_27012026.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
         "date": "2025-12-23",
         "url": "https://www.stockexchangeofmauritius.com/media/12087/greigl-results-of-agm-22122025.pdf"
       },
@@ -3392,6 +3422,12 @@
         "originalType": "Financial Statements",
         "date": "2024-02-28",
         "url": "https://www.stockexchangeofmauritius.com/media/9655/28022023gritfs.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-01-27",
+        "url": "https://www.stockexchangeofmauritius.com/media/12132/greigl-changes-to-the-board_27012026.pdf"
       },
       {
         "type": "Other",
@@ -10051,6 +10087,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-10",
         "url": "https://www.stockexchangeofmauritius.com/media/9278/10112023picl2f.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-01-27",
+        "url": "https://www.stockexchangeofmauritius.com/media/12131/picl-cautionary-announcement-final.pdf"
       }
     ],
     "QUALITY BEVERAGE": [
