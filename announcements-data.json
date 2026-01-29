@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T03:50:34.034932Z",
+  "lastUpdated": "2026-01-29T04:11:55.126260Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -8691,6 +8691,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9349/14112023lgi1.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-01-28",
+        "url": "https://www.stockexchangeofmauritius.com/media/12133/28012026lgi.pdf"
       }
     ],
     "HOTELEST": [
