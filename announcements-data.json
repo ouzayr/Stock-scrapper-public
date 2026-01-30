@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T04:11:55.126260Z",
+  "lastUpdated": "2026-01-30T04:14:03.074576Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -1956,6 +1956,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-10",
         "url": "https://www.stockexchangeofmauritius.com/media/9276/10112023bll.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-01-29",
+        "url": "https://www.stockexchangeofmauritius.com/media/12134/bll-public-announcement-280126.pdf"
       }
     ],
     "BMH LTD": [
@@ -5557,6 +5563,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-21",
         "url": "https://www.stockexchangeofmauritius.com/media/9402/21112023goli.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-01-29",
+        "url": "https://www.stockexchangeofmauritius.com/media/12135/num_fractional-entitlements_29-january-2026_announcement_sem_sens_final.pdf"
       },
       {
         "type": "Other",
