@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T04:29:08.265033Z",
+  "lastUpdated": "2026-02-03T04:20:43.809102Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -8661,6 +8661,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9349/14112023lgi1.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-02-02",
+        "url": "https://www.stockexchangeofmauritius.com/media/12139/lgi-communiqué-02022026.pdf"
       },
       {
         "type": "Other",
