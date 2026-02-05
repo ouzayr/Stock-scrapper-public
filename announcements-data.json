@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-04T04:15:19.752161Z",
+  "lastUpdated": "2026-02-05T04:20:01.771150Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -8061,6 +8061,12 @@
         "originalType": "Financial Statements",
         "date": "2024-02-06",
         "url": "https://www.stockexchangeofmauritius.com/media/9564/06022024apl1.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-02-04",
+        "url": "https://www.stockexchangeofmauritius.com/media/12143/2026-02-04-apl-communiqué-dividend.pdf"
       }
     ],
     "BEAU VALLON HOSP": [
@@ -10585,6 +10591,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-06",
         "url": "https://www.stockexchangeofmauritius.com/media/9238/06112023tpcl.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-04",
+        "url": "https://www.stockexchangeofmauritius.com/media/12142/20251231_tpcl_accounts_unaudited-abridged_app-by-directors-on-04022026.pdf"
       }
     ],
     "TROPICAL PAR (P)": [
@@ -10647,6 +10659,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-06",
         "url": "https://www.stockexchangeofmauritius.com/media/9238/06112023tpcl.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-04",
+        "url": "https://www.stockexchangeofmauritius.com/media/12142/20251231_tpcl_accounts_unaudited-abridged_app-by-directors-on-04022026.pdf"
       }
     ],
     "UNION SUG ESTATE": [
