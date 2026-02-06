@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-05T04:20:01.771150Z",
+  "lastUpdated": "2026-02-06T04:21:08.087866Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -3172,6 +3172,12 @@
       {
         "type": "Other",
         "originalType": "Communique",
+        "date": "2026-02-05",
+        "url": "https://www.stockexchangeofmauritius.com/media/12146/grit-changes-to-the-board-of-directors.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
         "date": "2026-01-27",
         "url": "https://www.stockexchangeofmauritius.com/media/12132/greigl-changes-to-the-board_27012026.pdf"
       },
@@ -3428,6 +3434,12 @@
         "originalType": "Financial Statements",
         "date": "2024-02-28",
         "url": "https://www.stockexchangeofmauritius.com/media/9655/28022023gritfs.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-02-05",
+        "url": "https://www.stockexchangeofmauritius.com/media/12146/grit-changes-to-the-board-of-directors.pdf"
       },
       {
         "type": "Other",
@@ -8067,6 +8079,12 @@
         "originalType": "Declaration of Dividend",
         "date": "2026-02-04",
         "url": "https://www.stockexchangeofmauritius.com/media/12143/2026-02-04-apl-communiqué-dividend.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-05",
+        "url": "https://www.stockexchangeofmauritius.com/media/12145/apl_condensed-report-fy-31-dec-2025_ver6.pdf"
       }
     ],
     "BEAU VALLON HOSP": [
@@ -10959,6 +10977,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-08",
         "url": "https://www.stockexchangeofmauritius.com/media/9252/08112023velo.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-05",
+        "url": "https://www.stockexchangeofmauritius.com/media/12144/velogic_abridged_unaudited_q2fy26_31-december-2025_vf.pdf"
       }
     ],
     "H. MALLAC": [
