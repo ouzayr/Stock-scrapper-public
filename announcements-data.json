@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-09T04:32:03.766041Z",
+  "lastUpdated": "2026-02-10T04:36:19.653005Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -305,6 +305,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9338/14112023aces.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-02-09",
+        "url": "https://www.stockexchangeofmauritius.com/media/12154/aces_update-on-the-private-placement_090226.pdf"
       }
     ],
     "AFRICA EATS(USD)": [
@@ -6105,6 +6111,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-10",
         "url": "https://www.stockexchangeofmauritius.com/media/9297/pim-limited-results-announcement-30-sep-2023.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-09",
+        "url": "https://www.stockexchangeofmauritius.com/media/12153/pim-limited-result-announcement-vf.pdf"
       }
     ],
     "POLICY": [
@@ -6555,6 +6567,12 @@
         "originalType": "Financial Statements",
         "date": "2025-02-12",
         "url": "https://www.stockexchangeofmauritius.com/media/10860/riveo-abridged-unaudited-fs-31122024.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-09",
+        "url": "https://www.stockexchangeofmauritius.com/media/12155/riveo-unaudited-f-statements-q2fy26.pdf"
       }
     ],
     "SBMH": [
@@ -6957,6 +6975,12 @@
         "originalType": "Financial Statements",
         "date": "2024-02-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9605/13022024sun.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-09",
+        "url": "https://www.stockexchangeofmauritius.com/media/12152/sun-unaudited-fs-q2fy26.pdf"
       }
     ],
     "SWAN GENERAL LTD": [
