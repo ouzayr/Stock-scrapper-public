@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-10T04:36:19.653005Z",
+  "lastUpdated": "2026-02-11T04:34:18.097729Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -744,6 +744,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9366/2023-11-14_abridged-accounts_30-september-2023-ma231114-5.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "SEM Communique",
+        "date": "2026-02-10",
+        "url": "https://www.stockexchangeofmauritius.com/media/12159/100226-semsi-communique-almarys.pdf"
       }
     ],
     "ALTEO LIMITED": [
@@ -1980,6 +1986,12 @@
         "originalType": "Communique",
         "date": "2026-01-29",
         "url": "https://www.stockexchangeofmauritius.com/media/12134/bll-public-announcement-280126.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-10",
+        "url": "https://www.stockexchangeofmauritius.com/media/12164/10022026bll.pdf"
       }
     ],
     "BMH LTD": [
@@ -5201,10 +5213,22 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9286/10112023nmhf.pdf"
       },
       {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-02-10",
+        "url": "https://www.stockexchangeofmauritius.com/media/12157/2026-02-09_nmh_communique_declaration-of-preference-dividend.pdf"
+      },
+      {
         "type": "Other",
         "originalType": "Communique",
         "date": "2026-02-06",
         "url": "https://www.stockexchangeofmauritius.com/media/12149/20260204_nmh-com_cautionary.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-10",
+        "url": "https://www.stockexchangeofmauritius.com/media/12156/2026-02-09-nmh-2nd-quarterly-accounts_31-december-2025.pdf"
       }
     ],
     "NMH PREFERENCE": [
@@ -5365,10 +5389,22 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9286/10112023nmhf.pdf"
       },
       {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-02-10",
+        "url": "https://www.stockexchangeofmauritius.com/media/12157/2026-02-09_nmh_communique_declaration-of-preference-dividend.pdf"
+      },
+      {
         "type": "Other",
         "originalType": "Communique",
         "date": "2026-02-06",
         "url": "https://www.stockexchangeofmauritius.com/media/12149/20260204_nmh-com_cautionary.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-10",
+        "url": "https://www.stockexchangeofmauritius.com/media/12156/2026-02-09-nmh-2nd-quarterly-accounts_31-december-2025.pdf"
       }
     ],
     "NUMERAL (USD)": [
@@ -6841,6 +6877,12 @@
         "originalType": "Financial Statements",
         "date": "2025-04-10",
         "url": "https://www.stockexchangeofmauritius.com/media/11105/250408_stevenhills_ltm-accounts-final.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-10",
+        "url": "https://www.stockexchangeofmauritius.com/media/12158/stevenhills-abridged-fs-dec-2025-final.pdf"
       }
     ],
     "SUN LIMITED": [
@@ -8745,6 +8787,12 @@
         "originalType": "Communique",
         "date": "2026-01-28",
         "url": "https://www.stockexchangeofmauritius.com/media/12133/28012026lgi.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-10",
+        "url": "https://www.stockexchangeofmauritius.com/media/12163/lgi-condensed-audited-fs-december-2025.pdf"
       }
     ],
     "HOTELEST": [
@@ -10491,6 +10539,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9363/14112023sitlh.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-10",
+        "url": "https://www.stockexchangeofmauritius.com/media/12161/sitlh-published-31-december-2025-10-feb-2026-final.pdf"
       }
     ],
     "SWAN LIFE LTD": [
