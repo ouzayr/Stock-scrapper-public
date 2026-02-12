@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-11T04:34:18.097729Z",
+  "lastUpdated": "2026-02-12T04:30:02.029341Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -3774,6 +3774,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-08",
         "url": "https://www.stockexchangeofmauritius.com/media/9257/08112023inn2.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-11",
+        "url": "https://www.stockexchangeofmauritius.com/media/12171/innodis-publi-dec25-exp.pdf"
       }
     ],
     "LOTTOTECH LTD": [
@@ -7507,6 +7513,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9304/13112023ubp.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-11",
+        "url": "https://www.stockexchangeofmauritius.com/media/12169/ubp-abridged-fs-31-dec-2025-approved.pdf"
       }
     ],
     "UNITED DOCKS LTD": [
@@ -7715,6 +7727,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9336/14112023upl.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-11",
+        "url": "https://www.stockexchangeofmauritius.com/media/12167/upl-summarised-unaudited-results-for-the-quarter-ended-31-dec-2025.pdf"
       }
     ],
     "VIVO ENERGY": [
@@ -8792,7 +8810,7 @@
         "type": "Financial Statement",
         "originalType": "Financial Statements",
         "date": "2026-02-10",
-        "url": "https://www.stockexchangeofmauritius.com/media/12163/lgi-condensed-audited-fs-december-2025.pdf"
+        "url": "https://www.stockexchangeofmauritius.com/media/12163/lgi-202512_condensed-unaudited-fs-december-2025.pdf"
       }
     ],
     "HOTELEST": [
@@ -9171,6 +9189,12 @@
       {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
+        "date": "2026-02-11",
+        "url": "https://www.stockexchangeofmauritius.com/media/12165/lavastone-abridged-31-december-2025-final.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
         "date": "2025-12-15",
         "url": "https://www.stockexchangeofmauritius.com/media/12062/lavastone-abridged-30-september-2025-final.pdf"
       }
@@ -9241,6 +9265,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-08",
         "url": "https://www.stockexchangeofmauritius.com/media/9249/08112023lmlc.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-11",
+        "url": "https://www.stockexchangeofmauritius.com/media/12166/20260210_lmlc_quartelyaccounts_unaudited-311225.pdf"
       }
     ],
     "LES MOULINS (P)": [
@@ -9309,6 +9339,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-08",
         "url": "https://www.stockexchangeofmauritius.com/media/9249/08112023lmlc.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-11",
+        "url": "https://www.stockexchangeofmauritius.com/media/12166/20260210_lmlc_quartelyaccounts_unaudited-311225.pdf"
       }
     ],
     "LIVESTOCK (O)": [
