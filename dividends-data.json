@@ -1,7 +1,7 @@
 {
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
-  "last_updated": "2026-02-12",
+  "last_updated": "2026-02-13",
   "dividends": {
     "ASCENCIA": [
       {
@@ -396,6 +396,20 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/9575/08022023med1.pdf",
           "announcement_date": "2024-02-08",
           "extracted_at": "2025-12-14T10:06:03.602214Z"
+        }
+      },
+      {
+        "payment_date": "2026-04-03",
+        "ex_dividend_date": "2026-02-27",
+        "type": "interim",
+        "amount_per_share": 1.4,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2026-02-11",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12173/medine-dividend-declaration-half-year-dec-2025.pdf",
+          "announcement_date": "2026-02-12",
+          "extracted_at": "2026-02-13T04:26:23.522048Z"
         }
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-12T04:30:02.029341Z",
+  "lastUpdated": "2026-02-13T04:26:18.250206Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -31,6 +31,12 @@
         "originalType": "Declaration of Dividend",
         "date": "2026-01-26",
         "url": "https://www.stockexchangeofmauritius.com/media/12128/26012025abcb.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12182/abcbh-abridged-december-2025.pdf"
       }
     ],
     "AFREXIM DR (USD)": [
@@ -1032,6 +1038,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-08",
         "url": "https://www.stockexchangeofmauritius.com/media/9260/ascencia_abridged-q1_web_vf.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12185/2026-02-12_ascencia_abridged-accounts-fye-31-december-2025-ma260212-6.pdf"
       }
     ],
     "ASL": [
@@ -2302,6 +2314,18 @@
         "originalType": "Communique",
         "date": "2025-12-22",
         "url": "https://www.stockexchangeofmauritius.com/media/12085/ciel-communique-share-scheme-issue-of-shares-22122025.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12183/2026-02-12-unaudited-fs-ciel-31122025.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12184/2026-02-12-ciel-international-earnings-release-31122025.pdf"
       }
     ],
     "CIM FINANCIAL": [
@@ -2766,6 +2790,12 @@
         "originalType": "Financial Statements",
         "date": "2025-09-30",
         "url": "https://www.stockexchangeofmauritius.com/media/11745/er-group_earnings-release-on-proforma-results-fy25_final.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "SEM Communique",
+        "date": "2026-02-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12187/12022026-semsi-communique-ergroup.pdf"
       }
     ],
     "FINCORP": [
@@ -4759,6 +4789,18 @@
         "originalType": "Financial Statements",
         "date": "2023-11-08",
         "url": "https://www.stockexchangeofmauritius.com/media/9246/08112023med.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-02-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12173/medine-dividend-declaration-half-year-dec-2025.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12172/medine-abridged_financial-statements_year-ended-dec-25.pdf"
       }
     ],
     "MOROIL": [
@@ -6055,6 +6097,12 @@
         "originalType": "Communique",
         "date": "2026-01-20",
         "url": "https://www.stockexchangeofmauritius.com/media/12117/pbl-cautionary-announcement-final-2026-01-20.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12174/pbl-abridged-accounts-31-dec-2026.pdf"
       }
     ],
     "PIM LIMITED": [
@@ -6535,6 +6583,12 @@
         "originalType": "Financial Statements",
         "date": "2024-04-18",
         "url": "https://www.stockexchangeofmauritius.com/media/9804/psgfy2024.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-02-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12186/psg-fs-sens-change-to-the-board-_-2026_chairperson_final.pdf"
       },
       {
         "type": "Other",
@@ -9425,6 +9479,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-09",
         "url": "https://www.stockexchangeofmauritius.com/media/9267/09112023lfl.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12177/20251231_lfl_accounts_unaudited-condensed-quarterly_approved-by-directors-11022026.pdf"
       }
     ],
     "LIVESTOCK (P)": [
@@ -9505,6 +9565,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-09",
         "url": "https://www.stockexchangeofmauritius.com/media/9267/09112023lfl.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12177/20251231_lfl_accounts_unaudited-condensed-quarterly_approved-by-directors-11022026.pdf"
       }
     ],
     "MFD GROUP": [
@@ -10237,6 +10303,12 @@
         "originalType": "Communique",
         "date": "2026-01-27",
         "url": "https://www.stockexchangeofmauritius.com/media/12131/picl-cautionary-announcement-final.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12175/picl-abridged-accounts-31-dec-2026.pdf"
       }
     ],
     "QUALITY BEVERAGE": [
