@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-13T04:26:18.250206Z",
+  "lastUpdated": "2026-02-14T04:15:02.758723Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -317,6 +317,12 @@
         "originalType": "Communique",
         "date": "2026-02-09",
         "url": "https://www.stockexchangeofmauritius.com/media/12154/aces_update-on-the-private-placement_090226.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12199/aces-abridged-afs-q2-2026-v3.pdf"
       }
     ],
     "AFRICA EATS(USD)": [
@@ -550,6 +556,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9389/15112023dale2.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12203/agi-agape-global-investments-limited-sem-extension-27th-january-2026.pdf"
       }
     ],
     "ALMARYS LIMITED": [
@@ -1638,6 +1650,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9390/15112023bml.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12198/bml-abridged-report-dec-2025.pdf"
       }
     ],
     "BHI CLASS A PREF": [
@@ -2518,6 +2536,12 @@
       {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12197/q1-cfsl-financial-statements-v6.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
         "date": "2025-12-12",
         "url": "https://www.stockexchangeofmauritius.com/media/12058/12122025cfsl2.pdf"
       }
@@ -2796,6 +2820,18 @@
         "originalType": "SEM Communique",
         "date": "2026-02-12",
         "url": "https://www.stockexchangeofmauritius.com/media/12187/12022026-semsi-communique-ergroup.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12210/2026-02-13_er-group_abridged-accs_31-december-2025-ma260213-9.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12211/er-group_earnings-release_s1-fy26.pdf"
       }
     ],
     "FINCORP": [
@@ -2888,6 +2924,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9323/13112023finc.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12191/fincorp-abridged-fs-dec-2025.pdf"
       }
     ],
     "GAMMA CIVIC": [
@@ -3688,6 +3730,12 @@
         "originalType": "Communique",
         "date": "2025-12-18",
         "url": "https://www.stockexchangeofmauritius.com/media/12076/ibl-cautionary-announcement-restructuring-financial-services-cluster-18122025.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12193/ibl-abridged_dec-2025.pdf"
       }
     ],
     "INNODIS LTD": [
@@ -4308,6 +4356,12 @@
         "originalType": "Communique",
         "date": "2025-12-19",
         "url": "https://www.stockexchangeofmauritius.com/media/12083/scrip-conversion-gesos-communique-sem.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12206/mcb-group-limited-financial-statements-20251231.pdf"
       }
     ],
     "MCBG PREF": [],
@@ -4629,6 +4683,12 @@
       {
         "type": "Other",
         "originalType": "NAV",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12202/202601-mdit-nav.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "NAV",
         "date": "2026-01-15",
         "url": "https://www.stockexchangeofmauritius.com/media/12115/202512-mdit-nav.pdf"
       },
@@ -4893,6 +4953,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9358/14112023mor.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12209/7596-mp16-moroil-financial-reports-dec-2025_v3-5.pdf"
       }
     ],
     "MUA LTD": [
@@ -5957,6 +6023,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9320/13112023pad.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12190/pad-31-dec-2025.pdf"
       }
     ],
     "PBL": [
@@ -7457,6 +7529,12 @@
         "originalType": "Notice of shareholder meeting",
         "date": "2025-12-17",
         "url": "https://www.stockexchangeofmauritius.com/media/12070/tsa-notice-of-annual-meeting-16-dec-25.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12189/tsah-quarterly-fs-31-dec-25-11-feb-26.pdf"
       }
     ],
     "UBP": [
@@ -7701,6 +7779,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9339/14112023-udl.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12188/udl-abridged-report-31-dec-2025-1.pdf"
       }
     ],
     "UNIVERSAL (GBP)": [
@@ -8069,6 +8153,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9355/1411202abcb.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12200/abcm-abridged-unaudited-fs.pdf"
       }
     ],
     "ASSOCIATED COM": [
@@ -8761,6 +8851,12 @@
         "originalType": "Declaration of Dividend",
         "date": "2025-12-16",
         "url": "https://www.stockexchangeofmauritius.com/media/12068/eudcos-notice-of-interim-dividend-16122025.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12192/eudcos-newspaper-31-dec-2025.pdf"
       }
     ],
     "GAZ INDUSTRIELS": [
@@ -9043,6 +9139,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-09",
         "url": "https://www.stockexchangeofmauritius.com/media/9264/09112023hpw.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12196/hwpl-31-dec-2025.pdf"
       }
     ],
     "KOLOS": [
@@ -10057,6 +10159,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9383/15112023nov.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12201/novus-group-condensed-accounts-31122025_v1.pdf"
       }
     ],
     "OCEANARIUM": [
@@ -10541,6 +10649,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9317/13112023rht2.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12207/rhtholding-condensed-qfs-31-december-2025.pdf"
       }
     ],
     "SEMARIS": [
