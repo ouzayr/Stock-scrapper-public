@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-16T04:30:30.042241Z",
+  "lastUpdated": "2026-02-17T04:25:03.623979Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -768,6 +768,12 @@
         "originalType": "SEM Communique",
         "date": "2026-02-10",
         "url": "https://www.stockexchangeofmauritius.com/media/12159/100226-semsi-communique-almarys.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-16",
+        "url": "https://www.stockexchangeofmauritius.com/media/12221/2026-02-16_almarys_accounts_31-december-2025-rn260216-6.pdf"
       }
     ],
     "ALTEO LIMITED": [
@@ -866,6 +872,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9377/15112023alte.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-16",
+        "url": "https://www.stockexchangeofmauritius.com/media/12213/alteo-limited_abridged-for-pe-31122025.pdf"
       }
     ],
     "ARINDO (USD)": [
@@ -4697,6 +4709,12 @@
         "originalType": "NAV",
         "date": "2025-12-15",
         "url": "https://www.stockexchangeofmauritius.com/media/12064/202511-mdit-nav.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-16",
+        "url": "https://www.stockexchangeofmauritius.com/media/12212/202512-mdit-abridged-qdec25.pdf"
       }
     ],
     "MEDINE LTD": [
@@ -6437,6 +6455,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9331/14112023policyfs.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "NAV",
+        "date": "2026-02-16",
+        "url": "https://www.stockexchangeofmauritius.com/media/12216/policy_nav-publications_feb26.jpg"
       },
       {
         "type": "Other",
@@ -8233,6 +8257,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9381/15112023acc.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-16",
+        "url": "https://www.stockexchangeofmauritius.com/media/12220/dem-acc-dec-25.pdf"
       }
     ],
     "ATTITUDE": [
@@ -9839,6 +9869,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9311/13112023miwa.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-16",
+        "url": "https://www.stockexchangeofmauritius.com/media/12217/miwa-sugar_abridged_pe-311225.pdf"
       }
     ],
     "MORNING LIGHT": [
@@ -10073,6 +10109,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9382/15112023msi.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-16",
+        "url": "https://www.stockexchangeofmauritius.com/media/12219/dem_msi-dec2025.pdf"
       }
     ],
     "NOVUS": [
@@ -11203,6 +11245,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9380/15112023ubs.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-02-16",
+        "url": "https://www.stockexchangeofmauritius.com/media/12218/1dem-ubs-group-dc25.pdf"
       }
     ],
     "VELOGIC": [
