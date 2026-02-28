@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T04:19:07.933922Z",
+  "lastUpdated": "2026-02-28T04:00:48.694444Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -9869,6 +9869,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9311/13112023miwa.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-02-27",
+        "url": "https://www.stockexchangeofmauritius.com/media/12224/miwa-sugar_cautionary_announcement_270226.pdf"
       },
       {
         "type": "Financial Statement",
