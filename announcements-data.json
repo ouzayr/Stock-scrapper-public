@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T04:19:37.398064Z",
+  "lastUpdated": "2026-03-03T04:19:43.789069Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -6959,6 +6959,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9327/13112023sbm.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-03-02",
+        "url": "https://www.stockexchangeofmauritius.com/media/12227/sbmh-communique.pdf"
       }
     ],
     "STEVENHILLS": [
@@ -7038,7 +7044,7 @@
         "type": "Financial Statement",
         "originalType": "Financial Statements",
         "date": "2026-02-10",
-        "url": "https://www.stockexchangeofmauritius.com/media/12158/stevenhills-abridged-fs-dec-2025-final.pdf"
+        "url": "https://www.stockexchangeofmauritius.com/media/12158/stevenhills-abridged-fs-31-dec-2025-a.pdf"
       }
     ],
     "SUN LIMITED": [
@@ -11370,6 +11376,12 @@
       }
     ],
     "H. MALLAC": [
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-03-02",
+        "url": "https://www.stockexchangeofmauritius.com/media/12228/0302206hmcvl.pdf"
+      },
       {
         "type": "Other",
         "originalType": "Notice of shareholder meeting",
