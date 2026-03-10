@@ -1,7 +1,7 @@
 {
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
-  "last_updated": "2026-03-09",
+  "last_updated": "2026-03-10",
   "dividends": {
     "ASCENCIA": [
       {
@@ -1096,6 +1096,20 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/9681/2024-03-14-lottotech-ltd-final-dividend-announcement-march-2024.pdf",
           "announcement_date": "2024-03-15",
           "extracted_at": "2025-12-14T10:04:16.582689Z"
+        }
+      },
+      {
+        "payment_date": "2026-04-27",
+        "ex_dividend_date": "2026-03-26",
+        "type": "final",
+        "amount_per_share": 0.22,
+        "currency": "MUR",
+        "year": 2025,
+        "published": "2026-03-06",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12232/2026-03-06-lottotech-ltd-final-dividend-announcement-march-2026.pdf",
+          "announcement_date": "2026-03-09",
+          "extracted_at": "2026-03-10T04:15:00.002972Z"
         }
       }
     ],

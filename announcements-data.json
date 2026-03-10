@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T04:24:22.812960Z",
+  "lastUpdated": "2026-03-10T04:14:53.450051Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -3962,6 +3962,18 @@
         "originalType": "Financial Statements",
         "date": "2023-11-08",
         "url": "https://www.stockexchangeofmauritius.com/media/9251/08112023lolo.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-03-09",
+        "url": "https://www.stockexchangeofmauritius.com/media/12232/2026-03-06-lottotech-ltd-final-dividend-announcement-march-2026.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-03-09",
+        "url": "https://www.stockexchangeofmauritius.com/media/12233/2026-03-09-lottotech-ltd-abridged-audited-fs_final.pdf"
       }
     ],
     "LUX ISLAND": [
