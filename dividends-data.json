@@ -1,7 +1,7 @@
 {
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
-  "last_updated": "2026-03-13",
+  "last_updated": "2026-03-14",
   "dividends": {
     "ASCENCIA": [
       {
@@ -2777,6 +2777,20 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/9713/2024-03-25-kcl-final-dividend-notice-march-2024.pdf",
           "announcement_date": "2024-03-25",
           "extracted_at": "2025-12-14T10:15:32.445427Z"
+        }
+      },
+      {
+        "payment_date": "2026-04-27",
+        "ex_dividend_date": "2026-03-30",
+        "type": "final",
+        "amount_per_share": 4.88,
+        "currency": "Rs",
+        "year": 2025,
+        "published": "2026-03-11",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12242/2026-03-11-kcl-final-dividend-announcement-march-2026.pdf",
+          "announcement_date": "2026-03-13",
+          "extracted_at": "2026-03-14T04:16:19.123651Z"
         }
       }
     ],

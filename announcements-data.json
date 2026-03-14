@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T04:17:39.502698Z",
+  "lastUpdated": "2026-03-14T04:16:13.412766Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -4707,6 +4707,12 @@
       {
         "type": "Other",
         "originalType": "NAV",
+        "date": "2026-03-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12243/202602-mdit-nav.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "NAV",
         "date": "2026-02-13",
         "url": "https://www.stockexchangeofmauritius.com/media/12202/202601-mdit-nav.pdf"
       },
@@ -9291,6 +9297,18 @@
         "originalType": "Financial Statements",
         "date": "2023-11-10",
         "url": "https://www.stockexchangeofmauritius.com/media/9290/10112023kcl.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-03-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12242/2026-03-11-kcl-final-dividend-announcement-march-2026.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-03-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12241/kolos-cement-ltd-abridged-fs-for-the-year-ended-31122025.pdf"
       }
     ],
     "LAVASTONE": [
