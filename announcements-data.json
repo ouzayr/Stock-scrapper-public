@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T04:24:42.847868Z",
+  "lastUpdated": "2026-03-18T04:30:15.617050Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -556,6 +556,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9389/15112023dale2.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-03-17",
+        "url": "https://www.stockexchangeofmauritius.com/media/12247/agi-extension-communique-30-april-2026.pdf"
       },
       {
         "type": "Other",
