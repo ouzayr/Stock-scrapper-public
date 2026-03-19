@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T04:30:15.617050Z",
+  "lastUpdated": "2026-03-19T04:29:05.207955Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -2752,6 +2752,12 @@
         "originalType": "Declaration of Dividend",
         "date": "2025-12-16",
         "url": "https://www.stockexchangeofmauritius.com/media/12066/16022025emtel.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-03-18",
+        "url": "https://www.stockexchangeofmauritius.com/media/12248/2-audited-abridged-financial-statements-31-decemb_260318_225648.pdf"
       }
     ],
     "ER GROUP": [
