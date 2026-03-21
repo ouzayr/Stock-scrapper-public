@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T04:19:41.653204Z",
+  "lastUpdated": "2026-03-21T04:10:12.543180Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -10009,6 +10009,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-10",
         "url": "https://www.stockexchangeofmauritius.com/media/9293/10112023ml.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-03-20",
+        "url": "https://www.stockexchangeofmauritius.com/media/12249/2026-03-18_morning-light-abridged-audited-fs-dec-25.pdf"
       }
     ],
     "MTIUS COSMETICS": [
