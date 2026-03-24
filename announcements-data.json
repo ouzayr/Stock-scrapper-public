@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T04:34:04.013381Z",
+  "lastUpdated": "2026-03-24T04:25:29.687887Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -6715,6 +6715,12 @@
         "originalType": "Financial Statements",
         "date": "2024-04-18",
         "url": "https://www.stockexchangeofmauritius.com/media/9804/psgfy2024.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-03-23",
+        "url": "https://www.stockexchangeofmauritius.com/media/12250/psg-financial-services-limited-fy-2026-trading-statement_final.pdf"
       },
       {
         "type": "Other",
