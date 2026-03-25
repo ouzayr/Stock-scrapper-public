@@ -1,7 +1,7 @@
 {
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
-  "last_updated": "2026-03-24",
+  "last_updated": "2026-03-25",
   "dividends": {
     "ASCENCIA": [
       {
@@ -2339,6 +2339,20 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/9305/13112023vivod.pdf",
           "announcement_date": "2023-11-13",
           "extracted_at": "2025-12-14T10:12:45.371686Z"
+        }
+      },
+      {
+        "payment_date": "2026-05-04",
+        "ex_dividend_date": "2026-04-07",
+        "type": "final",
+        "amount_per_share": 12.05,
+        "currency": "MUR",
+        "year": 2025,
+        "published": "2026-03-23",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12254/vivo_dividend_notice-23032026.pdf",
+          "announcement_date": "2026-03-24",
+          "extracted_at": "2026-03-25T04:26:34.058408Z"
         }
       }
     ],
