@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T04:37:39.088422Z",
+  "lastUpdated": "2026-03-27T04:39:13.201086Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -1160,6 +1160,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9384/15112023asl.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-03-26",
+        "url": "https://www.stockexchangeofmauritius.com/media/12262/asl_abridged-audited-statement-for-the-year-ended-31-december-2025.pdf"
       }
     ],
     "ASTORIA (USD)": [
@@ -9867,6 +9873,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9375/15112023mfd.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-03-26",
+        "url": "https://www.stockexchangeofmauritius.com/media/12263/mfd-group-ltd-abridged-accounts-31-dec-2025.pdf"
       }
     ],
     "MIWA  (USD)": [
