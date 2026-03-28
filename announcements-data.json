@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T04:39:13.201086Z",
+  "lastUpdated": "2026-03-28T04:26:33.327382Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -952,6 +952,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9337/14112023arindo.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-03-27",
+        "url": "https://www.stockexchangeofmauritius.com/media/12266/abridged-audited-consolidated-and-separate-financial-statements-ahml-ye-31-december-2025.pdf"
       }
     ],
     "ASCENCIA": [
@@ -9543,6 +9549,12 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9249/08112023lmlc.pdf"
       },
       {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-03-27",
+        "url": "https://www.stockexchangeofmauritius.com/media/12265/20260326_lmlc_communique-for-cnis-project.pdf"
+      },
+      {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
         "date": "2026-02-11",
@@ -9615,6 +9627,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-08",
         "url": "https://www.stockexchangeofmauritius.com/media/9249/08112023lmlc.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-03-27",
+        "url": "https://www.stockexchangeofmauritius.com/media/12265/20260326_lmlc_communique-for-cnis-project.pdf"
       },
       {
         "type": "Financial Statement",
@@ -9965,6 +9983,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9311/13112023miwa.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-03-27",
+        "url": "https://www.stockexchangeofmauritius.com/media/12264/miwa-sugar_communiqué.pdf"
       },
       {
         "type": "Other",
