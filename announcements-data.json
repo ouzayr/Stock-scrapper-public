@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T04:42:45.190543Z",
+  "lastUpdated": "2026-03-30T04:50:24.113099Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -8757,6 +8757,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9319/13112023cacc.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-03-30",
+        "url": "https://www.stockexchangeofmauritius.com/media/12269/clg-abridged-31-december-2025.pdf"
       }
     ],
     "CONSTANCE HOTEL": [
