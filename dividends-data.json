@@ -1,7 +1,7 @@
 {
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
-  "last_updated": "2026-03-30",
+  "last_updated": "2026-03-31",
   "dividends": {
     "ASCENCIA": [
       {
@@ -2092,6 +2092,20 @@
           "announcement_date": "2024-03-28",
           "extracted_at": "2025-12-14T10:10:54.363922Z"
         }
+      },
+      {
+        "payment_date": "2026-06-26",
+        "ex_dividend_date": "2026-06-03",
+        "type": "other",
+        "amount_per_share": 0.45,
+        "currency": "MUR",
+        "year": 2025,
+        "published": "2026-03-30",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12278/sbm-holdings-ltd-notice-of-dividend-march-2026.pdf",
+          "announcement_date": "2026-03-30",
+          "extracted_at": "2026-03-31T04:41:37.246936Z"
+        }
       }
     ],
     "STEVENHILLS": [
@@ -3307,6 +3321,20 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/10816/23012025qbl.pdf",
           "announcement_date": "2025-01-23",
           "extracted_at": "2025-12-14T10:18:17.757631Z"
+        }
+      },
+      {
+        "payment_date": "2026-04-30",
+        "ex_dividend_date": "2026-04-14",
+        "type": "other",
+        "amount_per_share": 1.24,
+        "currency": "Rs",
+        "year": 2025,
+        "published": "2026-03-27",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12272/qbl-notice-dividend-march-2026.pdf",
+          "announcement_date": "2026-03-30",
+          "extracted_at": "2026-03-31T04:41:42.697912Z"
         }
       }
     ],
