@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T04:52:15.567077Z",
+  "lastUpdated": "2026-04-02T04:35:01.635369Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -2068,6 +2068,12 @@
       {
         "type": "Other",
         "originalType": "Communique",
+        "date": "2026-04-01",
+        "url": "https://www.stockexchangeofmauritius.com/media/12314/bll-communique-appointment-of-independent-adviser-2024-04-01.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
         "date": "2026-01-29",
         "url": "https://www.stockexchangeofmauritius.com/media/12134/bll-public-announcement-280126.pdf"
       },
@@ -3108,8 +3114,8 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9334/14112023gcl.pdf"
       },
       {
-        "type": "Financial Statement",
-        "originalType": "Financial Statements",
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
         "date": "2026-03-31",
         "url": "https://www.stockexchangeofmauritius.com/media/12298/gamma-civic-ltd-final-dividend-announcement-march-2026.pdf"
       },
