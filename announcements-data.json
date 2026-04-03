@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T04:35:01.635369Z",
+  "lastUpdated": "2026-04-03T04:35:22.662091Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -2064,6 +2064,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-10",
         "url": "https://www.stockexchangeofmauritius.com/media/9276/10112023bll.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-04-02",
+        "url": "https://www.stockexchangeofmauritius.com/media/12316/bloomage-ltd_communique_extension-of-eligibility_2026-04-02.pdf"
       },
       {
         "type": "Other",
