@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T04:42:31.229607Z",
+  "lastUpdated": "2026-04-09T04:39:38.403293Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -5225,6 +5225,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9378/15112023mua1.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-04-08",
+        "url": "https://www.stockexchangeofmauritius.com/media/12324/mua-ltd-communiqué-8-april-2026-ext-2-afs-2025.pdf"
       },
       {
         "type": "Other",
