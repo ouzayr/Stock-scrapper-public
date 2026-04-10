@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T04:39:38.403293Z",
+  "lastUpdated": "2026-04-10T04:53:09.383366Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -10513,6 +10513,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9383/15112023nov.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-04-09",
+        "url": "https://www.stockexchangeofmauritius.com/media/12326/novus-properties-cautionary-announcement-09042026.pdf"
       },
       {
         "type": "Financial Statement",
