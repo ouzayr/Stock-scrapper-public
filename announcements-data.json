@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T05:19:33.721566Z",
+  "lastUpdated": "2026-04-14T04:50:40.740347Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -6929,6 +6929,12 @@
         "url": "https://www.stockexchangeofmauritius.com/media/10860/riveo-abridged-unaudited-fs-31122024.pdf"
       },
       {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-04-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12329/riveo-communiqué-13042026-leadership-transition.pdf"
+      },
+      {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
         "date": "2026-02-09",
@@ -7359,6 +7365,12 @@
         "originalType": "Financial Statements",
         "date": "2024-02-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9605/13022024sun.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-04-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12328/sun-communique-13042026-leadership-transition.pdf"
       },
       {
         "type": "Financial Statement",
