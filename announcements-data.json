@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T04:50:40.740347Z",
+  "lastUpdated": "2026-04-15T04:50:35.943838Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -970,6 +970,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9337/14112023arindo.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-04-14",
+        "url": "https://www.stockexchangeofmauritius.com/media/12330/arindo-ca-01042026.pdf"
       },
       {
         "type": "Financial Statement",
@@ -6599,6 +6605,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9331/14112023policyfs.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "NAV",
+        "date": "2026-04-15",
+        "url": "https://www.stockexchangeofmauritius.com/media/12333/policy_nav-publications_apr26.jpg"
       },
       {
         "type": "Other",
