@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T04:50:35.943838Z",
+  "lastUpdated": "2026-04-16T04:56:53.751589Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -4559,6 +4559,12 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9395/14112023mcfi.pdf"
       },
       {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-04-15",
+        "url": "https://www.stockexchangeofmauritius.com/media/12334/mcfi-cautionary-announcement-disclosable-transaction-to-sem.pdf"
+      },
+      {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
         "date": "2026-04-01",
@@ -4799,6 +4805,12 @@
         "originalType": "Financial Statements",
         "date": "2025-02-17",
         "url": "https://www.stockexchangeofmauritius.com/media/10912/mdit-fs-17022025.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "NAV",
+        "date": "2026-04-15",
+        "url": "https://www.stockexchangeofmauritius.com/media/12335/202603-mdit-nav.pdf"
       },
       {
         "type": "Other",
@@ -7145,6 +7157,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9327/13112023sbm.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-04-15",
+        "url": "https://www.stockexchangeofmauritius.com/media/12336/sbm-communique-1.pdf"
       },
       {
         "type": "Dividend",
