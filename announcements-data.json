@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T04:56:53.751589Z",
+  "lastUpdated": "2026-04-17T04:54:19.541779Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -4561,6 +4561,12 @@
       {
         "type": "Other",
         "originalType": "Communique",
+        "date": "2026-04-16",
+        "url": "https://www.stockexchangeofmauritius.com/media/12339/mcfi-announcement-gm.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
         "date": "2026-04-15",
         "url": "https://www.stockexchangeofmauritius.com/media/12334/mcfi-cautionary-announcement-disclosable-transaction-to-sem.pdf"
       },
@@ -6889,6 +6895,18 @@
         "originalType": "Communique",
         "date": "2026-01-15",
         "url": "https://www.stockexchangeofmauritius.com/media/12114/psgfs-sens-director-dealing-14012026-final.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-04-16",
+        "url": "https://www.stockexchangeofmauritius.com/media/12337/psgfy2026.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-04-16",
+        "url": "https://www.stockexchangeofmauritius.com/media/12338/psg-financial-services_sens_-results_fy2026.pdf"
       }
     ],
     "RIVEO LIMITED": [
