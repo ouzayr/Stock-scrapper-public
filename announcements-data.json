@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T04:53:56.049365Z",
+  "lastUpdated": "2026-04-22T04:52:14.560423Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -5253,6 +5253,12 @@
       {
         "type": "Other",
         "originalType": "Communique",
+        "date": "2026-04-22",
+        "url": "https://www.stockexchangeofmauritius.com/media/12348/mua-ltd-cautionary-announcement-21042026.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
         "date": "2026-04-08",
         "url": "https://www.stockexchangeofmauritius.com/media/12324/mua-ltd-communiqué-8-april-2026-ext-2-afs-2025.pdf"
       },
@@ -9285,6 +9291,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9349/14112023lgi1.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-04-21",
+        "url": "https://www.stockexchangeofmauritius.com/media/12347/lgi-annoncement-acting-general-manager.pdf"
       },
       {
         "type": "Other",
