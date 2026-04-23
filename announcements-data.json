@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T04:52:14.560423Z",
+  "lastUpdated": "2026-04-23T04:55:31.796429Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -6346,6 +6346,18 @@
       },
       {
         "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-04-22",
+        "url": "https://www.stockexchangeofmauritius.com/media/12350/pbl-communique-1-lec-approval-of-information-note-260422.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-04-22",
+        "url": "https://www.stockexchangeofmauritius.com/media/12352/sem-communique-pbl.pdf"
+      },
+      {
+        "type": "Other",
         "originalType": "Notice of shareholder meeting",
         "date": "2026-04-08",
         "url": "https://www.stockexchangeofmauritius.com/media/12320/pbl-notices-of-shareholders-meetings.pdf"
@@ -10843,6 +10855,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-10",
         "url": "https://www.stockexchangeofmauritius.com/media/9278/10112023picl2f.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-04-22",
+        "url": "https://www.stockexchangeofmauritius.com/media/12351/picl-communique-1-lec-approval-of-information-note-260422.pdf"
       },
       {
         "type": "Other",
