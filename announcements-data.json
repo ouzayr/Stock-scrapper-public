@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T04:59:44.641181Z",
+  "lastUpdated": "2026-04-25T04:40:57.991093Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -2070,6 +2070,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-10",
         "url": "https://www.stockexchangeofmauritius.com/media/9276/10112023bll.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-04-24",
+        "url": "https://www.stockexchangeofmauritius.com/media/12354/bloomage-ltd-public-announcement-about-the-unconditional-voluntary-offer.pdf"
       },
       {
         "type": "Other",
@@ -6883,6 +6889,12 @@
         "originalType": "Financial Statements",
         "date": "2024-04-18",
         "url": "https://www.stockexchangeofmauritius.com/media/9804/psgfy2024.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-04-24",
+        "url": "https://www.stockexchangeofmauritius.com/media/12355/psg-fs-option-acceptance-sens_24-april-2026.pdf"
       },
       {
         "type": "Other",
