@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T05:30:42.399427Z",
+  "lastUpdated": "2026-04-28T05:36:45.954701Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -4166,8 +4166,20 @@
       {
         "type": "Dividend",
         "originalType": "Declaration of Dividend",
+        "date": "2026-04-27",
+        "url": "https://www.stockexchangeofmauritius.com/media/12357/lir-dividend-declaration.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
         "date": "2026-01-22",
         "url": "https://www.stockexchangeofmauritius.com/media/12124/20260121-lir-interim-dividend-declaration.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-04-27",
+        "url": "https://www.stockexchangeofmauritius.com/media/12356/lir-finance.pdf"
       },
       {
         "type": "Financial Statement",
