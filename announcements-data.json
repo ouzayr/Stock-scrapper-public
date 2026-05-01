@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T05:36:37.104249Z",
+  "lastUpdated": "2026-05-01T05:47:27.888458Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -3382,6 +3382,18 @@
       {
         "type": "Other",
         "originalType": "Communique",
+        "date": "2026-04-30",
+        "url": "https://www.stockexchangeofmauritius.com/media/12366/greigl_announcement_approvals_30042026.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "SEM Communique",
+        "date": "2026-04-30",
+        "url": "https://www.stockexchangeofmauritius.com/media/12367/grit-suspension-notice.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
         "date": "2026-04-29",
         "url": "https://www.stockexchangeofmauritius.com/media/12360/nav-and-results-release-update-rns-29-april-2026-final-for-release.pdf"
       },
@@ -3650,6 +3662,18 @@
         "originalType": "Financial Statements",
         "date": "2024-02-28",
         "url": "https://www.stockexchangeofmauritius.com/media/9655/28022023gritfs.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-04-30",
+        "url": "https://www.stockexchangeofmauritius.com/media/12366/greigl_announcement_approvals_30042026.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "SEM Communique",
+        "date": "2026-04-30",
+        "url": "https://www.stockexchangeofmauritius.com/media/12367/grit-suspension-notice.pdf"
       },
       {
         "type": "Other",
@@ -6509,6 +6533,18 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9297/pim-limited-results-announcement-30-sep-2023.pdf"
       },
       {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-04-30",
+        "url": "https://www.stockexchangeofmauritius.com/media/12364/pim-limited-dividend-announcement-april-2026.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-04-30",
+        "url": "https://www.stockexchangeofmauritius.com/media/12363/pim-limited-results-announcement.pdf"
+      },
+      {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
         "date": "2026-02-09",
@@ -6913,6 +6949,12 @@
         "originalType": "Financial Statements",
         "date": "2024-04-18",
         "url": "https://www.stockexchangeofmauritius.com/media/9804/psgfy2024.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-04-30",
+        "url": "https://www.stockexchangeofmauritius.com/media/12361/psg-fs-sens-dealing-in-shares_30-april-2026_final.pdf"
       },
       {
         "type": "Other",
@@ -8421,6 +8463,12 @@
         "originalType": "Communique",
         "date": "2026-03-31",
         "url": "https://www.stockexchangeofmauritius.com/media/12294/zhl-extension-communique-fy-31-dec-2025.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-04-30",
+        "url": "https://www.stockexchangeofmauritius.com/media/12368/ziweto-holdings-limited_abridged-audited-fs_31-dec-2025.pdf"
       }
     ],
     "ABC MOTORS": [
@@ -10185,6 +10233,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9375/15112023mfd.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-04-30",
+        "url": "https://www.stockexchangeofmauritius.com/media/12362/mfd-group_notice-for-agm-2026-sem-notice.pdf"
       },
       {
         "type": "Financial Statement",

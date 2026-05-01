@@ -1,7 +1,7 @@
 {
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
-  "last_updated": "2026-04-30",
+  "last_updated": "2026-05-01",
   "dividends": {
     "ASCENCIA": [
       {
@@ -2072,6 +2072,20 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/9296/pim-limited-dividend-announcement-dec-2023.pdf",
           "announcement_date": "2023-11-10",
           "extracted_at": "2025-12-14T10:10:21.768954Z"
+        }
+      },
+      {
+        "payment_date": "2026-06-10",
+        "ex_dividend_date": "2026-05-18",
+        "type": "final",
+        "amount_per_share": 1.0,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2026-04-30",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12364/pim-limited-dividend-announcement-april-2026.pdf",
+          "announcement_date": "2026-04-30",
+          "extracted_at": "2026-05-01T05:47:36.961633Z"
         }
       }
     ],
