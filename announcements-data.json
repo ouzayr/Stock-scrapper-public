@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T05:40:13.438970Z",
+  "lastUpdated": "2026-05-06T05:34:55.828948Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -574,6 +574,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9389/15112023dale2.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-05-05",
+        "url": "https://www.stockexchangeofmauritius.com/media/12372/agi-sem-announcement-5-may-2026.pdf"
       },
       {
         "type": "Financial Statement",
@@ -7623,6 +7629,12 @@
       {
         "type": "Other",
         "originalType": "Communique",
+        "date": "2026-05-04",
+        "url": "https://www.stockexchangeofmauritius.com/media/12369/sgl-communique-late-filing-may-2026.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
         "date": "2026-03-31",
         "url": "https://www.stockexchangeofmauritius.com/media/12306/swan-sgl-communique-late-filing.pdf"
       },
@@ -11433,6 +11445,12 @@
       {
         "type": "Other",
         "originalType": "Communique",
+        "date": "2026-05-04",
+        "url": "https://www.stockexchangeofmauritius.com/media/12370/sll-communique-late-filing-may-2026.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
         "date": "2026-03-31",
         "url": "https://www.stockexchangeofmauritius.com/media/12307/260331-swan-sll-communique-late-filing.pdf"
       },
@@ -11525,6 +11543,12 @@
       {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
+        "date": "2026-05-06",
+        "url": "https://www.stockexchangeofmauritius.com/media/12375/06052026tpcl.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
         "date": "2026-02-04",
         "url": "https://www.stockexchangeofmauritius.com/media/12142/20251231_tpcl_accounts_unaudited-abridged_app-by-directors-on-04022026.pdf"
       }
@@ -11589,6 +11613,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-06",
         "url": "https://www.stockexchangeofmauritius.com/media/9238/06112023tpcl.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-05-06",
+        "url": "https://www.stockexchangeofmauritius.com/media/12375/06052026tpcl.pdf"
       },
       {
         "type": "Financial Statement",
