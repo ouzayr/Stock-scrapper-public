@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T05:37:39.608597Z",
+  "lastUpdated": "2026-05-08T04:58:30.693664Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -2840,8 +2840,20 @@
       {
         "type": "Dividend",
         "originalType": "Declaration of Dividend",
+        "date": "2026-05-07",
+        "url": "https://www.stockexchangeofmauritius.com/media/12384/emtel-q126_dividend-notice.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
         "date": "2025-12-16",
         "url": "https://www.stockexchangeofmauritius.com/media/12066/16022025emtel.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-05-07",
+        "url": "https://www.stockexchangeofmauritius.com/media/12383/emtel-q1-2026_abridged-financial-statements.pdf"
       },
       {
         "type": "Financial Statement",
@@ -7543,6 +7555,12 @@
       {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
+        "date": "2026-05-08",
+        "url": "https://www.stockexchangeofmauritius.com/media/12385/abridged-fs-sun-q3fy26.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
         "date": "2026-02-09",
         "url": "https://www.stockexchangeofmauritius.com/media/12152/sun-unaudited-fs-q2fy26.pdf"
       }
@@ -10093,6 +10111,12 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9267/09112023lfl.pdf"
       },
       {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-05-07",
+        "url": "https://www.stockexchangeofmauritius.com/media/12381/20260506_lfl_dividend_div-26-_notice-to-sem.pdf"
+      },
+      {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
         "date": "2026-05-07",
@@ -10183,6 +10207,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-09",
         "url": "https://www.stockexchangeofmauritius.com/media/9267/09112023lfl.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-05-07",
+        "url": "https://www.stockexchangeofmauritius.com/media/12381/20260506_lfl_dividend_div-26-_notice-to-sem.pdf"
       },
       {
         "type": "Financial Statement",
