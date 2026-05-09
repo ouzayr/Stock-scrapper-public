@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T04:58:30.693664Z",
+  "lastUpdated": "2026-05-09T05:27:55.733335Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -2850,8 +2850,8 @@
         "url": "https://www.stockexchangeofmauritius.com/media/12066/16022025emtel.pdf"
       },
       {
-        "type": "Dividend",
-        "originalType": "Declaration of Dividend",
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
         "date": "2026-05-07",
         "url": "https://www.stockexchangeofmauritius.com/media/12383/emtel-q1-2026_abridged-financial-statements.pdf"
       },
@@ -7111,6 +7111,12 @@
       {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
+        "date": "2026-05-08",
+        "url": "https://www.stockexchangeofmauritius.com/media/12386/riveo-unaudited-abridged-financial-statements-q3fy26.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
         "date": "2026-02-09",
         "url": "https://www.stockexchangeofmauritius.com/media/12155/riveo-unaudited-f-statements-q2fy26.pdf"
       }
@@ -8803,6 +8809,12 @@
       {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
+        "date": "2026-05-08",
+        "url": "https://www.stockexchangeofmauritius.com/media/12390/apl_condensed-report-fy-31-mar-2026_v6_afterboard.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
         "date": "2026-02-05",
         "url": "https://www.stockexchangeofmauritius.com/media/12145/apl_condensed-report-fy-31-dec-2025_ver6.pdf"
       }
@@ -9939,10 +9951,22 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9249/08112023lmlc.pdf"
       },
       {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-05-08",
+        "url": "https://www.stockexchangeofmauritius.com/media/12389/20260507_lmlc_dividend_div-26_notice-to-sem.pdf"
+      },
+      {
         "type": "Other",
         "originalType": "Communique",
         "date": "2026-03-27",
         "url": "https://www.stockexchangeofmauritius.com/media/12265/20260326_lmlc_communique-for-cnis-project.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-05-08",
+        "url": "https://www.stockexchangeofmauritius.com/media/12388/20260507_lmlc_accounts_unaud-condensed-accounts-31032026_approved-by-directors.pdf"
       },
       {
         "type": "Financial Statement",
@@ -10019,10 +10043,22 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9249/08112023lmlc.pdf"
       },
       {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-05-08",
+        "url": "https://www.stockexchangeofmauritius.com/media/12389/20260507_lmlc_dividend_div-26_notice-to-sem.pdf"
+      },
+      {
         "type": "Other",
         "originalType": "Communique",
         "date": "2026-03-27",
         "url": "https://www.stockexchangeofmauritius.com/media/12265/20260326_lmlc_communique-for-cnis-project.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-05-08",
+        "url": "https://www.stockexchangeofmauritius.com/media/12388/20260507_lmlc_accounts_unaud-condensed-accounts-31032026_approved-by-directors.pdf"
       },
       {
         "type": "Financial Statement",
@@ -10493,6 +10529,12 @@
       {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
+        "date": "2026-05-08",
+        "url": "https://www.stockexchangeofmauritius.com/media/12391/morning-light-abridged-unaudited-fs-31-march-2026.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
         "date": "2026-03-20",
         "url": "https://www.stockexchangeofmauritius.com/media/12249/2026-03-18_morning-light-abridged-audited-fs-dec-25.pdf"
       }
@@ -10827,6 +10869,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-10",
         "url": "https://www.stockexchangeofmauritius.com/media/9284/20230930_oml_accounts_unaudited-condensed-financial-statements_approved-on-101123.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-05-08",
+        "url": "https://www.stockexchangeofmauritius.com/media/12393/20260331_oml_quartely-accounts_unaudited_approved-by-directors_08052026.pdf"
       },
       {
         "type": "Financial Statement",
@@ -11403,6 +11451,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9363/14112023sitlh.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-05-08",
+        "url": "https://www.stockexchangeofmauritius.com/media/12392/sitlh-published-abridged-int-fs-31-march-2026-final.pdf"
       },
       {
         "type": "Financial Statement",

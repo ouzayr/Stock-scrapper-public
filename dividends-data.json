@@ -1,7 +1,7 @@
 {
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
-  "last_updated": "2026-05-08",
+  "last_updated": "2026-05-09",
   "dividends": {
     "ASCENCIA": [
       {
@@ -3034,6 +3034,34 @@
           "announcement_date": "2024-05-06",
           "extracted_at": "2025-12-14T10:16:05.670884Z"
         }
+      },
+      {
+        "payment_date": "2026-06-17",
+        "ex_dividend_date": "2026-05-22",
+        "type": "final",
+        "amount_per_share": 3.75,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2026-05-07",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12389/20260507_lmlc_dividend_div-26_notice-to-sem.pdf",
+          "announcement_date": "2026-05-08",
+          "extracted_at": "2026-05-09T05:28:04.003888Z"
+        }
+      },
+      {
+        "payment_date": "2026-06-17",
+        "ex_dividend_date": "2026-05-22",
+        "type": "final",
+        "amount_per_share": 20.0,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2026-05-07",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12389/20260507_lmlc_dividend_div-26_notice-to-sem.pdf",
+          "announcement_date": "2026-05-08",
+          "extracted_at": "2026-05-09T05:28:04.004012Z"
+        }
       }
     ],
     "LES MOULINS (P)": [
@@ -3063,6 +3091,34 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/9825/08052024lmlcdv.pdf",
           "announcement_date": "2024-05-06",
           "extracted_at": "2025-12-14T10:16:18.206867Z"
+        }
+      },
+      {
+        "payment_date": "2026-06-17",
+        "ex_dividend_date": "2026-05-22",
+        "type": "final",
+        "amount_per_share": 3.75,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2026-05-07",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12389/20260507_lmlc_dividend_div-26_notice-to-sem.pdf",
+          "announcement_date": "2026-05-08",
+          "extracted_at": "2026-05-09T05:28:12.436084Z"
+        }
+      },
+      {
+        "payment_date": "2026-06-17",
+        "ex_dividend_date": "2026-05-22",
+        "type": "final",
+        "amount_per_share": 20.0,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2026-05-07",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12389/20260507_lmlc_dividend_div-26_notice-to-sem.pdf",
+          "announcement_date": "2026-05-08",
+          "extracted_at": "2026-05-09T05:28:12.436227Z"
         }
       }
     ],
