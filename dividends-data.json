@@ -1,7 +1,7 @@
 {
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
-  "last_updated": "2026-05-10",
+  "last_updated": "2026-05-11",
   "dividends": {
     "ASCENCIA": [
       {
@@ -1585,6 +1585,20 @@
           "announcement_date": "2025-06-24",
           "extracted_at": "2025-12-19T03:29:28.039442Z"
         }
+      },
+      {
+        "payment_date": "2026-06-22",
+        "ex_dividend_date": "2026-05-26",
+        "type": "other",
+        "amount_per_share": 0.56,
+        "currency": "MUR",
+        "year": null,
+        "published": "2026-05-08",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12397/nit-capital-repayment-announcement.pdf",
+          "announcement_date": "2026-05-11",
+          "extracted_at": "2026-05-11T06:04:51.424975Z"
+        }
       }
     ],
     "NMH": [
@@ -2799,6 +2813,20 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/12068/eudcos-notice-of-interim-dividend-16122025.pdf",
           "announcement_date": "2025-12-16",
           "extracted_at": "2025-12-17T15:45:34.567366Z"
+        }
+      },
+      {
+        "payment_date": "2026-06-30",
+        "ex_dividend_date": "2026-05-27",
+        "type": "final",
+        "amount_per_share": 0.84,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2026-05-08",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12398/notice-of-dividend-may-26.pdf",
+          "announcement_date": "2026-05-11",
+          "extracted_at": "2026-05-11T06:04:59.492791Z"
         }
       }
     ],
