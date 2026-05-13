@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T05:43:57.790581Z",
+  "lastUpdated": "2026-05-13T05:54:30.811192Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -135,6 +135,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9370/15112023afrx.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-05-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12418/afreximbank-abridged-unaudited-financial-statements-for-the-first-quarter-ended-31-march-2026.pdf"
       },
       {
         "type": "Financial Statement",
@@ -1206,6 +1212,12 @@
       {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
+        "date": "2026-05-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12426/23859_asl_abridged-statement_ended-march-2026_315x260mm_fa.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
         "date": "2026-03-26",
         "url": "https://www.stockexchangeofmauritius.com/media/12262/asl_abridged-audited-statement-for-the-year-ended-31-december-2025.pdf"
       }
@@ -2128,6 +2140,12 @@
       {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
+        "date": "2026-05-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12420/bll-abridged-accounts-q3-fy25-26.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
         "date": "2026-02-10",
         "url": "https://www.stockexchangeofmauritius.com/media/12164/10022026bll.pdf"
       }
@@ -2744,6 +2762,12 @@
         "originalType": "Financial Statements",
         "date": "2025-05-30",
         "url": "https://www.stockexchangeofmauritius.com/media/11356/elite-meat-processors-limited-results-announcement-qe-31-mar-2025.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-05-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12417/elite-meat-processors-limited-results-announcement-qe-31-march-2026.pdf"
       },
       {
         "type": "Financial Statement",
@@ -7073,6 +7097,12 @@
       {
         "type": "Other",
         "originalType": "Communique",
+        "date": "2026-05-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12419/psg-fs-option-exercise-sens_2026_12may_final.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
         "date": "2026-04-30",
         "url": "https://www.stockexchangeofmauritius.com/media/12361/psg-fs-sens-dealing-in-shares_30-april-2026_final.pdf"
       },
@@ -8177,6 +8207,12 @@
       {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
+        "date": "2026-05-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12423/ubp-board-approved-abridged-mar-26-final.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
         "date": "2026-02-11",
         "url": "https://www.stockexchangeofmauritius.com/media/12169/ubp-abridged-fs-31-dec-2025-approved.pdf"
       }
@@ -8393,6 +8429,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9336/14112023upl.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-05-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12425/upl-q326result.pdf"
       },
       {
         "type": "Financial Statement",
@@ -9967,6 +10009,12 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9490/abridged-30-september_dec23.pdf"
       },
       {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-05-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12422/lavastone-ltd-div-notice-120526.pdf"
+      },
+      {
         "type": "Other",
         "originalType": "Notice of shareholder meeting",
         "date": "2026-01-20",
@@ -9977,6 +10025,12 @@
         "originalType": "Declaration of Dividend",
         "date": "2025-12-15",
         "url": "https://www.stockexchangeofmauritius.com/media/12063/lavastone-ltd-notice-dividends-301225.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-05-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12421/lavastone-abridged-31-march-2026.pdf"
       },
       {
         "type": "Financial Statement",
@@ -12165,6 +12219,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-08",
         "url": "https://www.stockexchangeofmauritius.com/media/9252/08112023velo.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-05-13",
+        "url": "https://www.stockexchangeofmauritius.com/media/12424/velogic-abridged_unaudited_q3fy26_31-march-2026.pdf"
       },
       {
         "type": "Financial Statement",
