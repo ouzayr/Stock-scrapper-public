@@ -1,7 +1,7 @@
 {
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
-  "last_updated": "2026-05-14",
+  "last_updated": "2026-05-15",
   "dividends": {
     "ASCENCIA": [
       {
@@ -682,6 +682,20 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/9367/2023-11-14_enl_communique_interim-dividend_30-june-2024-ma231107-7.pdf",
           "announcement_date": "2023-11-14",
           "extracted_at": "2025-12-14T09:14:34.376849Z"
+        }
+      },
+      {
+        "payment_date": "2026-07-10",
+        "ex_dividend_date": "2026-06-01",
+        "type": "final",
+        "amount_per_share": 0.06,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2026-05-14",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12458/2026-05-14_almarys_communique_final-dividend_30-june-2026-lr260513-40.pdf",
+          "announcement_date": "2026-05-14",
+          "extracted_at": "2026-05-15T06:00:15.480976Z"
         }
       }
     ],
@@ -1423,6 +1437,34 @@
           "announcement_date": "2024-05-14",
           "extracted_at": "2025-12-14T10:05:21.551094Z"
         }
+      },
+      {
+        "payment_date": "2026-07-08",
+        "ex_dividend_date": "2026-06-08",
+        "type": "interim",
+        "amount_per_share": 11.0,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2026-05-14",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12469/mcb-group-ltd-communique-ordinary-shares-dividend.pdf",
+          "announcement_date": "2026-05-14",
+          "extracted_at": "2026-05-15T06:00:25.100523Z"
+        }
+      },
+      {
+        "payment_date": "2026-06-30",
+        "ex_dividend_date": "2026-05-29",
+        "type": "other",
+        "amount_per_share": 0.235,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2026-05-14",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12470/mcb-group-ltd-communique-preference-shares-dividend.pdf",
+          "announcement_date": "2026-05-14",
+          "extracted_at": "2026-05-15T06:00:32.697003Z"
+        }
       }
     ],
     "MDIT": [
@@ -1452,6 +1494,20 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/9950/1552024mdit.pdf",
           "announcement_date": "2024-05-16",
           "extracted_at": "2025-12-14T10:05:36.576021Z"
+        }
+      },
+      {
+        "payment_date": "2026-09-21",
+        "ex_dividend_date": "2026-08-27",
+        "type": "other",
+        "amount_per_share": 0.11,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2026-05-14",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12478/20260514-mdit-dividend-declaration.pdf",
+          "announcement_date": "2026-05-15",
+          "extracted_at": "2026-05-15T06:00:39.066460Z"
         }
       }
     ],
@@ -2463,6 +2519,20 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/9891/14052024udl.pdf",
           "announcement_date": "2024-05-14",
           "extracted_at": "2025-12-14T10:12:04.298925Z"
+        }
+      },
+      {
+        "payment_date": "2026-06-19",
+        "ex_dividend_date": "2026-05-29",
+        "type": "other",
+        "amount_per_share": 5.0,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2026-05-14",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12471/udl-20260514-communique-dividend.pdf",
+          "announcement_date": "2026-05-14",
+          "extracted_at": "2026-05-15T06:00:54.058077Z"
         }
       }
     ],
