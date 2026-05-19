@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-18T06:20:16.562130Z",
+  "lastUpdated": "2026-05-19T06:14:42.052778Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -6428,7 +6428,7 @@
         "type": "Financial Statement",
         "originalType": "Financial Statements",
         "date": "2026-05-14",
-        "url": "https://www.stockexchangeofmauritius.com/media/12457/gh26074-omnicane-unaudited-abridged-endedmar2026-dps-540x315mm-v3.pdf"
+        "url": "https://www.stockexchangeofmauritius.com/media/12457/omnicane-unaudited-abridged-31-march-2026-18052026.pdf"
       },
       {
         "type": "Financial Statement",
@@ -11323,6 +11323,12 @@
         "originalType": "Communique",
         "date": "2026-04-09",
         "url": "https://www.stockexchangeofmauritius.com/media/12326/novus-properties-cautionary-announcement-09042026.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-05-18",
+        "url": "https://www.stockexchangeofmauritius.com/media/12511/novus-properties-ltd-condensed-accounts-31032026-f-for-publication.pdf"
       },
       {
         "type": "Financial Statement",
