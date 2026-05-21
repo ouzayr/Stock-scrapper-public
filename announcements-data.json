@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T06:14:42.852821Z",
+  "lastUpdated": "2026-05-21T06:17:02.058099Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -505,6 +505,24 @@
         "originalType": "Financial Statements",
         "date": "2025-03-29",
         "url": "https://www.stockexchangeofmauritius.com/media/11068/africa-eats-ltd-abridged-audited-fs-2024-2025-03-28.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "SEM Communique",
+        "date": "2026-05-20",
+        "url": "https://www.stockexchangeofmauritius.com/media/12513/ae-esos-sem-communique.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-05-20",
+        "url": "https://www.stockexchangeofmauritius.com/media/12514/africa-eats_notice-of-agm_april-2026_announcement_final.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-05-20",
+        "url": "https://www.stockexchangeofmauritius.com/media/12516/ae-annual-meeting-notice-and-agenda_final.pdf"
       },
       {
         "type": "Financial Statement",
@@ -3327,7 +3345,7 @@
         "type": "Financial Statement",
         "originalType": "Financial Statements",
         "date": "2026-05-15",
-        "url": "https://www.stockexchangeofmauritius.com/media/12484/gamma-civic-ltd-abridged-unaudited-financial-statement-for-the-quarter-31-mar-26.pdf"
+        "url": "https://www.stockexchangeofmauritius.com/media/12484/gamma-civic-abridged-q1_mar26-21052026.pdf"
       },
       {
         "type": "Financial Statement",
