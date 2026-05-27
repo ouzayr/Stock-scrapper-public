@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T06:13:47.112007Z",
+  "lastUpdated": "2026-05-27T06:27:15.981954Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -7337,6 +7337,12 @@
       {
         "type": "Other",
         "originalType": "Communique",
+        "date": "2026-05-27",
+        "url": "https://www.stockexchangeofmauritius.com/media/12522/psg-fs-sens-director-dealing_2026_27may.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
         "date": "2026-05-26",
         "url": "https://www.stockexchangeofmauritius.com/media/12518/psg-financial-services-ir-sens_fy2026.pdf"
       },
@@ -7923,6 +7929,12 @@
         "originalType": "Financial Statements",
         "date": "2024-02-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9605/13022024sun.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-05-26",
+        "url": "https://www.stockexchangeofmauritius.com/media/12519/2026-05-26-sun-dividend-notice.pdf"
       },
       {
         "type": "Other",
