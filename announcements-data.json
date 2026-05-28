@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T06:27:15.981954Z",
+  "lastUpdated": "2026-05-28T06:18:57.369932Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -7339,6 +7339,12 @@
         "originalType": "Communique",
         "date": "2026-05-27",
         "url": "https://www.stockexchangeofmauritius.com/media/12522/psg-fs-sens-director-dealing_2026_27may.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-05-27",
+        "url": "https://www.stockexchangeofmauritius.com/media/12523/psg-financial-services-sens-bee-annual-compliance_27may_16hrs.pdf"
       },
       {
         "type": "Other",
