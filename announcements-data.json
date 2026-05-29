@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T06:18:57.369932Z",
+  "lastUpdated": "2026-05-29T06:20:22.897406Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -4873,6 +4873,12 @@
       {
         "type": "Other",
         "originalType": "Communique",
+        "date": "2026-05-29",
+        "url": "https://www.stockexchangeofmauritius.com/media/12526/mcfi-cautionary-announcement-disclosable-transaction.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
         "date": "2026-04-16",
         "url": "https://www.stockexchangeofmauritius.com/media/12339/mcfi-announcement-gm.pdf"
       },
@@ -9716,6 +9722,12 @@
       },
       {
         "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-05-29",
+        "url": "https://www.stockexchangeofmauritius.com/media/12528/chsl-agm-notice.pdf"
+      },
+      {
+        "type": "Other",
         "originalType": "Communique",
         "date": "2025-12-29",
         "url": "https://www.stockexchangeofmauritius.com/media/12092/chsl-communique-29-december-2025.pdf"
@@ -10061,6 +10073,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-10",
         "url": "https://www.stockexchangeofmauritius.com/media/9294/10112023hl.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-05-29",
+        "url": "https://www.stockexchangeofmauritius.com/media/12527/hotelest-2026-notice_final.pdf"
       },
       {
         "type": "Financial Statement",
@@ -12695,6 +12713,12 @@
         "originalType": "Communique",
         "date": "2023-11-28",
         "url": "https://www.stockexchangeofmauritius.com/media/9435/hm-communique_nov-2023.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-05-29",
+        "url": "https://www.stockexchangeofmauritius.com/media/12529/harel-mallac_audited_fs_28526.pdf"
       },
       {
         "type": "Financial Statement",
