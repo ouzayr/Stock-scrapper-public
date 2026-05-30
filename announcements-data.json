@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T06:20:22.897406Z",
+  "lastUpdated": "2026-05-30T05:53:36.053793Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -2986,6 +2986,12 @@
         "originalType": "Financial Statements",
         "date": "2024-08-09",
         "url": "https://www.stockexchangeofmauritius.com/media/10166/emtel-abridged-unaudited-fs-q2-24.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-05-29",
+        "url": "https://www.stockexchangeofmauritius.com/media/12530/emtel-annual-meeting-notice-2026.pdf"
       },
       {
         "type": "Dividend",
@@ -8265,6 +8271,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9326/13112023terra.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-05-29",
+        "url": "https://www.stockexchangeofmauritius.com/media/12531/ter-2026-05-29-communiqué-29052026.pdf"
       },
       {
         "type": "Other",
