@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T05:53:36.053793Z",
+  "lastUpdated": "2026-05-31T06:25:01.082020Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -7697,6 +7697,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9327/13112023sbm.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-05-30",
+        "url": "https://www.stockexchangeofmauritius.com/media/12532/sbmh-communique-6.pdf"
       },
       {
         "type": "Other",
