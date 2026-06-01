@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T06:25:01.082020Z",
+  "lastUpdated": "2026-06-01T07:04:06.431248Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -1794,6 +1794,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9390/15112023bml.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-01",
+        "url": "https://www.stockexchangeofmauritius.com/media/12534/10498-actvest-bml-annual-meeting-notice.pdf"
       },
       {
         "type": "Other",
@@ -7085,6 +7091,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9331/14112023policyfs.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-01",
+        "url": "https://www.stockexchangeofmauritius.com/media/12535/policy-notice-am26-19jun26.pdf"
       },
       {
         "type": "Other",
@@ -12687,6 +12699,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-08",
         "url": "https://www.stockexchangeofmauritius.com/media/9252/08112023velo.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-06-01",
+        "url": "https://www.stockexchangeofmauritius.com/media/12533/2026-06-01_velogic-holding-company-limited_notice_declaration-of-final-dividend.pdf"
       },
       {
         "type": "Financial Statement",
