@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T07:04:06.431248Z",
+  "lastUpdated": "2026-06-02T06:47:24.687197Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -8995,6 +8995,24 @@
       {
         "type": "Other",
         "originalType": "Communique",
+        "date": "2026-06-01",
+        "url": "https://www.stockexchangeofmauritius.com/media/12538/zhl_notice-of-agm_may-2026_announcement.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "SEM Communique",
+        "date": "2026-06-01",
+        "url": "https://www.stockexchangeofmauritius.com/media/12539/ziweto-dsos-sem-communique.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-01",
+        "url": "https://www.stockexchangeofmauritius.com/media/12540/ziweto-holdings-limited_agm-notice_29-may-2026_final.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
         "date": "2026-03-31",
         "url": "https://www.stockexchangeofmauritius.com/media/12294/zhl-extension-communique-fy-31-dec-2025.pdf"
       },
@@ -9553,6 +9571,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9324/13112023cil.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-06-01",
+        "url": "https://www.stockexchangeofmauritius.com/media/12541/cil-cautionary-announcement-01-june-2026.pdf"
       },
       {
         "type": "Financial Statement",
