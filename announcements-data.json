@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T06:47:24.687197Z",
+  "lastUpdated": "2026-06-03T06:59:08.974820Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -2866,6 +2866,24 @@
         "url": "https://www.stockexchangeofmauritius.com/media/11356/elite-meat-processors-limited-results-announcement-qe-31-mar-2025.pdf"
       },
       {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-06-02",
+        "url": "https://www.stockexchangeofmauritius.com/media/12543/emp_notice-of-agm_announcement_02062026.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-02",
+        "url": "https://www.stockexchangeofmauritius.com/media/12544/elite-meat-processors-limited_agm-notice.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "SEM Communique",
+        "date": "2026-06-02",
+        "url": "https://www.stockexchangeofmauritius.com/media/12545/elite-meat-dsos-sem-communique.pdf"
+      },
+      {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
         "date": "2026-05-12",
@@ -4881,6 +4899,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-16",
         "url": "https://www.stockexchangeofmauritius.com/media/9395/14112023mcfi.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-06-02",
+        "url": "https://www.stockexchangeofmauritius.com/media/12546/mcfi-cautionary-announcement-substantial-2-june-2026.pdf"
       },
       {
         "type": "Other",
