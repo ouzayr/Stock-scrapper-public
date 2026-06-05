@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T06:48:35.232908Z",
+  "lastUpdated": "2026-06-05T06:28:55.371433Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -1274,6 +1274,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9384/15112023asl.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-06-05",
+        "url": "https://www.stockexchangeofmauritius.com/media/12553/asl-cautionary-announcement-may-26.pdf"
       },
       {
         "type": "Financial Statement",
@@ -4108,6 +4114,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9308/13112023iblf.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-06-05",
+        "url": "https://www.stockexchangeofmauritius.com/media/12552/ibl-dividend-div-announcement-05062026.pdf"
       },
       {
         "type": "Other",
