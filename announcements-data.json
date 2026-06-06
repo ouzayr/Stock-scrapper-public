@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T06:28:55.371433Z",
+  "lastUpdated": "2026-06-06T06:00:08.088981Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -7397,6 +7397,12 @@
       {
         "type": "Other",
         "originalType": "Communique",
+        "date": "2026-06-05",
+        "url": "https://www.stockexchangeofmauritius.com/media/12556/psg-fs-sens-dealing-in-shares_5june-2026_final.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
         "date": "2026-05-27",
         "url": "https://www.stockexchangeofmauritius.com/media/12522/psg-fs-sens-director-dealing_2026_27may.pdf"
       },
@@ -11901,6 +11907,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9328/13112023qbl.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-05",
+        "url": "https://www.stockexchangeofmauritius.com/media/12555/qbl-notice-of-annual-meeting-2026.pdf"
       },
       {
         "type": "Dividend",
