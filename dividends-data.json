@@ -1,7 +1,7 @@
 {
   "comment": "Dividend payment history for stocks. Update as dividends are announced/paid.",
   "version": "1.0.0",
-  "last_updated": "2026-06-07",
+  "last_updated": "2026-06-08",
   "dividends": {
     "ASCENCIA": [
       {
@@ -3953,6 +3953,20 @@
           "announcement_url": "https://www.stockexchangeofmauritius.com/media/9318/13112023rht3.pdf",
           "announcement_date": "2023-11-13",
           "extracted_at": "2025-12-14T10:18:46.228046Z"
+        }
+      },
+      {
+        "payment_date": "2026-07-15",
+        "ex_dividend_date": "2026-06-23",
+        "type": "final",
+        "amount_per_share": 0.45,
+        "currency": "MUR",
+        "year": 2026,
+        "published": "2026-06-08",
+        "_source": {
+          "announcement_url": "https://www.stockexchangeofmauritius.com/media/12557/rht-dividend-declaration-30062026.pdf",
+          "announcement_date": "2026-06-08",
+          "extracted_at": "2026-06-08T06:51:00.100141Z"
         }
       }
     ],

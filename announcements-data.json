@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T06:31:09.501578Z",
+  "lastUpdated": "2026-06-08T06:50:54.381502Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -2336,6 +2336,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9303/13112023bmh.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-08",
+        "url": "https://www.stockexchangeofmauritius.com/media/12558/bmh-agm-2026-notice.pdf"
       },
       {
         "type": "Financial Statement",
@@ -9719,6 +9725,12 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9319/13112023cacc.pdf"
       },
       {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-08",
+        "url": "https://www.stockexchangeofmauritius.com/media/12559/clg-agm-2026-notice.pdf"
+      },
+      {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
         "date": "2026-05-11",
@@ -12053,6 +12065,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9317/13112023rht2.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-06-08",
+        "url": "https://www.stockexchangeofmauritius.com/media/12557/rht-dividend-declaration-30062026.pdf"
       },
       {
         "type": "Financial Statement",
