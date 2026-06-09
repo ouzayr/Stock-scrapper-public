@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T06:50:54.381502Z",
+  "lastUpdated": "2026-06-09T06:15:31.217916Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -2200,6 +2200,12 @@
       {
         "type": "Other",
         "originalType": "Communique",
+        "date": "2026-06-08",
+        "url": "https://www.stockexchangeofmauritius.com/media/12561/bluelife-communique-first-conversion-window-bonds-2026-06-08.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
         "date": "2026-05-15",
         "url": "https://www.stockexchangeofmauritius.com/media/12499/bloomage-ltd-public-announcement-re-outcome-of-the-offer.pdf"
       },
@@ -3378,6 +3384,12 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9334/14112023gcl.pdf"
       },
       {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-09",
+        "url": "https://www.stockexchangeofmauritius.com/media/12565/gamma-civic-ltd-notice-of-annual-meeting-29-june-2026.pdf"
+      },
+      {
         "type": "Dividend",
         "originalType": "Declaration of Dividend",
         "date": "2026-03-31",
@@ -4373,6 +4385,12 @@
       },
       {
         "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-09",
+        "url": "https://www.stockexchangeofmauritius.com/media/12566/lottotech-ltd-notice-of-annual-meeting-29-june-2026.pdf"
+      },
+      {
+        "type": "Other",
         "originalType": "Communique",
         "date": "2026-05-11",
         "url": "https://www.stockexchangeofmauritius.com/media/12403/2026-05-11-lottotech-ltd-communique-share-buy-back.pdf"
@@ -4806,6 +4824,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9361/14112023mcb1.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-06-08",
+        "url": "https://www.stockexchangeofmauritius.com/media/12560/group26_06001321_mcbgroup_preference_shares_communique_sem_f.pdf"
       },
       {
         "type": "Dividend",
@@ -10403,6 +10427,12 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9290/10112023kcl.pdf"
       },
       {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-09",
+        "url": "https://www.stockexchangeofmauritius.com/media/12563/kolos-cement-ltd-notice-of-annual-meeting-29-june-2026.pdf"
+      },
+      {
         "type": "Dividend",
         "originalType": "Declaration of Dividend",
         "date": "2026-03-13",
@@ -11203,6 +11233,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-10",
         "url": "https://www.stockexchangeofmauritius.com/media/9293/10112023ml.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-09",
+        "url": "https://www.stockexchangeofmauritius.com/media/12564/morning-light-co-ltd-notice-newspaper.pdf"
       },
       {
         "type": "Financial Statement",
