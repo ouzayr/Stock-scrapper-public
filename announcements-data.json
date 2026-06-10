@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T06:15:31.217916Z",
+  "lastUpdated": "2026-06-10T06:29:55.970506Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -4944,6 +4944,12 @@
       },
       {
         "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-09",
+        "url": "https://www.stockexchangeofmauritius.com/media/12568/mcfi-2025-notice-agm.pdf"
+      },
+      {
+        "type": "Other",
         "originalType": "Communique",
         "date": "2026-06-02",
         "url": "https://www.stockexchangeofmauritius.com/media/12546/mcfi-cautionary-announcement-substantial-2-june-2026.pdf"
@@ -9291,6 +9297,12 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9381/15112023acc.pdf"
       },
       {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-06-09",
+        "url": "https://www.stockexchangeofmauritius.com/media/12570/01dividend-notice-acc.pdf"
+      },
+      {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
         "date": "2026-05-14",
@@ -9649,6 +9661,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9324/13112023cil.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-09",
+        "url": "https://www.stockexchangeofmauritius.com/media/12569/cil-notice-agm-30062026.pdf"
       },
       {
         "type": "Other",
@@ -10095,6 +10113,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9349/14112023lgi1.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-06-10",
+        "url": "https://www.stockexchangeofmauritius.com/media/12572/lgi-sem-announcement-dominique-desvaux-june-2026.pdf"
       },
       {
         "type": "Other",
@@ -11429,6 +11453,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9382/15112023msi.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-06-09",
+        "url": "https://www.stockexchangeofmauritius.com/media/12571/01dividend-notice-msi.pdf"
       },
       {
         "type": "Financial Statement",
@@ -12852,6 +12882,12 @@
       }
     ],
     "H. MALLAC": [
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-09",
+        "url": "https://www.stockexchangeofmauritius.com/media/12567/hm-2025-notice.pdf"
+      },
       {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
