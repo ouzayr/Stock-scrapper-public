@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T06:29:55.970506Z",
+  "lastUpdated": "2026-06-11T06:55:55.787537Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -6989,6 +6989,12 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9297/pim-limited-results-announcement-30-sep-2023.pdf"
       },
       {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-06-11",
+        "url": "https://www.stockexchangeofmauritius.com/media/12576/pim-limited-change-in-dividend-payment-date-announcement.pdf"
+      },
+      {
         "type": "Dividend",
         "originalType": "Declaration of Dividend",
         "date": "2026-04-30",
@@ -8277,6 +8283,12 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9236/06112023tad.pdf"
       },
       {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-11",
+        "url": "https://www.stockexchangeofmauritius.com/media/12577/tadvest-notice-of-annual-meeting-10-jun-26.pdf"
+      },
+      {
         "type": "Financial Statement",
         "originalType": "Financial Statements",
         "date": "2026-05-15",
@@ -9515,6 +9527,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9360/sct-abridged-_-qr-30-sept-2023-amended.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-10",
+        "url": "https://www.stockexchangeofmauritius.com/media/12575/20260629-bvh-notice-of-agm-2026-for-publication.pdf"
       },
       {
         "type": "Financial Statement",
