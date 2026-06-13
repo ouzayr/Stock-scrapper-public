@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-12T06:47:45.527206Z",
+  "lastUpdated": "2026-06-13T06:22:23.593035Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -4824,6 +4824,18 @@
         "originalType": "Financial Statements",
         "date": "2023-11-14",
         "url": "https://www.stockexchangeofmauritius.com/media/9361/14112023mcb1.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-06-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12580/mcb-group-ltd-scrip-dividend-scheme-communique-12-june-2026.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "SEM Communique",
+        "date": "2026-06-12",
+        "url": "https://www.stockexchangeofmauritius.com/media/12581/sem-communique-mcbg.pdf"
       },
       {
         "type": "Other",
