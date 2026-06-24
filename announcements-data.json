@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T06:13:28.282964Z",
+  "lastUpdated": "2026-06-24T06:13:15.335103Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -2882,6 +2882,18 @@
         "originalType": "Financial Statements",
         "date": "2025-05-30",
         "url": "https://www.stockexchangeofmauritius.com/media/11356/elite-meat-processors-limited-results-announcement-qe-31-mar-2025.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "SEM Communique",
+        "date": "2026-06-24",
+        "url": "https://www.stockexchangeofmauritius.com/media/12603/emp-sem-communique-further-issue.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-06-24",
+        "url": "https://www.stockexchangeofmauritius.com/media/12604/emp-renewal-of-lp-announcement_23062026.pdf"
       },
       {
         "type": "Other",
@@ -9117,6 +9129,18 @@
         "originalType": "Financial Statements",
         "date": "2025-03-29",
         "url": "https://www.stockexchangeofmauritius.com/media/11067/ziweto-holdings-limited-abridged-audited-fs-2024-2025-03-28.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "SEM Communique",
+        "date": "2026-06-24",
+        "url": "https://www.stockexchangeofmauritius.com/media/12599/ziweto-sem-communique-further-issue.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-06-24",
+        "url": "https://www.stockexchangeofmauritius.com/media/12600/zhl-announcement_renewal-of-lp_24062026.pdf"
       },
       {
         "type": "Other",
