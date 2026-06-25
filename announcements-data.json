@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T06:13:15.335103Z",
+  "lastUpdated": "2026-06-25T06:13:13.410981Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -5981,6 +5981,12 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9286/10112023nmhf.pdf"
       },
       {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-06-24",
+        "url": "https://www.stockexchangeofmauritius.com/media/12606/20260624_nmh-cautionary-announcement.pdf"
+      },
+      {
         "type": "Dividend",
         "originalType": "Declaration of Dividend",
         "date": "2026-05-11",
@@ -6167,6 +6173,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-10",
         "url": "https://www.stockexchangeofmauritius.com/media/9286/10112023nmhf.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-06-24",
+        "url": "https://www.stockexchangeofmauritius.com/media/12606/20260624_nmh-cautionary-announcement.pdf"
       },
       {
         "type": "Dividend",
@@ -7474,6 +7486,18 @@
       },
       {
         "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-24",
+        "url": "https://www.stockexchangeofmauritius.com/media/12608/psg-financial-services-sens-notice-d2-22-06-26_sh-clean.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-24",
+        "url": "https://www.stockexchangeofmauritius.com/media/12609/psg_annual_notice_of_agm_2026_19827_20260618_v05c_es_16h16.pdf"
+      },
+      {
+        "type": "Other",
         "originalType": "Communique",
         "date": "2026-06-05",
         "url": "https://www.stockexchangeofmauritius.com/media/12556/psg-fs-sens-dealing-in-shares_5june-2026_final.pdf"
@@ -8659,6 +8683,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-13",
         "url": "https://www.stockexchangeofmauritius.com/media/9304/13112023ubp.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-06-24",
+        "url": "https://www.stockexchangeofmauritius.com/media/12607/ubp-cautionary-announcement-24062026.pdf"
       },
       {
         "type": "Financial Statement",
