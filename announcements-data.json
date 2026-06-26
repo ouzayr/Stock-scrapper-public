@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T06:13:13.410981Z",
+  "lastUpdated": "2026-06-26T06:17:05.440610Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -12763,6 +12763,12 @@
         "url": "https://www.stockexchangeofmauritius.com/media/9312/13112023use.pdf"
       },
       {
+        "type": "Other",
+        "originalType": "Notice of shareholder meeting",
+        "date": "2026-06-10",
+        "url": "https://www.stockexchangeofmauritius.com/media/12612/notice-of-agm-2026-amended-ag.docx"
+      },
+      {
         "type": "Dividend",
         "originalType": "Declaration of Dividend",
         "date": "2025-12-16",
@@ -13019,6 +13025,12 @@
         "originalType": "Communique",
         "date": "2023-11-28",
         "url": "https://www.stockexchangeofmauritius.com/media/9435/hm-communique_nov-2023.pdf"
+      },
+      {
+        "type": "Financial Statement",
+        "originalType": "Financial Statements",
+        "date": "2026-06-25",
+        "url": "https://www.stockexchangeofmauritius.com/media/12613/harel-mallac-condensed-q1-2026-24062026.pdf"
       },
       {
         "type": "Financial Statement",
