@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T06:17:05.440610Z",
+  "lastUpdated": "2026-06-27T05:59:01.871900Z",
   "entities": {
     "ABCB HOLDINGS": [
       {
@@ -956,6 +956,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-15",
         "url": "https://www.stockexchangeofmauritius.com/media/9377/15112023alte.pdf"
+      },
+      {
+        "type": "Dividend",
+        "originalType": "Declaration of Dividend",
+        "date": "2026-06-26",
+        "url": "https://www.stockexchangeofmauritius.com/media/12614/alteo-limited-dividend-announcement.pdf"
       },
       {
         "type": "Financial Statement",
@@ -10447,6 +10453,12 @@
         "originalType": "Financial Statements",
         "date": "2023-11-09",
         "url": "https://www.stockexchangeofmauritius.com/media/9264/09112023hpw.pdf"
+      },
+      {
+        "type": "Other",
+        "originalType": "Communique",
+        "date": "2026-06-26",
+        "url": "https://www.stockexchangeofmauritius.com/media/12616/hwp-communique-disposal-of-hwh-fv.pdf"
       },
       {
         "type": "Financial Statement",
